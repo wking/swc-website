@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1698
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Badge of Reproducibility
 Tags: community, noticed, opinion
 

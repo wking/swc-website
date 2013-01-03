@@ -1,5 +1,5 @@
 Post_Id: 4831
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Halifax in July
 Tags: boot-camp, venues/saint-marys-university, versions/version-5-0
 

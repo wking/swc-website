@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5213
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Twenty Percent
 Tags: opinion
 

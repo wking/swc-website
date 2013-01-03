@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4728
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Titus Brown Finds a Theme
 Tags: noticed
 

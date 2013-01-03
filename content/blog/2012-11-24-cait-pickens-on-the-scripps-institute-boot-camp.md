@@ -1,5 +1,5 @@
 Post_Id: 5135
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Cait Pickens on the Scripps Institute Boot Camp
 Tags: boot-camp, venues/scripps-institute
 

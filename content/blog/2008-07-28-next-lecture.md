@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1704
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Next Lecture?
 Tags: content, lectures, versions/version-3
 

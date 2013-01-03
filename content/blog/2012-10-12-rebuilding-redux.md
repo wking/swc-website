@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5172
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Rebuilding Redux
 Tags: content, opinion, tooling
 

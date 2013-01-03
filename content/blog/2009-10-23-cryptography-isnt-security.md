@@ -1,5 +1,5 @@
 Post_Id: 2595
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Cryptography Isn't Security
 Tags: content, versions/version-4
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4669
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What's the Model, Kenneth?
 Tags: opinion
 

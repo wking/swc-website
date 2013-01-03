@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4936
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Pessimism and Doom
 Tags: opinion
 

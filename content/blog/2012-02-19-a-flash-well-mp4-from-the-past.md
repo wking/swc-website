@@ -1,5 +1,5 @@
 Post_Id: 4581
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Flash (well, MP4) from the Past
 Tags: content, versions/version-3
 

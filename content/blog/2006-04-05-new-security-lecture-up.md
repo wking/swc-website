@@ -1,5 +1,5 @@
 Post_Id: 432
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Security Lecture Up
 Tags: lectures, versions/version-3
 

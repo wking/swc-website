@@ -1,5 +1,5 @@
 Post_Id: 3554
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Five Episodes on the Shell (and Three to Come)
 Tags: content
 

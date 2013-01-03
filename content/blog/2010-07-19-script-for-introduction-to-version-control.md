@@ -1,5 +1,5 @@
 Post_Id: 3484
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Script for Introduction to Version Control
 Tags: lectures, versions/version-4
 

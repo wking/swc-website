@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4356
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Show Me the Data
 Tags: opinion, research
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5305
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Who Wants To Write a Little Code?
 Tags: community, tooling
 

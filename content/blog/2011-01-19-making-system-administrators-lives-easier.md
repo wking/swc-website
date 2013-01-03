@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3951
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Making System Administrators' Lives Easier
 Tags: noticed, opinion
 

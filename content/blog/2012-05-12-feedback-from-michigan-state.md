@@ -1,5 +1,5 @@
 Post_Id: 4801
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Feedback from Michigan State
 Tags: boot-camp, venues/michigan-state
 

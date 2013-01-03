@@ -1,5 +1,5 @@
 Post_Id: 3306
-Author_Id: pipitone.j
+Author: Jon Pipitone
 Title: Day 7: Mini-screencasts
 Tags: content, versions/version-4
 

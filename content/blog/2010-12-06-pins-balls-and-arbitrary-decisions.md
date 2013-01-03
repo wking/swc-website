@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3818
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Pins, Balls, and Arbitrary Decisions
 Tags: content
 

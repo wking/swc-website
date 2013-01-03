@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3814
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Prerequisites (or, When to Say No)
 Tags: content
 

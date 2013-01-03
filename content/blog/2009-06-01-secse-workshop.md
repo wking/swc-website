@@ -1,5 +1,5 @@
 Post_Id: 2361
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SECSE Workshop
 Tags: community, content, noticed, research
 

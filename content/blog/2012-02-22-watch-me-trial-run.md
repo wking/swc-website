@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4603
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Watch Me: Trial Run
 Tags: content, versions/version-5-0
 

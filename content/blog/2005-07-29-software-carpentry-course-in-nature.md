@@ -1,5 +1,5 @@
 Post_Id: 259
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry course in Nature
 Tags: community, versions/version-3
 

@@ -1,5 +1,5 @@
 Post_Id: 3975
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Notes Toward a Lecture on High-Performance Computing
 Tags: content, versions/version-4
 

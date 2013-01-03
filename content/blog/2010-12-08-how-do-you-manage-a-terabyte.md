@@ -1,5 +1,5 @@
 Post_Id: 3827
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Do You Manage a Terabyte?
 Tags: content
 

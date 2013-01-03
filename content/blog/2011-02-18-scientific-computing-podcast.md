@@ -1,5 +1,5 @@
 Post_Id: 4036
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Scientific Computing Podcast
 Tags: community, noticed
 

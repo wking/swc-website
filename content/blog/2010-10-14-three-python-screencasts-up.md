@@ -1,5 +1,5 @@
 Post_Id: 3681
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three Python Screencasts Up
 Tags: content, versions/version-4
 

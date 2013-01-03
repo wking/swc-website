@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4338
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Ladder of Abstraction and the Future of Online Teaching
 Tags: opinion
 

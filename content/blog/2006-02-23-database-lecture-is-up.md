@@ -1,5 +1,5 @@
 Post_Id: 396
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Database Lecture is Up
 Tags: lectures, versions/version-3
 

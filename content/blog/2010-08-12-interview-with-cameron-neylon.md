@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3527
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview with Cameron Neylon
 Tags: interviews
 

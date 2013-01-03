@@ -1,5 +1,5 @@
 Post_Id: 4793
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Boot Camp in Boston, July 9-10
 Tags: boot-camp, venues/boston
 

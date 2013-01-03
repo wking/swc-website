@@ -1,5 +1,5 @@
 Post_Id: 2327
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Scientists Use Computers: Survey Part 2
 Tags: community, content, research
 

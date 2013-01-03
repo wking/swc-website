@@ -1,5 +1,5 @@
 Post_Id: 1359
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SciBarCamp in Toronto March 15-16
 Tags: community, noticed
 

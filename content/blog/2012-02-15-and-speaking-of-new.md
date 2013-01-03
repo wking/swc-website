@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4559
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: And Speaking of New...
 Tags: noticed
 

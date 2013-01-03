@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5361
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What To Work On In 2013
 Tags: community, versions/version-5-0
 

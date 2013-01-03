@@ -1,5 +1,5 @@
 Post_Id: 4043
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three More Episodes on MATLAB
 Tags: content, versions/version-4
 

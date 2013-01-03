@@ -1,5 +1,5 @@
 Post_Id: 4859
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Feedback from the University of British Columbia
 Tags: boot-camp, venues/university-of-british-columba, versions/version-5-0
 

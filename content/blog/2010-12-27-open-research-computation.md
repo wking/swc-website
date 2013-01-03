@@ -1,5 +1,5 @@
 Post_Id: 3871
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Open Research Computation
 Tags: community, noticed, research
 

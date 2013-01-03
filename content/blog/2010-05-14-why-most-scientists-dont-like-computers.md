@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3311
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Most Scientists Don't Like Computers
 Tags: opinion
 

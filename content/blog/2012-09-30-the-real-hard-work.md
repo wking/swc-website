@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5124
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Real Hard Work
 Tags: education, opinion
 

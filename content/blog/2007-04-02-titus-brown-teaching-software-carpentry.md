@@ -1,5 +1,5 @@
 Post_Id: 899
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Titus Brown Teaching Software Carpentry
 Tags: venues/llnl, lectures, versions/version-3
 

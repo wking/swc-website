@@ -1,5 +1,5 @@
 Post_Id: 4548
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our New Look
 Tags: content, versions/version-5-0
 

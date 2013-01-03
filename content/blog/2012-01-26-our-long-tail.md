@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4433
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our Long Tail
 Tags: noticed
 

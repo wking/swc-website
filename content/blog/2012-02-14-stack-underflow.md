@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4556
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Stack Underflow?
 Tags: community, education, versions/version-5-0
 

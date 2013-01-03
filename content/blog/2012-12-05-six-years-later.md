@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5326
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Six Years Later
 Tags: community
 

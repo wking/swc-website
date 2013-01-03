@@ -1,5 +1,5 @@
 Post_Id: 2303
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Firming Up Course Goals
 Tags: content, versions/version-3
 

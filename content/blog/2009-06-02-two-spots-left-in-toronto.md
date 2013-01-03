@@ -1,5 +1,5 @@
 Post_Id: 2368
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two Spots Left in Toronto
 Tags: venues/university-of-toronto, versions/version-3
 

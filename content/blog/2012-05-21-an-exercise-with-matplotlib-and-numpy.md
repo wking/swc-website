@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4835
-Author_Id: hansen.m
+Author: Michael Hansen
 Title: An Exercise With Matplotlib and Numpy
 Tags: tutorial
 

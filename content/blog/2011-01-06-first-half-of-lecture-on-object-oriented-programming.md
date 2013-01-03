@@ -1,5 +1,5 @@
 Post_Id: 3881
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Half of Lecture on Object-Oriented Programming
 Tags: content, versions/version-4
 

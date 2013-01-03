@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3723
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Dubois on Maintaining Correctness
 Tags: content
 

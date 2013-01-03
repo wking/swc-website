@@ -1,5 +1,5 @@
 Post_Id: 3626
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Do You Use Software Carpentry?
 Tags: community
 

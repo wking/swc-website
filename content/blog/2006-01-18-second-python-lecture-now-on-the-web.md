@@ -1,5 +1,5 @@
 Post_Id: 356
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Second Python Lecture Now on the Web
 Tags: lectures, versions/version-3
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3378
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: SHARCNET's Hugh Couchman
 Tags: interviews, sponsors/sharcnet, sponsors
 

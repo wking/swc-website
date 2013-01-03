@@ -1,5 +1,5 @@
 Post_Id: 5122
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Workshop at the University of Newcastle in October
 Tags: boot-camp
 

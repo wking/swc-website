@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 457
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Zipf's Law of Feedback
 Tags: content, versions/version-3
 

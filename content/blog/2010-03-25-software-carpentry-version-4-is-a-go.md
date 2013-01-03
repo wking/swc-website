@@ -1,5 +1,5 @@
 Post_Id: 2741
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Version 4 is a Go!
 Tags: versions/version-4
 

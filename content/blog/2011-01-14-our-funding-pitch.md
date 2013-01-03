@@ -1,5 +1,5 @@
 Post_Id: 3937
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our Funding Pitch
 Tags: sponsors
 

@@ -1,5 +1,5 @@
 Post_Id: 346
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Shell Lecture for Software Carpentry is Up
 Tags: lectures, versions/version-3
 

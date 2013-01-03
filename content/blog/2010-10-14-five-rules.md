@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3635
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Five Rules for Computational Scientists
 Tags: opinion
 

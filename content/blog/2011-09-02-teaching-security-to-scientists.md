@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4261
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Teaching Security to Scientists
 Tags: content
 

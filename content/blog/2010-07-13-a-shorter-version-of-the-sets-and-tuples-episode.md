@@ -1,5 +1,5 @@
 Post_Id: 3464
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Shorter Version of the Sets and Tuples Episode
 Tags: lectures, versions/version-4
 

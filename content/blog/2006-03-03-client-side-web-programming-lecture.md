@@ -1,5 +1,5 @@
 Post_Id: 407
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Client-Side Web Programming Lecture
 Tags: lectures, versions/version-3
 

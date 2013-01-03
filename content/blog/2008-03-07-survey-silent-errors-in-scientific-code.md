@@ -1,5 +1,5 @@
 Post_Id: 1420
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Survey: Silent Errors in Scientific Code
 Tags: community, research
 

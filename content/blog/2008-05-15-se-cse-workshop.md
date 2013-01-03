@@ -1,5 +1,5 @@
 Post_Id: 1557
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SE-CSE Workshop
 Tags: community, content, research
 

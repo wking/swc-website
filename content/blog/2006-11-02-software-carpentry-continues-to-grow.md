@@ -1,5 +1,5 @@
 Post_Id: 706
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry continues to grow
 Tags: community, sponsors/enthought, versions/version-3
 

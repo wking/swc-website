@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3716
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: ComputerWorld Canada Educator of the Year
 Tags: community
 

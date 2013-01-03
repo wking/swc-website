@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1694
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Quick Quiz to Measure What Scientists Know
 Tags: content, research
 

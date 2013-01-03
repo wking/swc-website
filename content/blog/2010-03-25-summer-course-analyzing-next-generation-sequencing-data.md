@@ -1,5 +1,5 @@
 Post_Id: 2736
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Summer Course: Analyzing Next-Generation Sequencing Data
 Tags: venues/michigan-state, noticed, versions/version-4
 

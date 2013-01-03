@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 334
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Procrastination: One of the Few Things in Life Nicer Than Toast
 Tags: tooling, versions/version-3
 

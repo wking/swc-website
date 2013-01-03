@@ -1,5 +1,5 @@
 Post_Id: 1949
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A New Kind of Big Science
 Tags: noticed
 

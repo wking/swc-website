@@ -1,5 +1,5 @@
 Post_Id: 4154
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Hacker Within at MSU in June
 Tags: community, venues/michigan-state
 

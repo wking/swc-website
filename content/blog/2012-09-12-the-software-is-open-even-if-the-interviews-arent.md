@@ -1,5 +1,5 @@
 Post_Id: 5096
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Software Is Open (even if the interviews aren't)
 Tags: noticed
 

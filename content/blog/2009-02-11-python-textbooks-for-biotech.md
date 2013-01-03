@@ -1,5 +1,5 @@
 Post_Id: 2025
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Python Textbooks for Biotech
 Tags: community, content, noticed
 

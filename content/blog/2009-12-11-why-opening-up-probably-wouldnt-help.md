@@ -1,5 +1,5 @@
 Post_Id: 2630
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Opening Up (Probably) Wouldn't Help
 Tags: noticed
 

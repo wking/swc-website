@@ -1,5 +1,5 @@
 Post_Id: 4667
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our Indiana U Workshop Went Well
 Tags: venues/indiana-university, versions/version-5-0
 

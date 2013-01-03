@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4518
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why We Don't Teach Parallel Computing in Software Carpentry
 Tags: education, opinion
 

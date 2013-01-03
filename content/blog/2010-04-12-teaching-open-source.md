@@ -1,5 +1,5 @@
 Post_Id: 2828
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Teaching Open Source
 Tags: noticed, opinion
 

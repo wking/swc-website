@@ -1,5 +1,5 @@
 Post_Id: 3687
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Six More Python Episodes
 Tags: content, versions/version-4
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5209
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Getting Credit
 Tags: community
 

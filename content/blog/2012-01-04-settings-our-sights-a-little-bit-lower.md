@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4384
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Settings Our Sights a Little Bit Lower
 Tags: education
 

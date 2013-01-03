@@ -1,5 +1,5 @@
 Post_Id: 3326
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Who Reports On The Other 97 Per Cent?
 Tags: noticed, opinion, research
 

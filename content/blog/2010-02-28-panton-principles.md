@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2669
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Panton Principles
 Tags: noticed
 

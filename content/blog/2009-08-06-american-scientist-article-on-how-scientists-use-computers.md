@@ -1,5 +1,5 @@
 Post_Id: 2500
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: American Scientist Article on How Scientists Use Computers
 Tags: community, research
 

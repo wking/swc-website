@@ -1,5 +1,5 @@
 Post_Id: 3592
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Five Episodes on Make
 Tags: lectures, versions/version-4
 

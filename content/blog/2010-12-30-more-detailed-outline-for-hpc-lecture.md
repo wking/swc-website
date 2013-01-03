@@ -1,5 +1,5 @@
 Post_Id: 3874
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: More Detailed Outline for HPC Lecture
 Tags: content, versions/version-4
 

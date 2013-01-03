@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4087
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Twenty Questions (Minus Two)
 Tags: content, education
 

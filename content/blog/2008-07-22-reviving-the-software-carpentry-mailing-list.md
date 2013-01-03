@@ -1,5 +1,5 @@
 Post_Id: 1693
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Reviving the Software Carpentry Mailing List
 Tags: lectures, versions/version-3
 

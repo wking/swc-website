@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4122
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Practical Computing for Scientists at Stanford
 Tags: venues/stanford
 

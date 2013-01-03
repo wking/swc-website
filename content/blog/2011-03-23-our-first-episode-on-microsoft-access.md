@@ -1,5 +1,5 @@
 Post_Id: 4112
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our First Episode on Microsoft Access
 Tags: content, versions/version-4
 

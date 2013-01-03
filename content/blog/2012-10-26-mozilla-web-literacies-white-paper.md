@@ -1,5 +1,5 @@
 Post_Id: 5223
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Mozilla Web Literacies White Paper
 Tags: content, versions/version-5-0
 

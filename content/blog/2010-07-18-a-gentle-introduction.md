@@ -1,5 +1,5 @@
 Post_Id: 3482
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Gentle Introduction
 Tags: lectures, noticed, versions/version-3
 

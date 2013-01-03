@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4617
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Frustration (continued)
 Tags: content, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 2415
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Environmental e-Science Revolution
 Tags: noticed
 

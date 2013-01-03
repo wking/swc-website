@@ -1,5 +1,5 @@
 Post_Id: 2389
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: And Speaking of Sightings...
 Tags: lectures, versions/version-3
 

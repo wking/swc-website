@@ -1,5 +1,5 @@
 Post_Id: 1677
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Badge of Honor?
 Tags: community
 

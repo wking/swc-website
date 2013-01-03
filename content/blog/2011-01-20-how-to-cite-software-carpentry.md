@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3953
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How to Cite Software Carpentry
 Tags: content, versions/version-4
 

@@ -1,5 +1,5 @@
 Post_Id: 1730
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Bil Lewis Works With Biologists...
 Tags: noticed
 

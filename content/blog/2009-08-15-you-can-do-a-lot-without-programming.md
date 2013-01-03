@@ -1,5 +1,5 @@
 Post_Id: 2502
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: You Can Do a Lot Without Programming
 Tags: noticed
 

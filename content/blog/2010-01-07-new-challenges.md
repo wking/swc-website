@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2645
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Challenges
 Tags: versions/version-4
 

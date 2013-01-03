@@ -1,5 +1,5 @@
 Post_Id: 5369
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two R Workshops at UBC in 2013
 Tags: boot-camp, venues/university-of-british-columba
 

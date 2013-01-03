@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4741
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: We're Neutral (but Not Really)
 Tags: opinion
 

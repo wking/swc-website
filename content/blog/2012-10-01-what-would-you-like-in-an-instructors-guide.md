@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5128
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Would You Like in an Instructor's Guide?
 Tags: content
 

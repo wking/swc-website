@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5174
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why We Teach Version Control
 Tags: noticed
 

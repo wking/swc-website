@@ -1,5 +1,5 @@
 Post_Id: 1249
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Python Supercomputing Statistics
 Tags: community, content
 

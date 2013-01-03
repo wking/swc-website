@@ -1,5 +1,5 @@
 Post_Id: 3322
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Badges and Stars
 Tags: opinion
 

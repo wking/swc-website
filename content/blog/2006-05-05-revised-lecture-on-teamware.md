@@ -1,5 +1,5 @@
 Post_Id: 478
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Revised Lecture on Teamware
 Tags: lectures, versions/version-3
 

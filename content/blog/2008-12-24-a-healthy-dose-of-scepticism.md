@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1856
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Healthy Dose of Scepticism
 Tags: community, noticed, opinion
 

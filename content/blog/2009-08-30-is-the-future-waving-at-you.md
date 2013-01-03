@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2525
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Is The Future Waving At You?
 Tags: content, noticed, opinion
 

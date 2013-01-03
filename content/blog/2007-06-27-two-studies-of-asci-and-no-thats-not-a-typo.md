@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1009
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two Studies of ASCI (and no, that's not a typo)
 Tags: content, research
 

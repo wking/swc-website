@@ -1,5 +1,5 @@
 Post_Id: 1121
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Random Survey about HPC
 Tags: community, noticed, research
 

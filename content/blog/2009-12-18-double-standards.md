@@ -1,5 +1,5 @@
 Post_Id: 2633
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Double Standards
 Tags: opinion
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4467
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Learners and Their Needs
 Tags: content, education, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 3299
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 5: A Different Kind of Screencast
 Tags: lectures, versions/version-4
 

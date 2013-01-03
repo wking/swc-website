@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3284
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: T Minus One
 Tags: community, versions/version-4
 

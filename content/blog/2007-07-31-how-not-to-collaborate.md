@@ -1,5 +1,5 @@
 Post_Id: 1078
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Not to Collaborate
 Tags: community, noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4063
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Tuple Spaces (or, Good Ideas Don't Always Win)
 Tags: opinion
 

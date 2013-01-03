@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5310
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Tool (I Think) We Need To Do Peer Instruction Online
 Tags: education, tooling
 

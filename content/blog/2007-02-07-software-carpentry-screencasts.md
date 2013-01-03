@@ -1,5 +1,5 @@
 Post_Id: 813
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Screencasts
 Tags: lectures, tooling, versions/version-3
 

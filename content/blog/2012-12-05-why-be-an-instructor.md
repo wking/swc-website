@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5347
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Be an Instructor
 Tags: community, opinion
 

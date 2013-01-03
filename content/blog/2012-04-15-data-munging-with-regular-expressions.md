@@ -1,5 +1,5 @@
 Post_Id: 4743
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Data Munging with Regular Expressions
 Tags: tutorial, versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2672
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Much Of This Should Scientists Understand?
 Tags: content, opinion, versions/version-4
 

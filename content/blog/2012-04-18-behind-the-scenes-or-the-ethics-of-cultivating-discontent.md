@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4750
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Behind the Scenes (or, the Ethics of Cultivating Discontent)
 Tags: opinion
 

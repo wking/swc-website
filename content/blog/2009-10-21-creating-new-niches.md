@@ -1,5 +1,5 @@
 Post_Id: 2589
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Creating New Niches
 Tags: community, noticed
 

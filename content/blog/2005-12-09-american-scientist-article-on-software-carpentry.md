@@ -1,5 +1,5 @@
 Post_Id: 324
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: American Scientist article on Software Carpentry
 Tags: community, versions/version-3
 

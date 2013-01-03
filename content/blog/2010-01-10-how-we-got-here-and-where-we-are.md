@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2647
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How We Got Here, and Where We Are
 Tags: versions/version-2, versions/version-3, versions/version-4
 

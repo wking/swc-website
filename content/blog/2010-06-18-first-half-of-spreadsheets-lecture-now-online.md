@@ -1,5 +1,5 @@
 Post_Id: 3408
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Half of Spreadsheets Lecture Now Online
 Tags: lectures, versions/version-4
 

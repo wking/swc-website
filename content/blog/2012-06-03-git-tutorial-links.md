@@ -1,5 +1,5 @@
 Post_Id: 4893
-Author_Id: anderson.c
+Author: Carlos Anderson
 Title: Git tutorial links
 Tags: tutorial
 

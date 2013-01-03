@@ -1,5 +1,5 @@
 Post_Id: 5296
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Matt Davis's Great Californian Adventure
 Tags: boot-camp, venues/caltech, venues/lawrence-berkeley-lab, venues/uc-berkeley
 

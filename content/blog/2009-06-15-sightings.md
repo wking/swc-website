@@ -1,5 +1,5 @@
 Post_Id: 2386
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Sightings
 Tags: venues/university-of-glasgow
 

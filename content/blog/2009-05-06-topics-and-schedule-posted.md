@@ -1,5 +1,5 @@
 Post_Id: 2325
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Topics and Schedule Posted
 Tags: content, lectures, venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

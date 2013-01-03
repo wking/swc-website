@@ -1,5 +1,5 @@
 Post_Id: 4052
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ask, And Ye Shall Receive
 Tags: content, versions/version-4
 

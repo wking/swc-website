@@ -1,5 +1,5 @@
 Post_Id: 4395
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The What, Why, and How of Boot Camps
 Tags: content, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 3968
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Case Against Peer Review
 Tags: opinion
 

@@ -1,5 +1,5 @@
 Post_Id: 3298
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 4: First Preliminary Alpha Test Etc. Screencast
 Tags: content, versions/version-4
 

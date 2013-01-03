@@ -1,5 +1,5 @@
 Post_Id: 1781
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: One Good Survey Deserves Another
 Tags: community, content, sponsors/mathworks, research
 

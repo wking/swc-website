@@ -1,5 +1,5 @@
 Post_Id: 4699
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Wrapping Up MBARI Workshop
 Tags: boot-camp, venues/monterey-bay-aquarium-research-institute
 

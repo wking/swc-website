@@ -1,5 +1,5 @@
 Post_Id: 4008
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Updates to Spreadsheet Lecture
 Tags: content, versions/version-4
 

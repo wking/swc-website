@@ -1,5 +1,5 @@
 Post_Id: 2704
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Now on Twitter
 Tags: community
 

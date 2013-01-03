@@ -1,5 +1,5 @@
 Post_Id: 2447
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 6: Theory and Practice
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

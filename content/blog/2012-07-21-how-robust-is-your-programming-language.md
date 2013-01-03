@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4995
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Robust Is Your Programming Language?
 Tags: education, opinion, tooling
 

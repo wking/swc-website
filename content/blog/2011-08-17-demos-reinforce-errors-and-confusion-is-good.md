@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4256
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Demos Reinforce Errors, and Confusion is Good
 Tags: education
 

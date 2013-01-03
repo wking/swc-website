@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4382
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Some Responses to Some Comments
 Tags: education
 

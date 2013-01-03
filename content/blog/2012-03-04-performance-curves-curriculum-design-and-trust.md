@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4639
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Performance Curves, Curriculum Design, and Trust
 Tags: education
 

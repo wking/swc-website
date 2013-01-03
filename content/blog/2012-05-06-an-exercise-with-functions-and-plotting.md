@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4765
-Author_Id: hansen.m
+Author: Michael Hansen
 Title: An Exercise With Functions and Plotting
 Tags: content
 

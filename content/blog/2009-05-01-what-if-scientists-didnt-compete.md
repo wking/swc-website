@@ -1,5 +1,5 @@
 Post_Id: 2312
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What If Scientists Didn't Compete?
 Tags: noticed
 

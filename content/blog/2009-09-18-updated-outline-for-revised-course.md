@@ -1,5 +1,5 @@
 Post_Id: 2544
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Updated Outline for Revised Course
 Tags: versions/version-4
 

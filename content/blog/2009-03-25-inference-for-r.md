@@ -1,5 +1,5 @@
 Post_Id: 2278
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Inference for R
 Tags: noticed
 

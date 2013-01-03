@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4348
-Author_Id: guy.t
+Author: Tommy Guy
 Title: Successful Bootcamp
 Tags: community, venues/university-of-toronto
 

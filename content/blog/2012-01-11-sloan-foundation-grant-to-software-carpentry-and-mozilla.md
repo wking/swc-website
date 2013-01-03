@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4386
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Sloan Foundation Grant to Software Carpentry and Mozilla
 Tags: community
 

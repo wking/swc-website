@@ -1,5 +1,5 @@
 Post_Id: 4195
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Episode: MATLAB Structs and Cell Arrays
 Tags: content, versions/version-4-1
 

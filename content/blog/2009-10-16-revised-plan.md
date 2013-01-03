@@ -1,5 +1,5 @@
 Post_Id: 2584
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Revised Plan
 Tags: lectures, versions/version-4
 

@@ -1,5 +1,5 @@
 Post_Id: 960
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Praising the Good
 Tags: content
 

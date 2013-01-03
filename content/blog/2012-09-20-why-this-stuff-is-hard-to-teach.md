@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5110
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why This Stuff Is Hard To Teach
 Tags: content, education
 

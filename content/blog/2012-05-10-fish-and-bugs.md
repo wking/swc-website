@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4794
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Fish and Bugs
 Tags: noticed
 

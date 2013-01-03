@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4417
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Revising the Curriculum
 Tags: content, versions/version-5-0
 

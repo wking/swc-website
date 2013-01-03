@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5261
-Author_Id: waugh.b
+Author: Ben Waugh
 Title: Workshop for High-Energy Physics at UCL
 Tags: boot-camp, venues/university-college-london
 

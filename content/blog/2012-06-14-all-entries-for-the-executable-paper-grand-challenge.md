@@ -1,5 +1,5 @@
 Post_Id: 4916
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: All Entries for the Executable Paper Grand Challenge
 Tags: noticed
 

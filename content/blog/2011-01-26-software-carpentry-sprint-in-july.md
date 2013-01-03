@@ -1,5 +1,5 @@
 Post_Id: 3964
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Sprint in July
 Tags: content, versions/version-4
 

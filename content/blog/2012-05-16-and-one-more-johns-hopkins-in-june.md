@@ -1,5 +1,5 @@
 Post_Id: 4826
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: And One More: Johns Hopkins in June
 Tags: boot-camp, venues/johns-hopkins-university, versions/version-5-0
 

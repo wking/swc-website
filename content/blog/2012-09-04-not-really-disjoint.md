@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5084
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Not Really Disjoint
 Tags: opinion
 

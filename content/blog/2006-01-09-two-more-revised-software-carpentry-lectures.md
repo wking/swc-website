@@ -1,5 +1,5 @@
 Post_Id: 347
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two More Revised Software Carpentry Lectures
 Tags: lectures, versions/version-3
 

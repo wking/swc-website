@@ -1,5 +1,5 @@
 Post_Id: 3308
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Word (Or Three) From Our Sponsors
 Tags: community
 

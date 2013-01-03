@@ -1,5 +1,5 @@
 Post_Id: 4630
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Toronto Boot Camp February 2012: How We Did
 Tags: evaluation, venues/university-of-toronto, versions/version-5-0
 

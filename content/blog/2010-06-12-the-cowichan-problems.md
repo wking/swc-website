@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3382
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Cowichan Problems
 Tags: opinion, research
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4897
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Skills Are Required to Implement Open Access?
 Tags: community, content
 

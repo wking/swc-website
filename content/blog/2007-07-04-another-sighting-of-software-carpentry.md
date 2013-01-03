@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1028
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another Sighting of Software Carpentry
 Tags: venues/uc-san-diego
 

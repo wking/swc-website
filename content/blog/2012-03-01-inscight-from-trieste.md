@@ -1,5 +1,5 @@
 Post_Id: 4635
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Inscight from Trieste
 Tags: venues/international-center-for-theoretical-physics, noticed
 

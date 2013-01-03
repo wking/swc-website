@@ -1,5 +1,5 @@
 Post_Id: 395
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Second Lecture on Testing Now Online
 Tags: lectures, versions/version-3
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3688
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ratings Revised
 Tags: community, content
 

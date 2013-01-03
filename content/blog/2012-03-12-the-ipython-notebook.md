@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4672
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The IPython Notebook
 Tags: noticed
 

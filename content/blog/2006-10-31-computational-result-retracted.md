@@ -1,5 +1,5 @@
 Post_Id: 700
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Computational Result Retracted
 Tags: content
 

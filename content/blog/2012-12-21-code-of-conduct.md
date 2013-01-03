@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5375
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Code of Conduct
 Tags: boot-camp, community
 

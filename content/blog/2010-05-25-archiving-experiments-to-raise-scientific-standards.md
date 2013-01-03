@@ -1,5 +1,5 @@
 Post_Id: 3319
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Archiving Experiments to Raise Scientific Standards
 Tags: noticed
 

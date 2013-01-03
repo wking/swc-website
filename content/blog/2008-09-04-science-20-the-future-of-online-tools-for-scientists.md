@@ -1,5 +1,5 @@
 Post_Id: 1737
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Science 2.0: the Future of Online Tools for Scientists
 Tags: community, noticed
 

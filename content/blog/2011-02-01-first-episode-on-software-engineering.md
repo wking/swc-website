@@ -1,5 +1,5 @@
 Post_Id: 3987
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Episode on Software Engineering
 Tags: content, versions/version-4
 

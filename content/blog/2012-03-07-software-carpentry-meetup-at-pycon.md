@@ -1,5 +1,5 @@
 Post_Id: 4657
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Meetup at PyCon
 Tags: community
 

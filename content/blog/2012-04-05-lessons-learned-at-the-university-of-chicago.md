@@ -1,5 +1,5 @@
 Post_Id: 4725
-Author_Id: huff.k
+Author: Katy Huff
 Title: Lessons Learned at the University Of Chicago
 Tags: venues/university-of-chicago
 

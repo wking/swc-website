@@ -1,5 +1,5 @@
 Post_Id: 4025
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Four MATLAB Episodes
 Tags: content, versions/version-4
 

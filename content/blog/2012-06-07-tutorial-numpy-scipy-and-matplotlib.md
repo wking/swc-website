@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4908
-Author_Id: davis.m
+Author: Matt Davis
 Title: Tutorial: NumPy, SciPy, and matplotlib
 Tags: tutorial
 

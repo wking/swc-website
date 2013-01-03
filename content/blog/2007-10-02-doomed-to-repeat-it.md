@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1160
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Doomed to Repeat It
 Tags: opinion
 

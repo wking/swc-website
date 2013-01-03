@@ -1,5 +1,5 @@
 Post_Id: 470
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Corrections Done
 Tags: lectures, versions/version-3
 

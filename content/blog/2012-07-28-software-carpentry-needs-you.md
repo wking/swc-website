@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5002
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Needs You!
 Tags: community, versions/version-5-0
 

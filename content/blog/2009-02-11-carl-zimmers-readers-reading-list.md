@@ -1,5 +1,5 @@
 Post_Id: 2028
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Carl Zimmer's Readers' Reading List
 Tags: noticed
 

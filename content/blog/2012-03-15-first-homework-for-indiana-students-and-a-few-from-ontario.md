@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4684
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Homework for Indiana Students (and a few from Ontario)
 Tags: education, venues/indiana-university, venues/university-of-toronto
 

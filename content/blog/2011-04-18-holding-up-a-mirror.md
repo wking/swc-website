@@ -1,5 +1,5 @@
 Post_Id: 4137
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Holding Up a Mirror
 Tags: noticed
 

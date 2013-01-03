@@ -1,5 +1,5 @@
 Post_Id: 1559
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: But I Was Gone Less than 48 Hours!
 Tags: community, sponsors/enthought, opinion
 

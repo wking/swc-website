@@ -1,5 +1,5 @@
 Post_Id: 2523
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Important is Geospatial Data to You?
 Tags: content
 

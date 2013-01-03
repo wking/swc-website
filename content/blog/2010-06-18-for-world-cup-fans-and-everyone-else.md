@@ -1,5 +1,5 @@
 Post_Id: 3414
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: For World Cup Fans (and Everyone Else)
 Tags: noticed
 

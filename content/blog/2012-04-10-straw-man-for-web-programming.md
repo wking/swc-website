@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4735
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Straw Man for Web Programming
 Tags: content, versions/version-5-0
 

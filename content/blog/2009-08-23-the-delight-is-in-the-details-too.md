@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2509
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Delight Is In The Details, Too
 Tags: content, versions/version-4
 

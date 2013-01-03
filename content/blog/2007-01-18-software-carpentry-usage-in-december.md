@@ -1,5 +1,5 @@
 Post_Id: 785
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Usage in December
 Tags: community, sponsors/enthought, versions/version-3
 

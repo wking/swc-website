@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4383
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Fire Last Time
 Tags: education
 

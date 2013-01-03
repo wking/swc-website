@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 544
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry 3.0
 Tags: lectures, versions/version-3
 

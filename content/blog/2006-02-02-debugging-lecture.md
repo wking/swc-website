@@ -1,5 +1,5 @@
 Post_Id: 367
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Debugging Lecture
 Tags: lectures, versions/version-3
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4054
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: An Easy Place to Start: Systems Programming
 Tags: content
 

@@ -1,5 +1,5 @@
 Post_Id: 4102
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Using a Debugger
 Tags: content, versions/version-4
 

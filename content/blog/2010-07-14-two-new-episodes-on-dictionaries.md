@@ -1,5 +1,5 @@
 Post_Id: 3473
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two New Episodes on Dictionaries
 Tags: lectures, versions/version-4
 

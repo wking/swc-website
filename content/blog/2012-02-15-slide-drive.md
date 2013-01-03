@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4557
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Slide Drive
 Tags: content, education, versions/version-5-0
 

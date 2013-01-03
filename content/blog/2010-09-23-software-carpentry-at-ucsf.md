@@ -1,5 +1,5 @@
 Post_Id: 3604
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry at UCSF
 Tags: venues/uc-san-francisco
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2651
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Whatcha Gonna Do When They Come For You?
 Tags: noticed, opinion
 

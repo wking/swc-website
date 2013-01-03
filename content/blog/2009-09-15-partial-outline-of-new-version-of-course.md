@@ -1,5 +1,5 @@
 Post_Id: 2542
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Partial Outline of New Version of Course
 Tags: versions/version-4
 

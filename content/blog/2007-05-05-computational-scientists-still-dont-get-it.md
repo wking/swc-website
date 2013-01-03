@@ -1,5 +1,5 @@
 Post_Id: 931
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Computational Scientists Still Don't Get It
 Tags: opinion
 

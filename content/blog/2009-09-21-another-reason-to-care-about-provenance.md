@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2546
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another Reason to Care About Provenance
 Tags: noticed, opinion
 

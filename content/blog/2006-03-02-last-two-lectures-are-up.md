@@ -1,5 +1,5 @@
 Post_Id: 406
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Last Two Lectures Are Up
 Tags: lectures, versions/version-3
 

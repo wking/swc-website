@@ -1,5 +1,5 @@
 Post_Id: 3323
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Jim Graham on Reproducibility
 Tags: noticed
 

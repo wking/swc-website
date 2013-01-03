@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4477
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Reorganizing This Web Site
 Tags: versions/version-5-0
 

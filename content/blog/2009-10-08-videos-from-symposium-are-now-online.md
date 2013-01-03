@@ -1,5 +1,5 @@
 Post_Id: 2580
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Videos from Symposium Are Now Online
 Tags: content, versions/version-3
 

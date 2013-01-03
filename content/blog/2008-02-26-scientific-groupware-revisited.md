@@ -1,5 +1,5 @@
 Post_Id: 1398
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Scientific Groupware Revisited
 Tags: community, noticed
 

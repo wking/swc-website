@@ -1,5 +1,5 @@
 Post_Id: 3875
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Boot Camp Jan 12-14 in Madison
 Tags: community, venues/university-of-wisconsin
 

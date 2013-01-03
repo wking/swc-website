@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4381
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Fork, Merge, and Share
 Tags: education
 

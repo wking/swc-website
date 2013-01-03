@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4004
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Computational Science Means to Me
 Tags: content
 

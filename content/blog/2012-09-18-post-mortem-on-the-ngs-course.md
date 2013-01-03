@@ -1,5 +1,5 @@
 Post_Id: 5102
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Post-Mortem on the NGS Course
 Tags: community, evaluation
 

@@ -1,5 +1,5 @@
 Post_Id: 582
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Design Patterns in Scientific Software
 Tags: content
 

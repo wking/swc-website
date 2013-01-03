@@ -1,5 +1,5 @@
 Post_Id: 3429
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Final Episode of Regular Expressions Lecture Now Online
 Tags: lectures, versions/version-4
 

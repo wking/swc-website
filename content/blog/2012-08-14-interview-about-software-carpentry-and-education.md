@@ -1,5 +1,5 @@
 Post_Id: 5021
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview about Software Carpentry (and Education)
 Tags: community, interviews
 

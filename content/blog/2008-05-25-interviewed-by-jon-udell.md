@@ -1,5 +1,5 @@
 Post_Id: 1569
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interviewed by Jon Udell
 Tags: community, versions/version-3
 

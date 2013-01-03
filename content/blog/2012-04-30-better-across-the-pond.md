@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4768
-Author_Id: chue-hong.n
+Author: Neil Chue Hong
 Title: Better Across the Pond?
 Tags: boot-camp, opinion, venues/university-college-london
 

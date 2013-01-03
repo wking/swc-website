@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4833
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Most Important Scientific Result Published in the Last Year
 Tags: noticed
 

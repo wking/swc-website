@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4248
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Computing in Physics 101: What We're Doing Wrong
 Tags: education
 

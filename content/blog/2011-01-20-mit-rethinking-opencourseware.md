@@ -1,5 +1,5 @@
 Post_Id: 3957
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: MIT Rethinking OpenCourseWare
 Tags: education
 

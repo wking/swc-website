@@ -1,5 +1,5 @@
 Post_Id: 4821
-Author_Id: cannam.c
+Author: Chris Cannam
 Title: Feedback from Newcastle upon Tyne
 Tags: boot-camp
 

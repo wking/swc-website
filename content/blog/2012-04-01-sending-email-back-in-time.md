@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4710
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Sending Email Back in Time
 Tags: opinion
 

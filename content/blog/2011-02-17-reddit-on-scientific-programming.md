@@ -1,5 +1,5 @@
 Post_Id: 4032
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Reddit on Scientific Programming
 Tags: noticed
 

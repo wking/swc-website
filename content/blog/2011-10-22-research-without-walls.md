@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4302
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Research Without Walls
 Tags: opinion
 

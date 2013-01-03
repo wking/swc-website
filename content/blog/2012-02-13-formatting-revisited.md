@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4542
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Formatting Revisited
 Tags: content, versions/version-5-0
 

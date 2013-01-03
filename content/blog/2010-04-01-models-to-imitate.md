@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2804
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Models To Imitate
 Tags: noticed, tooling
 

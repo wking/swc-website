@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5103
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What's In Your Stack?
 Tags: community, content
 

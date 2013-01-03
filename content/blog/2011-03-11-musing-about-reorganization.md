@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4080
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Musing About Reorganization
 Tags: content, education
 

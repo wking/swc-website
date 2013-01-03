@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3508
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Mark Guzdial on Software Carpentry
 Tags: noticed, opinion
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5108
-Author_Id: cannam.c
+Author: Chris Cannam
 Title: Feedback and wrap-up from York
 Tags: boot-camp
 

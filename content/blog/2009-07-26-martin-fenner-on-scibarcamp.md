@@ -1,5 +1,5 @@
 Post_Id: 2462
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Martin Fenner on SciBarCamp
 Tags: community, noticed
 

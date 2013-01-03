@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1989
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: 'Communicate First, Standardize Second'
 Tags: noticed
 

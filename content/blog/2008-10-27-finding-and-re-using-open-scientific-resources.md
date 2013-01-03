@@ -1,5 +1,5 @@
 Post_Id: 1771
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Finding and Re-using Open Scientific Resources
 Tags: noticed
 

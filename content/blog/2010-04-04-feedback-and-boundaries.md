@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2811
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Feedback and Boundaries
 Tags: venues/university-of-toronto, versions/version-3
 

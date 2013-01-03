@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3321
-Author_Id: pipitone.j
+Author: Jon Pipitone
 Title: Teaching databases by example
 Tags: content, versions/version-4
 

@@ -1,5 +1,5 @@
 Post_Id: 4233
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Architecture of Open Source Applications Webinars Tuesday July 13 and 20
 Tags: community
 

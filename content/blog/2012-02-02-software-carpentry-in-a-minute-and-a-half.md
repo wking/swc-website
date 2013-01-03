@@ -1,5 +1,5 @@
 Post_Id: 4490
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry in a Minute and a Half
 Tags: content, versions/version-5-0
 

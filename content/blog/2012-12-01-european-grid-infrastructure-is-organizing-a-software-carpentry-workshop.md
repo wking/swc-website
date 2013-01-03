@@ -1,5 +1,5 @@
 Post_Id: 5322
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: European Grid Infrastructure is Organizing a Software Carpentry Workshop
 Tags: boot-camp, community, noticed
 

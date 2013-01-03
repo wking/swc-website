@@ -1,5 +1,5 @@
 Post_Id: 473
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry 1111
 Tags: content, lectures, versions/version-3
 

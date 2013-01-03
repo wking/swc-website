@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5165
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Dark Matter, Public Health, and Scientific Computing
 Tags: opinion
 

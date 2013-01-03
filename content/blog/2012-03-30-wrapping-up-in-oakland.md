@@ -1,5 +1,5 @@
 Post_Id: 4705
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Wrapping Up in Oakland
 Tags: boot-camp, venues/nersc
 

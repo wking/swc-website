@@ -1,5 +1,5 @@
 Post_Id: 4414
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The First Boot Camp of 2012
 Tags: venues/stsci, versions/version-5-0
 

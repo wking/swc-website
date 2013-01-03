@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5318
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Alpha Testing Ideas for the IPython Notebook
 Tags: tooling
 

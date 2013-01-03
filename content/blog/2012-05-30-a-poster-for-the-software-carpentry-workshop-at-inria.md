@@ -1,5 +1,5 @@
 Post_Id: 4875
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Poster for the Software Carpentry Workshop at INRIA
 Tags: boot-camp, venues/inria-paris
 

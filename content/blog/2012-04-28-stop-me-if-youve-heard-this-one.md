@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4763
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Stop Me If You've Heard This One
 Tags: education, opinion
 

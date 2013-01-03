@@ -1,5 +1,5 @@
 Post_Id: 5249
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Winter School on Reproducible Research
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4396
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Is This Hard?
 Tags: education, versions/version-5-0
 

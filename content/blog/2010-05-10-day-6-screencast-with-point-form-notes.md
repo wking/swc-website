@@ -1,5 +1,5 @@
 Post_Id: 3305
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 6: Screencast With Point-Form Notes
 Tags: lectures, versions/version-4
 

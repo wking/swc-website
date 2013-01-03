@@ -1,5 +1,5 @@
 Post_Id: 5236
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A List of Bioinformatics Courses
 Tags: community, noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4026
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Top Ten Why Nots
 Tags: opinion
 

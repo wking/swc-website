@@ -1,5 +1,5 @@
 Post_Id: 4586
-Author_Id: guy.t
+Author: Tommy Guy
 Title: Hello from Trieste!
 Tags: venues/ictp
 

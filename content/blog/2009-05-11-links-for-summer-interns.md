@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2330
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Links for Summer Interns
 Tags: content, versions/version-3
 

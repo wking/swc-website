@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4723
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Solution to Data Checking Problem
 Tags: venues/stsci, tutorial, versions/version-5-0
 

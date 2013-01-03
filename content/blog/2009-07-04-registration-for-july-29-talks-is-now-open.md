@@ -1,5 +1,5 @@
 Post_Id: 2421
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Registration for July 29 Talks is Now Open
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

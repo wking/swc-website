@@ -1,5 +1,5 @@
 Post_Id: 1153
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another Sighting of Software Carpentry
 Tags: venues/bernstein-berlin, versions/version-3
 

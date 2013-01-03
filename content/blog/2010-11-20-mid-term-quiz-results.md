@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3766
-Author_Id: lawson.a
+Author: Ainsley Lawson
 Title: Mid-term Quiz Results
 Tags: evaluation
 

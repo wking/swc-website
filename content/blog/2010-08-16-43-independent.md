@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3530
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: 43% Independent
 Tags: noticed
 

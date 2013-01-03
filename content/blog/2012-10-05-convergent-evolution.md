@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5147
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Convergent Evolution
 Tags: noticed
 

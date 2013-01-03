@@ -1,5 +1,5 @@
 Post_Id: 391
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Second Lecture on Object-Oriented Programming
 Tags: lectures, versions/version-3
 

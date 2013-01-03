@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3456
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: SciNet's Daniel Gruner
 Tags: interviews, sponsors/scinet
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4424
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Take Out Agile, and Add...What?
 Tags: content, versions/version-5-0
 

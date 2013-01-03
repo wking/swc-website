@@ -1,5 +1,5 @@
 Post_Id: 4935
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two Posts on Scientific Workflows
 Tags: noticed
 

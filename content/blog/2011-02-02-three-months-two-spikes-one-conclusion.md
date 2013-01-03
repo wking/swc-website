@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3990
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three Months, Two Spikes, One Conclusion
 Tags: opinion
 

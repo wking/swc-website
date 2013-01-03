@@ -1,5 +1,5 @@
 Post_Id: 4365
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Building a Bibliography
 Tags: research
 

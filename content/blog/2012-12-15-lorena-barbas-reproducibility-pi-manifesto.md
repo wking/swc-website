@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5371
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Lorena Barba's Reproducibility PI Manifesto
 Tags: noticed
 

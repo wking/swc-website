@@ -1,5 +1,5 @@
 Post_Id: 3815
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Programmer Competency Matrix
 Tags: noticed
 

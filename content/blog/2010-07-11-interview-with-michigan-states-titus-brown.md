@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3460
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview with Michigan State's Titus Brown
 Tags: interviews, sponsors/michigan-state-university
 

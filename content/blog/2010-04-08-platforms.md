@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2815
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Platforms
 Tags: tooling, versions/version-4
 

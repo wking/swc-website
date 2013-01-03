@@ -1,5 +1,5 @@
 Post_Id: 3287
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 1: Shuffling Sticky Notes Around
 Tags: lectures, versions/version-4
 

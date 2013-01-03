@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4089
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Graph Layout, Models vs. Views, and Computational Thinking
 Tags: content, opinion
 

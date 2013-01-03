@@ -1,5 +1,5 @@
 Post_Id: 3424
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry in Three and a Half Minutes
 Tags: community, content
 

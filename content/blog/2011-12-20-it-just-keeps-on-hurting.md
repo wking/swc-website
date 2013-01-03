@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4373
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: It Just Keeps On Hurting
 Tags: opinion
 

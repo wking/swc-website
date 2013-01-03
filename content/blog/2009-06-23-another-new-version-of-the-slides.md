@@ -1,5 +1,5 @@
 Post_Id: 2397
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another New Version of the Slides
 Tags: lectures, versions/version-3
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 338
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: $67 million a year
 Tags: opinion
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4857
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Alone and Misunderstood
 Tags: opinion
 

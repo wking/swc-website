@@ -1,5 +1,5 @@
 Post_Id: 2540
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Job Opening: MITACS Scientific Coordinator
 Tags: sponsors/mitacs
 

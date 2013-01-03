@@ -1,5 +1,5 @@
 Post_Id: 1884
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: I *Want* To Be A Number
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4762
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Solution to Sets and Dictionaries Exercise
 Tags: tutorial, versions/version-5-0
 

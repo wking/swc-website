@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3410
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: People You Don't Want On Your Team
 Tags: opinion
 

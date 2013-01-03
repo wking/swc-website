@@ -1,5 +1,5 @@
 Post_Id: 3443
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Last Episode on Sets and Dictionaries Posted First
 Tags: lectures, versions/version-4
 

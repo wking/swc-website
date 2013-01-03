@@ -1,5 +1,5 @@
 Post_Id: 4237
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Material from Newcastle Workshop Now Available
 Tags: noticed
 

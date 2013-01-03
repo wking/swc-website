@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4746
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: In Search of Prior Arguments
 Tags: opinion
 

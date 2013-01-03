@@ -1,5 +1,5 @@
 Post_Id: 1476
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three Studies (Maybe Four)
 Tags: community, opinion, research
 

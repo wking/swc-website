@@ -1,5 +1,5 @@
 Post_Id: 4149
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Managing Data
 Tags: content, versions/version-4
 

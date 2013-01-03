@@ -1,5 +1,5 @@
 Post_Id: 3584
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Offered Online in Fall 2010 (for Ontario students)
 Tags: venues/online
 

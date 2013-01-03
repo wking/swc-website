@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3747
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ratios and Rework
 Tags: content, education, opinion
 

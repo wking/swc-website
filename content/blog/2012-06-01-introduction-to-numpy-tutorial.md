@@ -1,5 +1,5 @@
 Post_Id: 4889
-Author_Id: davis.m
+Author: Matt Davis
 Title: Introduction to NumPy Tutorial
 Tags: tutorial
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4183
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Practical Computing for Everyone (not just biologists)
 Tags: noticed, opinion
 

@@ -1,5 +1,5 @@
 Post_Id: 567
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Parallel Tools Platform
 Tags: content
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5243
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Charging and Being Charged
 Tags: boot-camp
 

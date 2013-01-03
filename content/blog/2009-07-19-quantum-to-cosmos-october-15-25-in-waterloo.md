@@ -1,5 +1,5 @@
 Post_Id: 2445
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Quantum to Cosmos: October 15-25 in Waterloo
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4529
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Audrey Watters on Software Carpentry
 Tags: education
 

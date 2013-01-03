@@ -1,5 +1,5 @@
 Post_Id: 4915
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Workshop on Maintainable Software Practices in e-Science
 Tags: community, noticed
 

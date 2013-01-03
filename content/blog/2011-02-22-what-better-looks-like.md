@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4049
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Better Looks Like
 Tags: community
 

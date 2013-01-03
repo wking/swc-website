@@ -1,5 +1,5 @@
 Post_Id: 2465
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Where This Course Came From
 Tags: content
 

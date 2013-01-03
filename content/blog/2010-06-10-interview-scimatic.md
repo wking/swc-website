@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3370
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: Jim Graham of Scimatic
 Tags: interviews, sponsors/scimatic, sponsors
 

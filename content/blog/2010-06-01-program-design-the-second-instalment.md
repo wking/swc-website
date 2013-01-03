@@ -1,5 +1,5 @@
 Post_Id: 3328
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Program Design: the Second Instalment
 Tags: lectures, versions/version-4
 

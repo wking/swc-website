@@ -1,5 +1,5 @@
 Post_Id: 5100
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Systematic Curriculum Design
 Tags: content, education, versions/version-5-0
 

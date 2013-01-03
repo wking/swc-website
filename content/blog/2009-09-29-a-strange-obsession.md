@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2570
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Strange Obsession
 Tags: opinion
 

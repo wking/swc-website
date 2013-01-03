@@ -1,5 +1,5 @@
 Post_Id: 1713
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SciFoo, eGY, and Splitting
 Tags: noticed
 

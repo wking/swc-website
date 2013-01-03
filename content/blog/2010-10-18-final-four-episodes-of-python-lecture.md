@@ -1,5 +1,5 @@
 Post_Id: 3698
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Final Four Episodes of Python Lecture
 Tags: content, versions/version-4
 

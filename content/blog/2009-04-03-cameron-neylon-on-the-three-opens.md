@@ -1,5 +1,5 @@
 Post_Id: 2285
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Cameron Neylon on the Three Opens
 Tags: noticed
 

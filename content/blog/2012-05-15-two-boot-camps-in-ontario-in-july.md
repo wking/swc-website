@@ -1,5 +1,5 @@
 Post_Id: 4814
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two Boot Camps in Ontario in July
 Tags: boot-camp, versions/version-5-0
 

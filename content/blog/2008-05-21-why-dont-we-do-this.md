@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1565
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Don't We Do This?
 Tags: community, opinion
 

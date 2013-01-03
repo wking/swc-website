@@ -1,5 +1,5 @@
 Post_Id: 2452
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 7: Lots More Objects
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

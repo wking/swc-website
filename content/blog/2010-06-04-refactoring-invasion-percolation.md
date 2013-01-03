@@ -1,5 +1,5 @@
 Post_Id: 3334
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Refactoring Invasion Percolation
 Tags: lectures, versions/version-4
 

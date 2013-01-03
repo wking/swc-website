@@ -1,5 +1,5 @@
 Post_Id: 3759
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Section for Essays
 Tags: content, versions/version-4
 

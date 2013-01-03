@@ -1,5 +1,5 @@
 Post_Id: 4158
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Damn the Torpedoes (but I could use some help navigating)
 Tags: versions/version-5-0
 

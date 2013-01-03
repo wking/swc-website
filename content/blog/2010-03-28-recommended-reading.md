@@ -1,5 +1,5 @@
 Post_Id: 2770
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Recommended Reading
 Tags: content, versions/version-4
 

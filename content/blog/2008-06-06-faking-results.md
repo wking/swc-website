@@ -1,5 +1,5 @@
 Post_Id: 1591
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Faking Results
 Tags: content, noticed
 

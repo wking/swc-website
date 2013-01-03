@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4116
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Better Way to Teach Programming to Scientists
 Tags: content, education, noticed
 

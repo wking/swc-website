@@ -1,5 +1,5 @@
 Post_Id: 2172
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Open Science and Autism's False Prophets
 Tags: opinion
 

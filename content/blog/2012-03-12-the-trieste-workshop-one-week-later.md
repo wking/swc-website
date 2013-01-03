@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4663
-Author_Id: guy.t
+Author: Tommy Guy
 Title: The Trieste Workshop, One Week Later
 Tags: venues/ictp
 

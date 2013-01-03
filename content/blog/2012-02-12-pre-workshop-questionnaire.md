@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4536
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Pre-Workshop Questionnaire
 Tags: content, education, evaluation
 

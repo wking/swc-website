@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5114
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Computational Thinking and Ice Floating in Bathtubs
 Tags: community, education
 

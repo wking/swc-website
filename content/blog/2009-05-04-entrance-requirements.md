@@ -1,5 +1,5 @@
 Post_Id: 2320
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Entrance Requirements
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

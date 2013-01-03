@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3513
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Little Bit of Javascript
 Tags: tooling
 

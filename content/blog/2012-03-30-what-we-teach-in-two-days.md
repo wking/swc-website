@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4708
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What We Teach in Two Days
 Tags: boot-camp
 

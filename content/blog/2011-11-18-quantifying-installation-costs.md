@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4357
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Quantifying Installation Costs
 Tags: opinion
 

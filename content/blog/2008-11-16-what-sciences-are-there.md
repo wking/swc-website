@@ -1,5 +1,5 @@
 Post_Id: 1794
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Sciences Are There?
 Tags: community, research
 

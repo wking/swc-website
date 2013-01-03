@@ -1,5 +1,5 @@
 Post_Id: 3418
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Little Bit of Theory
 Tags: lectures, versions/version-4
 

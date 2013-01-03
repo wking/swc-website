@@ -1,5 +1,5 @@
 Post_Id: 4990
-Author_Id: varoquaux.n
+Author: Nelle Varoquaux
 Title: Software Carpentry in Paris !
 Journal: True
 Tags: boot-camp, venues/inria-paris

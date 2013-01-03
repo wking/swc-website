@@ -1,5 +1,5 @@
 Post_Id: 1578
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Programming and Scientific Education on Slashdot
 Tags: community, content
 

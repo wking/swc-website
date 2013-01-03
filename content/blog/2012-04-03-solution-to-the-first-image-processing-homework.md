@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4718
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Solution to the First Image Processing Homework
 Tags: venues/indiana-university, tutorial, versions/version-5-0
 

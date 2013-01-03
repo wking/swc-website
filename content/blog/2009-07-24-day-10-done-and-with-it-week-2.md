@@ -1,5 +1,5 @@
 Post_Id: 2460
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 10 Done - and With It, Week 2
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

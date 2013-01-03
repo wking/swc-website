@@ -1,5 +1,5 @@
 Post_Id: 267
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry at Indiana University
 Tags: venues/indiana-university, versions/version-3
 

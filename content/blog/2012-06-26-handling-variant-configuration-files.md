@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4934
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Handling Variant Configuration Files
 Tags: content, tutorial, versions/version-4-1
 

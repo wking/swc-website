@@ -1,5 +1,5 @@
 Post_Id: 3678
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Nature Article on Scientific Programming
 Tags: noticed
 

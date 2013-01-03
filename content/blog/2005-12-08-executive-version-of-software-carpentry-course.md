@@ -1,5 +1,5 @@
 Post_Id: 320
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Executive Version of Software Carpentry Course
 Tags: versions/version-3
 

@@ -1,5 +1,5 @@
 Post_Id: 4197
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Health Informatics Resources
 Tags: noticed
 

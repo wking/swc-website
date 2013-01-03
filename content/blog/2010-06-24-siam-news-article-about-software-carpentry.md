@@ -1,5 +1,5 @@
 Post_Id: 3428
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SIAM News Article About Software Carpentry
 Tags: noticed
 

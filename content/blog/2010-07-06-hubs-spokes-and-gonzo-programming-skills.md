@@ -1,5 +1,5 @@
 Post_Id: 3446
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Hubs, Spokes, and Gonzo Programming Skills
 Tags: community
 

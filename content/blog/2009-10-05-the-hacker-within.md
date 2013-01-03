@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2574
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Hacker Within
 Tags: community, venues/university-of-wisconsin
 

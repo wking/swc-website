@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4715
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Four-Day Curriculum
 Tags: education, versions/version-5-0
 

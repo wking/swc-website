@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3581
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Will America's Universities Go The Way Of Its Car Companies?
 Tags: opinion
 

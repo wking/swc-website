@@ -1,5 +1,5 @@
 Post_Id: 4561
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Analyzing Next-Generation Sequencing Data
 Tags: noticed
 

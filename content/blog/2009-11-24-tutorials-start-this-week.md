@@ -1,5 +1,5 @@
 Post_Id: 2619
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Tutorials Start This Week
 Tags: sponsors/mathworks, sponsors/mitacs, sponsors/scinet, venues/university-of-toronto, versions/version-3
 

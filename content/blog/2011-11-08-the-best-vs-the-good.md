@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4339
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Best vs. the Good
 Tags: noticed
 

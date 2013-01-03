@@ -1,5 +1,5 @@
 Post_Id: 363
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Quality Assurance Lecture Now Available
 Tags: lectures, versions/version-3
 

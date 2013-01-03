@@ -1,5 +1,5 @@
 Post_Id: 2535
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: R for Programmers?
 Tags: content
 

@@ -1,5 +1,5 @@
 Post_Id: 2488
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Guest Speakers' Slides Now Available
 Tags: content, versions/version-3
 

@@ -1,5 +1,5 @@
 Post_Id: 337
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Year's Schedule for Software Carpentry
 Tags: versions/version-3
 

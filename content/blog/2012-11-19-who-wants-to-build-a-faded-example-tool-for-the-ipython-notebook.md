@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5312
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Who Wants To Build a Faded Example Tool for the IPython Notebook?
 Tags: education, tooling
 

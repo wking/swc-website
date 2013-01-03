@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3490
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Popular, Fast, or Usable: Pick One
 Tags: content, tooling
 

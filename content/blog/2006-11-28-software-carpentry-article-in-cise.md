@@ -1,5 +1,5 @@
 Post_Id: 736
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry article in CiSE
 Tags: community
 

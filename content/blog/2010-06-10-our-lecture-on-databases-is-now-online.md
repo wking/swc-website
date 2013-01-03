@@ -1,5 +1,5 @@
 Post_Id: 3376
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Our Lecture on Databases is Now Online
 Tags: lectures, versions/version-4
 

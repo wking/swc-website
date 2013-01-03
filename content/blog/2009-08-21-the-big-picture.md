@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2506
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Big Picture
 Tags: content, versions/version-4
 

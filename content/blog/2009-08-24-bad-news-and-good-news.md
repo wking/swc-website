@@ -1,5 +1,5 @@
 Post_Id: 2519
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Bad News and Good News
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4652
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Programs as Experimental Apparatus
 Tags: content, versions/version-5-0
 

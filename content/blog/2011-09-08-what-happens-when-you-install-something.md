@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4264
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Happens When You Install Something?
 Tags: content
 

@@ -1,5 +1,5 @@
 Post_Id: 378
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Regular Expressions Lecture is Up
 Tags: lectures, versions/version-3
 

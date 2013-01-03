@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5069
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Problem With Badges
 Tags: community, content, education
 

@@ -1,5 +1,5 @@
 Post_Id: 1444
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Nice Quote
 Tags: community, content
 

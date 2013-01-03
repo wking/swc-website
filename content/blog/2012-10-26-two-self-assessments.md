@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5225
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two Self-Assessments
 Tags: boot-camp, evaluation, versions/version-5-0
 

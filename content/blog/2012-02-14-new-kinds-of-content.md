@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4555
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Kinds of Content
 Tags: content, education, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 383
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Data Lineage
 Tags: content, versions/version-3
 

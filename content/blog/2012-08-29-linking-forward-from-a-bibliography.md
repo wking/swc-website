@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5071
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Linking Forward From a Bibliography?
 Tags: community, research
 

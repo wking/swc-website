@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5006
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Record and Playback
 Tags: content, tooling, versions/version-5-0
 

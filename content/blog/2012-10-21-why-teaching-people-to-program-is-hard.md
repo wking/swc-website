@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5205
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why Teaching People to Program Is Hard
 Tags: education
 

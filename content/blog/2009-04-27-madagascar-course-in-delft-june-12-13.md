@@ -1,5 +1,5 @@
 Post_Id: 2306
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Madagascar Course in Delft June 12-13
 Tags: noticed
 

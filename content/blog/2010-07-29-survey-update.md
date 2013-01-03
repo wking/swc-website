@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3512
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Survey Update
 Tags: community, research
 

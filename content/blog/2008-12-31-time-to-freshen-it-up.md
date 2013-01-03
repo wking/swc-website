@@ -1,5 +1,5 @@
 Post_Id: 1863
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Time to Freshen It Up
 Tags: lectures, versions/version-3
 

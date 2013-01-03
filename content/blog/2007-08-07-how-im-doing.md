@@ -1,5 +1,5 @@
 Post_Id: 1095
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How I'm Doing
 Tags: venues/university-of-toronto, versions/version-3
 

@@ -1,5 +1,5 @@
 Post_Id: 3333
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: If You Want to Look Ahead...
 Tags: lectures, versions/version-4
 

@@ -1,5 +1,5 @@
 Post_Id: 4370
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: New Features in Excel for Scientists
 Tags: noticed
 

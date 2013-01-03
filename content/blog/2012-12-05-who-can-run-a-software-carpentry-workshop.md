@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5351
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Who Can Run a Software Carpentry Workshop?
 Tags: community
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2131
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Das Kapital, Computational Thinking, and Productivity
 Tags: opinion
 

@@ -1,5 +1,5 @@
 Post_Id: 4231
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Stanford Course Went Well
 Tags: venues/stanford
 

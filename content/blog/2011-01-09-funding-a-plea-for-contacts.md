@@ -1,5 +1,5 @@
 Post_Id: 3924
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Funding (A Plea for Contacts)
 Tags: community, versions/version-4
 

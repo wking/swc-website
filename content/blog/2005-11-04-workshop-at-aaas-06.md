@@ -1,5 +1,5 @@
 Post_Id: 294
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Workshop at AAAS '06
 Tags: community, versions/version-3
 

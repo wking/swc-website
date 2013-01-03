@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4849
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What's Wrong With All This?
 Tags: opinion, tooling
 

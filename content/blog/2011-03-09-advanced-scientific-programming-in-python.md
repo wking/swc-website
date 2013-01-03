@@ -1,5 +1,5 @@
 Post_Id: 4075
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Advanced Scientific Programming in Python
 Tags: noticed
 

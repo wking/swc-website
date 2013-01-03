@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4273
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: I'm Not Normally Lost for Words
 Tags: content
 

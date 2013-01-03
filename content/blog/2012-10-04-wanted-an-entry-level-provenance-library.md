@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5138
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Wanted: An Entry-Level Provenance Library
 Tags: community, opinion
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5239
-Author_Id: pipitone.j
+Author: Jon Pipitone
 Title: Pelican Guts: on content management for Software Carpentry
 Tags: content, tooling, versions/version-5-0
 

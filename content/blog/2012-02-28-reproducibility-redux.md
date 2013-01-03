@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4626
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Reproducibility Redux
 Tags: noticed, opinion
 

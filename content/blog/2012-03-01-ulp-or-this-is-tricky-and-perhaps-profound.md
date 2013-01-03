@@ -1,5 +1,5 @@
 Post_Id: 4632
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: ULP (or, This is tricky and perhaps profound)
 Tags: noticed
 

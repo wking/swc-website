@@ -1,5 +1,5 @@
 Post_Id: 691
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: German Version of 'Bottleneck'
 Tags: community
 

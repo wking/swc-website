@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5366
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: IPython Funding: Hurray!
 Tags: community
 

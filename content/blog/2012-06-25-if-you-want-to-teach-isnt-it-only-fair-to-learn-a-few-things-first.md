@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4932
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: If You Want to Teach, Isn't It Only Fair to Learn a Few Things First?
 Tags: education, opinion
 

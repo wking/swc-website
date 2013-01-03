@@ -1,5 +1,5 @@
 Post_Id: 5294
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: This Is What We Do
 Tags: community, venues/scripps-institute
 

@@ -1,5 +1,5 @@
 Post_Id: 2492
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What *Is* Open Science?
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3524
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: An Answer That Most Students Won't Understand
 Tags: community, opinion
 

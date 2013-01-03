@@ -1,5 +1,5 @@
 Post_Id: 4259
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Renting Cycles Has Never Been Easier (For Some Definition of 'Easier')
 Tags: noticed
 

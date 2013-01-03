@@ -1,5 +1,5 @@
 Post_Id: 1374
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Grumpy Minds Think Alike
 Tags: community, noticed
 

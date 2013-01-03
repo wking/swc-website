@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5228
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Counting to Five (or, A Plan for Online Tutorials and What's Wrong With It)
 Tags: education, tooling, tutorial
 

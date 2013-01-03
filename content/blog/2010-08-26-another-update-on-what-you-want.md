@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3540
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another Update on What You Want
 Tags: content
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3816
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Peer to Peer
 Tags: community
 

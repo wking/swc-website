@@ -1,5 +1,5 @@
 Post_Id: 3498
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Strictly Speaking, This Isn't Part of Testing
 Tags: lectures, versions/version-4
 

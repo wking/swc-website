@@ -1,5 +1,5 @@
 Post_Id: 1461
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Summer Plans for Software Carpentry
 Tags: lectures, versions/version-3
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4602
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Granules of Research
 Tags: noticed, opinion
 

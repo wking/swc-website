@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4083
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What To Demand
 Tags: noticed
 

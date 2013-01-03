@@ -1,5 +1,5 @@
 Post_Id: 2083
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Open Science Panel at Columbia
 Tags: noticed
 

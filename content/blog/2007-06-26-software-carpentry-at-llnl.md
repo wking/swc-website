@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1000
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry at LLNL
 Tags: venues/llnl, versions/version-3
 

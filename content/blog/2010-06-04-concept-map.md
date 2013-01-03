@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3336
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Concept Map
 Tags: content
 

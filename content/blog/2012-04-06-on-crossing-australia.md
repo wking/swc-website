@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4730
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: On Crossing Australia (or, Further Thoughts on What to Teach Researchers about the Web)
 Tags: education, opinion
 

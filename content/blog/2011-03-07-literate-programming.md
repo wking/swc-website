@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4069
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Literate Programming
 Tags: opinion
 

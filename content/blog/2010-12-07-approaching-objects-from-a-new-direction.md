@@ -1,5 +1,5 @@
 Post_Id: 3826
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Approaching Objects from a New Direction
 Tags: content, versions/version-4
 

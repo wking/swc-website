@@ -1,5 +1,5 @@
 Post_Id: 1414
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: LearnHub Launches with Software Carpentry Front and Center
 Tags: venues/learnhub
 

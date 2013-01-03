@@ -1,5 +1,5 @@
 Post_Id: 431
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Integration and XML Lectures
 Tags: lectures, versions/version-3
 

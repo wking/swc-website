@@ -1,5 +1,5 @@
 Post_Id: 2666
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Eighty Per Cent!
 Tags: versions/version-4
 

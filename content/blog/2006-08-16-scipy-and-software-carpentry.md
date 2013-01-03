@@ -1,5 +1,5 @@
 Post_Id: 609
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SciPy and Software Carpentry
 Tags: community
 

@@ -1,5 +1,5 @@
 Post_Id: 4869
-Author_Id: figueira.l
+Author: Luis Figueira
 Title: SoundSoftware 2012: Workshop on Software and Data for Audio and Music Research
 Tags: community, education, lectures, research
 

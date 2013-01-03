@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3445
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: That's, Uh, Pretty Ambitious
 Tags: lectures
 

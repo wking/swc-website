@@ -1,5 +1,5 @@
 Post_Id: 3416
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Second Lecture on Regular Expressions
 Tags: lectures, versions/version-4
 

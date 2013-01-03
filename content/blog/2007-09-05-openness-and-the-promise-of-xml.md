@@ -1,5 +1,5 @@
 Post_Id: 1128
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Openness and (the promise of) XML
 Tags: content, noticed
 

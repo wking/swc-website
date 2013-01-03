@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4371
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What I've Learned So Far
 Tags: education
 

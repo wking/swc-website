@@ -1,5 +1,5 @@
 Post_Id: 392
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Else for Software Carpentry?
 Tags: content, versions/version-3
 

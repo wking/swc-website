@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4687
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Thank You, Enthought
 Tags: sponsors/enthought, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 5058
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: An Updated List of Upcoming Workshops
 Tags: boot-camp, versions/version-5-0
 

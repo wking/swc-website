@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3859
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Compute Canada's 'Strategic' Plan Isn't
 Tags: opinion
 

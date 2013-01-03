@@ -1,5 +1,5 @@
 Post_Id: 3663
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Python Lecture Coming Online
 Tags: content, versions/version-4
 

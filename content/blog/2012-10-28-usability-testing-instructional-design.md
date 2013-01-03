@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5231
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Usability Testing and Instructional Design
 Tags: content, education, versions/version-5-0
 

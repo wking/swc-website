@@ -1,5 +1,5 @@
 Post_Id: 1805
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Getting the Science Right---Or At Least, Less Wrong
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2473
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Good Afternoon
 Tags: content, lectures, noticed, venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

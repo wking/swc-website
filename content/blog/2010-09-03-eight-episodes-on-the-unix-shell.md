@@ -1,5 +1,5 @@
 Post_Id: 3563
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Eight Episodes on the Unix Shell
 Tags: content, versions/version-4
 

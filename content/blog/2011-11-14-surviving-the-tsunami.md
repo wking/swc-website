@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4353
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Surviving the Tsunami
 Tags: noticed
 

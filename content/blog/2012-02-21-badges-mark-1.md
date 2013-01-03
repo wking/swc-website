@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4589
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Badges (Mark 1)
 Tags: community, content, education, evaluation, versions/version-5-0
 

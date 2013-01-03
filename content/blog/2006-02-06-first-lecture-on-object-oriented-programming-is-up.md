@@ -1,5 +1,5 @@
 Post_Id: 373
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Lecture on Object-Oriented Programming Is Up
 Tags: lectures, versions/version-3
 

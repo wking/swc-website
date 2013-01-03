@@ -1,5 +1,5 @@
 Post_Id: 361
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Third Software Carpentry Python Lecture on the Web
 Tags: lectures, versions/version-3
 

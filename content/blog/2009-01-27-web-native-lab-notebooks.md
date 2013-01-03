@@ -1,5 +1,5 @@
 Post_Id: 1972
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Web Native Lab Notebooks
 Tags: content, noticed
 

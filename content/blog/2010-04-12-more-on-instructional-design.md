@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2830
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: More on Instructional Design
 Tags: tooling, versions/version-4
 

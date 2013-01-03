@@ -1,5 +1,5 @@
 Post_Id: 990
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Screencasts by Chris Lasher
 Tags: content
 

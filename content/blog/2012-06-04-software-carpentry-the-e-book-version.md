@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4895
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry: The E-Book Version?
 Tags: noticed, tooling
 

@@ -1,5 +1,5 @@
 Post_Id: 2809
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Simon Singh Wins (and So Does Science)
 Tags: opinion
 

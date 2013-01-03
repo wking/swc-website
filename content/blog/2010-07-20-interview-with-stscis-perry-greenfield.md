@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3486
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview with STSci's Perry Greenfield
 Tags: interviews, venues/stsci
 

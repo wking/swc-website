@@ -1,5 +1,5 @@
 Post_Id: 4693
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Object-Oriented Programming in Fortran 2003
 Tags: noticed
 

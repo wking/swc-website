@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3449
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Using Science to Design This Course
 Tags: education
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2486
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Next Steps
 Tags: content, tooling, versions/version-3
 

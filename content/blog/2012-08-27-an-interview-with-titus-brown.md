@@ -1,5 +1,5 @@
 Post_Id: 5061
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: An Interview with Titus Brown
 Tags: community, noticed
 

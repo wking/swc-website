@@ -1,5 +1,5 @@
 Post_Id: 4278
-Author_Id: guy.t
+Author: Tommy Guy
 Title: 2011 Software Carpentry Bootcamp Sold Out!
 Tags: venues/university-of-toronto
 

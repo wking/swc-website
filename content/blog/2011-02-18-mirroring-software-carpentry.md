@@ -1,5 +1,5 @@
 Post_Id: 4035
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Mirroring Software Carpentry
 Tags: community, content
 

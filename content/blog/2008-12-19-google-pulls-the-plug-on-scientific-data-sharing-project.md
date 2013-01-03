@@ -1,5 +1,5 @@
 Post_Id: 1846
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Google Pulls the Plug on Scientific Data Sharing Project
 Tags: noticed
 

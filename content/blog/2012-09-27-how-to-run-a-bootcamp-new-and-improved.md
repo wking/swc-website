@@ -1,5 +1,5 @@
 Post_Id: 5118
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How to Run a Bootcamp (new and improved)
 Tags: boot-camp, community, content
 

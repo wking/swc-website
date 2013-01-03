@@ -1,5 +1,5 @@
 Post_Id: 4637
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Happy People
 Tags: venues/international-center-for-theoretical-physics, versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3385
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: Mark Plumbley at Queen Mary University of London
 Tags: interviews, sponsors/queen-mary-university-of-london, sponsors
 

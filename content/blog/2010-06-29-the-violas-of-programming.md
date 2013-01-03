@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3444
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Violas of Programming
 Tags: lectures, versions/version-4
 

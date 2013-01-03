@@ -1,5 +1,5 @@
 Post_Id: 4853
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Being More Systematic About Publicity
 Tags: community
 

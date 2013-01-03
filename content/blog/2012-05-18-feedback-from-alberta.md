@@ -1,5 +1,5 @@
 Post_Id: 4832
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Feedback from Alberta
 Tags: boot-camp, venues/university-of-alberta, versions/version-5-0
 

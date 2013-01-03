@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5195
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: I Screwed Up (or, Why Automation Isn't Always a Good Thing)
 Tags: boot-camp, community
 

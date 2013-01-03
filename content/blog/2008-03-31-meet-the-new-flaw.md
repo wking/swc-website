@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1457
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Meet the New Flaw
 Tags: opinion
 

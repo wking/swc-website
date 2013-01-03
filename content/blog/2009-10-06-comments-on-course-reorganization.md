@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2577
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Comments on Course Reorganization
 Tags: content, lectures, versions/version-4
 

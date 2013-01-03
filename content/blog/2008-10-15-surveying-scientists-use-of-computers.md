@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1764
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Surveying Scientists' Use of Computers
 Tags: community, content, research
 

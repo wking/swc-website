@@ -1,5 +1,5 @@
 Post_Id: 3289
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 2: More Sticky Notes
 Tags: lectures, versions/version-4
 

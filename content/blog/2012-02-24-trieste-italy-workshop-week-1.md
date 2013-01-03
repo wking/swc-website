@@ -1,5 +1,5 @@
 Post_Id: 4615
-Author_Id: huff.k
+Author: Katy Huff
 Title: Trieste, Italy Workshop - Week 1
 Tags: venues/ictp
 

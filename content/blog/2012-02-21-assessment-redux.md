@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4597
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Assessment Redux
 Tags: education, evaluation, versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2641
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Osmosis is Just a Fancy Name for Failure
 Tags: opinion
 

@@ -1,5 +1,5 @@
 Post_Id: 594
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: HPCWire Interview on Software Carpentry
 Tags: community
 

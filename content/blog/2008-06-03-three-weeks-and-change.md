@@ -1,5 +1,5 @@
 Post_Id: 1583
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three Weeks and Change
 Tags: sponsors/mathworks
 

@@ -1,5 +1,5 @@
 Post_Id: 3313
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 10: Closed Captioning
 Tags: lectures, versions/version-4
 

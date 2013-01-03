@@ -1,5 +1,5 @@
 Post_Id: 2610
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Cloud Computing for Beginners
 Tags: content, noticed
 

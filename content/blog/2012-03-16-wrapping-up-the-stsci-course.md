@@ -1,5 +1,5 @@
 Post_Id: 4688
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Wrapping Up the STScI Course
 Tags: evaluation, venues/online, venues/stsci, versions/version-5-0
 

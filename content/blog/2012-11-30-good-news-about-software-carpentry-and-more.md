@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5321
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Good News About Software Carpentry (and More)
 Tags: community, sponsors/mozilla, sponsors/sloan-foundation, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 255
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry notes are up
 Tags: lectures, versions/version-2
 

@@ -1,5 +1,5 @@
 Post_Id: 4973
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Wrapping Up in Halifax
 Tags: boot-camp, venues/saint-marys-university
 

@@ -1,5 +1,5 @@
 Post_Id: 3525
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry for Audio and Music Researchers
 Tags: venues/qmul
 

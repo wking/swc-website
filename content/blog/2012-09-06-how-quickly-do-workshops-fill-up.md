@@ -1,5 +1,5 @@
 Post_Id: 5087
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Quickly Do Workshops Fill Up?
 Tags: boot-camp, community
 

@@ -1,5 +1,5 @@
 Post_Id: 4427
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Big Picture
 Journal: True
 Tags: versions/version-5-0

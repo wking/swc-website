@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4281
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Revamping This Site
 Tags: tooling
 

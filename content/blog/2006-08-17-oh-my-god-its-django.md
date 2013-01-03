@@ -1,5 +1,5 @@
 Post_Id: 613
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Oh My God It's Django!
 Tags: community
 

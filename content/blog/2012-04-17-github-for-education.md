@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4749
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: GitHub for Education
 Tags: education, opinion
 

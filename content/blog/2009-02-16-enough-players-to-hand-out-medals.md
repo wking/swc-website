@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2075
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Enough Players to Hand Out Medals
 Tags: community, content, noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4679
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Where Next for the Next-Gen Course (and Software Carpentry)?
 Tags: community, education
 

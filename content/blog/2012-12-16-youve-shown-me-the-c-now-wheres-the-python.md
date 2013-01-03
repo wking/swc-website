@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5372
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: You've Shown Me the C, Now Where's the Python?
 Tags: opinion, tooling
 

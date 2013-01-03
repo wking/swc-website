@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4289
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Science Code Manifesto's Five C's
 Tags: noticed
 

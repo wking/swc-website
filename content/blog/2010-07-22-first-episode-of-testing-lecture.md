@@ -1,5 +1,5 @@
 Post_Id: 3495
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Episode of Testing Lecture
 Tags: lectures, versions/version-4
 

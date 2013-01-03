@@ -1,5 +1,5 @@
 Post_Id: 3790
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Winter 2011 Online Course Now Full
 Tags: community, venues/online
 

@@ -1,5 +1,5 @@
 Post_Id: 4138
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: In Praise of Street Fighting
 Tags: noticed
 

@@ -1,5 +1,5 @@
 Post_Id: 4214
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Reproducible Computational Geophysics
 Tags: noticed
 

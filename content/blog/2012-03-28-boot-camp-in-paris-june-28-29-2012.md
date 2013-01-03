@@ -1,5 +1,5 @@
 Post_Id: 4702
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Boot Camp in Paris June 28-29, 2012
 Tags: boot-camp, venues/inria-paris
 

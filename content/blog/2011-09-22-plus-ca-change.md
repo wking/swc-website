@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4275
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Plus Ca Change...
 Tags: opinion
 

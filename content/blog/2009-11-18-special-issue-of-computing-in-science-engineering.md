@@ -1,5 +1,5 @@
 Post_Id: 2613
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Special Issue of Computing in Science and Engineering
 Tags: community, noticed, research
 

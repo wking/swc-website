@@ -1,5 +1,5 @@
 Post_Id: 5233
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Position Available: Director, Webmaking Science Lab, Mozilla
 Tags: jobs
 

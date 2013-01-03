@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4487
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Re-doing the Three-Minute Pitch
 Tags: content, versions/version-5-0
 

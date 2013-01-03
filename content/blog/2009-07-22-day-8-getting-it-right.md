@@ -1,5 +1,5 @@
 Post_Id: 2455
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 8: Getting It Right
 Tags: venues/university-of-alberta, venues/university-of-toronto, versions/version-3
 

@@ -1,5 +1,5 @@
 Post_Id: 3457
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: HPC and Programmability
 Tags: noticed, opinion, research
 

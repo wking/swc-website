@@ -1,5 +1,5 @@
 Post_Id: 3374
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Big Picture (version 3)
 Tags: content
 

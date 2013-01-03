@@ -1,5 +1,5 @@
 Post_Id: 3505
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Second Lecture on Version Control
 Tags: lectures, versions/version-4
 

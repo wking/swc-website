@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4805
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Solution to Indented List Problem
 Tags: tutorial, versions/version-5-0
 

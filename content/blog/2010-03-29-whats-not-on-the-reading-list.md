@@ -1,5 +1,5 @@
 Post_Id: 2773
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What's Not on the Reading List
 Tags: community, content, versions/version-4
 

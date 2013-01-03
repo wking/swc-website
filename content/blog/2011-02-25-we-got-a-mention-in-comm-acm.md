@@ -1,5 +1,5 @@
 Post_Id: 4055
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: We Got a Mention in Comm. ACM
 Tags: noticed
 

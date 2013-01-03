@@ -1,5 +1,5 @@
 Post_Id: 3782
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Phylogenetic Trees
 Tags: content, versions/version-4
 

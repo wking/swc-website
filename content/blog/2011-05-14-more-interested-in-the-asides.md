@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4159
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: More Interested in the Asides
 Tags: noticed
 

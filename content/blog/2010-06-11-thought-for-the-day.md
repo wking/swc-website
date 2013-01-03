@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3380
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Thought for the Day
 Tags: education
 

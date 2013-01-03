@@ -1,5 +1,5 @@
 Post_Id: 3736
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Counting Things (Part 2)
 Tags: content
 

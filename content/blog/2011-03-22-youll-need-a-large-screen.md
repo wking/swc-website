@@ -1,5 +1,5 @@
 Post_Id: 4105
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: You'll Need a Large Screen
 Tags: content, versions/version-4-1
 

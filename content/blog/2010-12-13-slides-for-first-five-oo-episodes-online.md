@@ -1,5 +1,5 @@
 Post_Id: 3847
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Slides for First Five OO Episodes Online
 Tags: content, versions/version-4
 

@@ -1,5 +1,5 @@
 Post_Id: 1030
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Win a Trip to Reno!
 Tags: noticed
 

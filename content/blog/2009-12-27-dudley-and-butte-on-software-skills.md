@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2638
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Dudley and Butte on Software Skills
 Tags: content, noticed, opinion
 

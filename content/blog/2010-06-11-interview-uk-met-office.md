@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3379
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: David Jackson at the UK Met Office
 Tags: interviews, sponsors, sponsors/uk-met-office
 

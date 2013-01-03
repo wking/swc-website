@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5222
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Prime Numbers, Biologists, and Data Visualization
 Tags: content, education, versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4562
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Watch Me: Volunteers Wanted
 Tags: community, content, versions/version-5-0
 

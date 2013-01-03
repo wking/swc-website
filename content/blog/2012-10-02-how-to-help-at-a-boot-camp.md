@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5133
-Author_Id: huff.k
+Author: Katy Huff
 Title: How to Help at a Boot Camp
 Tags: boot-camp, community
 

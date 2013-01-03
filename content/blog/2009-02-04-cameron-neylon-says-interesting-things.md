@@ -1,5 +1,5 @@
 Post_Id: 2000
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Cameron Neylon Says Interesting Things
 Tags: noticed, opinion
 

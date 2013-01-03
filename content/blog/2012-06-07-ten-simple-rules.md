@@ -1,5 +1,5 @@
 Post_Id: 4904
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ten Simple Rules
 Tags: content, noticed
 

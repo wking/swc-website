@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 522
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry's new home
 Tags: sponsors/enthought, versions/version-3
 

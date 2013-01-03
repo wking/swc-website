@@ -1,5 +1,5 @@
 Post_Id: 281
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry at the AAAS
 Tags: community, venues/ebi-cambridge, versions/version-3
 

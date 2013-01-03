@@ -1,5 +1,5 @@
 Post_Id: 4207
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Michael Nielsen Talks About Open Science in San Francisco on June 29
 Tags: noticed
 

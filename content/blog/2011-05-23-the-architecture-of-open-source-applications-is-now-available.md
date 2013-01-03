@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4164
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: 'The Architecture of Open Source Applications' is Now Available
 Tags: noticed
 

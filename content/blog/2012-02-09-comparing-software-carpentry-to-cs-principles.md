@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4525
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Comparing Software Carpentry to CS Principles
 Tags: content, education, versions/version-5-0
 

@@ -1,5 +1,5 @@
 Post_Id: 3325
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Program Design: the First Third
 Tags: lectures, versions/version-4
 

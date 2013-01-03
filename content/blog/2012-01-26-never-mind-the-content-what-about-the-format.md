@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4431
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Never Mind the Content, What About the Format?
 Tags: content, education, versions/version-5-0
 

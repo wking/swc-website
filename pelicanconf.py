@@ -21,3 +21,6 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
+
+ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}/index.html'

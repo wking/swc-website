@@ -1,5 +1,5 @@
 Post_Id: 3856
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Building a Recommendation Engine with NumPy
 Tags: community, versions/version-4
 

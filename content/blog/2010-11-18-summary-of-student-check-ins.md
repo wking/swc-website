@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3764
-Author_Id: pipitone.j
+Author: Jon Pipitone
 Title: Summary of student check-ins
 Tags: evaluation
 

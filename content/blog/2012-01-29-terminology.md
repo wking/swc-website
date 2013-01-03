@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4465
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Terminology
 Tags: content, education, versions/version-5-0
 

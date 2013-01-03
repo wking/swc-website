@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5370
-Author_Id: limare.n
+Author: Nicolas Limare
 Title: Three Non-trivial Use Cases for Git
 Tags: community
 

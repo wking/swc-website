@@ -1,5 +1,5 @@
 Post_Id: 3330
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Assembling a Program
 Tags: lectures, versions/version-4
 

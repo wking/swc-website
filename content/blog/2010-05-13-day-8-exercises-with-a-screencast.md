@@ -1,5 +1,5 @@
 Post_Id: 3307
-Author_Id: pipitone.j
+Author: Jon Pipitone
 Title: Day 8: Exercises (with a screencast)
 Tags: content, versions/version-4
 

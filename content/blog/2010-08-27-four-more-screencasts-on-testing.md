@@ -1,5 +1,5 @@
 Post_Id: 3545
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Four More Screencasts on Testing
 Tags: content, versions/version-4
 

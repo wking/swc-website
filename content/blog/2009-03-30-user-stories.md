@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2279
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: User Stories
 Tags: content, lectures, versions/version-3
 

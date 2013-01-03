@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4250
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Introducing Programming a Different Way
 Tags: versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2825
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Measuring Science
 Tags: opinion, research
 

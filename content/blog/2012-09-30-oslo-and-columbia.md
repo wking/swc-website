@@ -1,5 +1,5 @@
 Post_Id: 5125
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Oslo and Columbia
 Tags: boot-camp, venues/columbia-university, venues/university-of-oslo
 

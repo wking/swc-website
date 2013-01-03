@@ -1,5 +1,5 @@
 Post_Id: 4719
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Upcoming Events for Webmaking Instructors
 Tags: noticed
 

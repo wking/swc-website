@@ -1,5 +1,5 @@
 Post_Id: 4675
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How We're Doing
 Tags: boot-camp, venues/indiana-university
 

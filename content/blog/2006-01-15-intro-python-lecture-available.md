@@ -1,5 +1,5 @@
 Post_Id: 351
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Intro Python Lecture Available
 Tags: lectures, versions/version-3
 

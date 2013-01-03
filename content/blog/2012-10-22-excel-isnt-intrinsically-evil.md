@@ -1,5 +1,5 @@
 Post_Id: 5211
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Excel Isn't Intrinsically Evil
 Tags: noticed
 

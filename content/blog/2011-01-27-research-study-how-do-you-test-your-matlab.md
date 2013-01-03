@@ -1,5 +1,5 @@
 Post_Id: 3974
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Research Study: How Do You Test Your MATLAB?
 Tags: research
 

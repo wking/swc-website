@@ -1,5 +1,5 @@
 Post_Id: 4791
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Architecture of Open Source Applications: Volume 2
 Tags: noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3426
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Another Example of small-p Patterns
 Tags: content
 

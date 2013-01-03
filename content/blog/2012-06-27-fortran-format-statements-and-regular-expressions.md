@@ -1,5 +1,5 @@
 Post_Id: 4938
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Fortran Format Statements and Regular Expressions
 Tags: community
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3474
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Survey Results
 Tags: community, lectures, research
 

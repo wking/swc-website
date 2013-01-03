@@ -1,5 +1,5 @@
 Post_Id: 3420
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Episode 4 on Regular Expressions
 Tags: lectures, versions/version-4
 

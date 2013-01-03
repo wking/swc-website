@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4739
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Solution to Data Merging with Dictionaries
 Tags: tutorial, versions/version-5-0
 

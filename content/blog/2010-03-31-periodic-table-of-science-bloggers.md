@@ -1,5 +1,5 @@
 Post_Id: 2790
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Periodic Table of Science Bloggers
 Tags: noticed
 

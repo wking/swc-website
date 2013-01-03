@@ -1,5 +1,5 @@
 Post_Id: 4014
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Two More Episodes on Spreadsheets
 Tags: content, versions/version-4
 

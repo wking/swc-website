@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4747
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Halfway Home
 Tags: versions/version-5-0
 

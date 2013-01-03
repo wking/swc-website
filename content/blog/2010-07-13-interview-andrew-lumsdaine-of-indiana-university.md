@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3467
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview: Andrew Lumsdaine of Indiana University
 Tags: sponsors/indiana-university, interviews
 

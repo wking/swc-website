@@ -1,5 +1,5 @@
 Post_Id: 4078
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: High Tech That Looks Low Tech
 Tags: noticed
 

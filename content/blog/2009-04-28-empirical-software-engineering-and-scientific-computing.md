@@ -1,5 +1,5 @@
 Post_Id: 2311
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Empirical Software Engineering and Scientific Computing
 Tags: community, content, opinion, research
 

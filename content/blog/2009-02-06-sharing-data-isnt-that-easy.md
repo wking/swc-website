@@ -1,5 +1,5 @@
 Post_Id: 2010
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Sharing Data Isn't That Easy
 Tags: content, noticed
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2841
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: File Sharing for Scientists
 Tags: content, noticed
 

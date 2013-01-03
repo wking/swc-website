@@ -1,5 +1,5 @@
 Post_Id: 1827
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Three Reasons to Distrust Microarray Results
 Tags: noticed
 

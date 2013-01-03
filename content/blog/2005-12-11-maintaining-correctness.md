@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 326
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Maintaining Correctness
 Tags: content, versions/version-3
 

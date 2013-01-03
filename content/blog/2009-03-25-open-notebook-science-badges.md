@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2269
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Open Notebook Science Badges
 Tags: community
 

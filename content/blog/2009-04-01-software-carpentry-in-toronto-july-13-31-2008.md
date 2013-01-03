@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2282
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry in Toronto July 13-31 2009
 Tags: sponsors/mitacs, venues/university-of-toronto, versions/version-3
 

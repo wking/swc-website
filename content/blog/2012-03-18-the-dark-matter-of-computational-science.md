@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4690
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Dark Matter of Computational Science
 Tags: opinion
 

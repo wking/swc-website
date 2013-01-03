@@ -1,5 +1,5 @@
 Post_Id: 4678
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ask the CompuScienceGeek?
 Tags: community
 

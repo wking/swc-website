@@ -1,5 +1,5 @@
 Post_Id: 4168
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Workshop at CEF'11
 Tags: venues/cef-2011
 

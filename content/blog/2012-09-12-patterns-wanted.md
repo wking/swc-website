@@ -1,5 +1,5 @@
 Post_Id: 5094
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Patterns Wanted
 Journal: True
 Tags: content, education

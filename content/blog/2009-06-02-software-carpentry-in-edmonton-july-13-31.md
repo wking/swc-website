@@ -1,5 +1,5 @@
 Post_Id: 2371
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry in Edmonton July 13-31
 Tags: venues/university-of-alberta, versions/version-3
 

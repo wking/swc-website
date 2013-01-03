@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4488
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Where To Host Q+A and Discussion?
 Tags: community
 

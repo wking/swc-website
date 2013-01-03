@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4863
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: No CT Without PL
 Tags: education, research
 

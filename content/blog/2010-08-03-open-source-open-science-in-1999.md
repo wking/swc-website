@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3521
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Open Source, Open Science in 1999
 Tags: opinion
 

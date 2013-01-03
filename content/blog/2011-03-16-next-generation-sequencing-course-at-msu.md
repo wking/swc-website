@@ -1,5 +1,5 @@
 Post_Id: 4088
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Next-Generation Sequencing Course at MSU
 Tags: venues/michigan-state, noticed
 

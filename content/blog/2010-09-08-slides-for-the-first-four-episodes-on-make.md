@@ -1,5 +1,5 @@
 Post_Id: 3575
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Slides for the First Four Episodes on Make
 Tags: content
 

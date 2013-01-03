@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3882
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What I Learned From Software Carpentry
 Tags: venues/ukmo, versions/version-4
 

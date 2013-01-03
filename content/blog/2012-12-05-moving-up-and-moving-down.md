@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5349
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Moving Up and Moving Down
 Tags: content, versions/version-5-0
 

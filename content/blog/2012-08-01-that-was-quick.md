@@ -1,5 +1,5 @@
 Post_Id: 5009
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: That Was Quick
 Tags: boot-camp, venues/uc-berkeley, versions/version-5-0
 

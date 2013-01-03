@@ -1,5 +1,5 @@
 Post_Id: 5026
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Question and Answer Matrix for Software Carpentry
 Journal: True
 Tags: content, education, versions/version-5-0

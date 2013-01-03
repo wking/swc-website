@@ -1,5 +1,5 @@
 Post_Id: 3534
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Slides and Scripts for the Next Two Episodes
 Tags: lectures, versions/version-4
 

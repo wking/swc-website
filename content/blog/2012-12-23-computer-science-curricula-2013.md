@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5376
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Computer Science Curricula 2013
 Tags: education
 

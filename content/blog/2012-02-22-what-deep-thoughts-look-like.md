@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4599
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Deep Thoughts Look Like
 Tags: education, evaluation, versions/version-5-0
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2549
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Grant Proposal
 Tags: versions/version-4
 

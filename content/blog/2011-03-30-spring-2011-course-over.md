@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4120
-Author_Id: buske.o
+Author: Orion Buske
 Title: Spring 2011 Course Over
 Tags: education, evaluation, versions/version-4
 

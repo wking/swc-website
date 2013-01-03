@@ -1,5 +1,5 @@
 Post_Id: 4939
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Supercomputing Driver's License
 Tags: community, education
 

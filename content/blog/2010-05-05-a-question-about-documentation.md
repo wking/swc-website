@@ -1,5 +1,5 @@
 Post_Id: 3297
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Question About Documentation
 Tags: community, research
 

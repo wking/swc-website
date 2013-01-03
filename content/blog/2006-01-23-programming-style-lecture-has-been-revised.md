@@ -1,5 +1,5 @@
 Post_Id: 362
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Programming Style Lecture Has Been Revised
 Tags: lectures, versions/version-3
 

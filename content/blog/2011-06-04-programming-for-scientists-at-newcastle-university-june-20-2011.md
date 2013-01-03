@@ -1,5 +1,5 @@
 Post_Id: 4182
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Programming for Scientists at Newcastle University: June 20, 2011
 Tags: noticed
 

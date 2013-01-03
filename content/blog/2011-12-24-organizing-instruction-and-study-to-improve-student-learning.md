@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4375
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Organizing Instruction and Study to Improve Student Learning
 Tags: education
 

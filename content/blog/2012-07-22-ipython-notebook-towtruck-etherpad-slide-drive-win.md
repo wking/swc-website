@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4997
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: IPython Notebook + Towtruck + Etherpad + Slide Drive = Win
 Tags: education, tooling
 

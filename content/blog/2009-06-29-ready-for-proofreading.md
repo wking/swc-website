@@ -1,5 +1,5 @@
 Post_Id: 2412
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Ready for Proofreading
 Tags: lectures, versions/version-3
 

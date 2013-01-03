@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4913
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: But the Greatest of These Is...
 Tags: opinion
 

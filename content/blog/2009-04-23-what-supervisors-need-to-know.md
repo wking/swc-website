@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2295
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What Supervisors Need To Know
 Tags: content
 

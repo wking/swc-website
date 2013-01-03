@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4360
-Author_Id: huff.k
+Author: Katy Huff
 Title: Knowledge of the Second Kind
 Tags: venues/university-of-wisconsin
 

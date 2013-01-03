@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5365
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Some of the Things We've Learned About Teaching Git
 Tags: boot-camp, education
 

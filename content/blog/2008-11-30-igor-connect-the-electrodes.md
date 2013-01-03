@@ -1,5 +1,5 @@
 Post_Id: 1812
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Igor, Connect the Electrodes!
 Tags: lectures, versions/version-3
 

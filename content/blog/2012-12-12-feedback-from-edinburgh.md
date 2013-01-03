@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5368
-Author_Id: jackson.m
+Author: Mike Jackson
 Title: Feedback from Edinburgh
 Tags: boot-camp, venues/edinburgh
 

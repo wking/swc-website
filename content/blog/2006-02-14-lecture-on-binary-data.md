@@ -1,5 +1,5 @@
 Post_Id: 382
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Lecture on Binary Data
 Tags: lectures, versions/version-3
 

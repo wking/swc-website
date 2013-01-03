@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4870
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How to Run a Bootcamp
 Tags: boot-camp, versions/version-5-0
 

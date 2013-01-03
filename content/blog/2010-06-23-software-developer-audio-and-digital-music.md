@@ -1,5 +1,5 @@
 Post_Id: 3422
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Developer: Audio and Digital Music
 Tags: jobs, sponsors/queen-mary-university-of-london, sponsors
 

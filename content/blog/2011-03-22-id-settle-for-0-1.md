@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4108
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: I'd Settle for 0.1%
 Tags: noticed, opinion
 

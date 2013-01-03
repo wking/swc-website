@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2656
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Big Science == Big Skills Gap
 Tags: noticed, opinion
 

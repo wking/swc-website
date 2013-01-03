@@ -1,5 +1,5 @@
 Post_Id: 4925
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Busy Week (And Schwag!)
 Tags: community
 

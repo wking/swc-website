@@ -1,10 +1,10 @@
 Journal: True
 Post_Id: 5374
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Sample Data Management Plans
 Tags: community, noticed
 
-<p><a href="http://www.epcc.ed.ac.uk/about-us/staff/chue-hong-neil/">Neil Chue Hong</a> recently pointed us at DataONE's <a href="http://www.dataone.org/data-management-planning">Data Management Planning</a> page, which has two really useful things:</p>
+<p><a href="http://www.epcc.ed.ac.uk/about-us/staff/Neil Chue Hongeil/">Neil Chue Hong</a> recently pointed us at DataONE's <a href="http://www.dataone.org/data-management-planning">Data Management Planning</a> page, which has two really useful things:</p>
 <ol>
   <li>a link to <a href="https://dmp.cdlib.org/">DMPTool</a>, which will help you build a data management plan for your project; and</li>
   <li>

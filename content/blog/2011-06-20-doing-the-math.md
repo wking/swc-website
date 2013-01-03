@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4199
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Doing the Math
 Tags: opinion
 

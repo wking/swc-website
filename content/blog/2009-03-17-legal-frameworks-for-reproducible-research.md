@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 2230
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Legal Frameworks for Reproducible Research
 Tags: community, content
 

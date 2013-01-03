@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4854
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Citing Versions
 Tags: opinion
 

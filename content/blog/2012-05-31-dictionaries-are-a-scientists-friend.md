@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4873
-Author_Id: mcglinn.d
+Author: Dan McGlinn
 Title: Dictionaries are a Scientist's Friend
 Tags: education, tutorial
 

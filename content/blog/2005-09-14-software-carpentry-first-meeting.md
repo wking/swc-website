@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 278
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry: First Meeting
 Tags: venues/university-of-toronto, versions/version-3
 

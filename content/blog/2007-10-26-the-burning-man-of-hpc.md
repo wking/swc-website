@@ -1,5 +1,5 @@
 Post_Id: 1196
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Burning Man of HPC
 Tags: community, noticed
 

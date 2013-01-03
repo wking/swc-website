@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3483
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: An Interview with Hans Petter Langtangen
 Tags: interviews
 

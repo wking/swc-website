@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4126
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Harder Than It Should Be
 Tags: opinion
 

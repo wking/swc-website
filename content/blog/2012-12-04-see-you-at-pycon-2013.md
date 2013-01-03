@@ -1,5 +1,5 @@
 Post_Id: 5325
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: See You at PyCon 2013
 Tags: community
 

@@ -1,5 +1,5 @@
 Post_Id: 376
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Design Lecture
 Tags: lectures, versions/version-3
 

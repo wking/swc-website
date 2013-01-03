@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 387
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: AAAS Annual Meeting 2006
 Tags: community, versions/version-3
 

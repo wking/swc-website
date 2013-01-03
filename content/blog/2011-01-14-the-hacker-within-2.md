@@ -1,5 +1,5 @@
 Post_Id: 3933
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Hacker Within
 Tags: venues/university-of-wisconsin
 

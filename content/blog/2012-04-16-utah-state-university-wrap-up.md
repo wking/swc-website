@@ -1,5 +1,5 @@
 Post_Id: 4745
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Utah State University Wrap-Up
 Tags: boot-camp, venues/utah-state-university
 

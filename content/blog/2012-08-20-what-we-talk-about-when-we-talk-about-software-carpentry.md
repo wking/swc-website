@@ -1,5 +1,5 @@
 Post_Id: 5055
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What We Talk About When We Talk About Software Carpentry
 Tags: content
 

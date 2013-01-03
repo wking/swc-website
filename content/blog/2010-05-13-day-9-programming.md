@@ -1,5 +1,5 @@
 Post_Id: 3310
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Day 9: Programming
 Tags: lectures, versions/version-4
 

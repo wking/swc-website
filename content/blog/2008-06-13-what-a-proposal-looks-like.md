@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1608
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What a Proposal Looks Like
 Tags: sponsors/mathworks
 

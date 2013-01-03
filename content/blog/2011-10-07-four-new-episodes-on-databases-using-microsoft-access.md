@@ -1,5 +1,5 @@
 Post_Id: 4287
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Four New Episodes on Databases Using Microsoft Access
 Tags: content, versions/version-4-1
 

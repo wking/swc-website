@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4545
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How Many Legs Does Science Have?
 Tags: opinion
 

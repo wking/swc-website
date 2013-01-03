@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5143
-Author_Id: davis.m
+Author: Matt Davis
 Title: Transitioning to the IPython Notebook
 Tags: content, lectures
 

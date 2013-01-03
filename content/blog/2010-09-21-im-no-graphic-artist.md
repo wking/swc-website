@@ -1,5 +1,5 @@
 Post_Id: 3599
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: I'm No Graphic Artist...
 Tags: content
 

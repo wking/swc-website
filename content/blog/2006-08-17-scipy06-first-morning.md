@@ -1,5 +1,5 @@
 Post_Id: 612
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SciPy'06: First Morning
 Tags: community
 

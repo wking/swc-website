@@ -1,5 +1,5 @@
 Post_Id: 2513
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Who Owns Your Data?
 Tags: noticed, opinion
 

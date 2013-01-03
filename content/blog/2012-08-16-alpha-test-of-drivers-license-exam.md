@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5027
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Alpha Test of Driver's License Exam
 Tags: community, education
 

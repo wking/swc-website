@@ -1,5 +1,5 @@
 Post_Id: 2450
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Elsevier's Future, Version 0.1
 Tags: noticed, opinion
 

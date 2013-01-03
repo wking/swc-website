@@ -1,5 +1,5 @@
 Post_Id: 341
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry Introduction revised and on the web
 Tags: lectures, versions/version-3
 

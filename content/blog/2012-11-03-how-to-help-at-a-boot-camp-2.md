@@ -1,5 +1,5 @@
 Post_Id: 5245
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: How to Help at a Boot Camp
 Tags: boot-camp
 

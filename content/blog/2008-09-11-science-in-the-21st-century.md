@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 1741
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Science in the 21st Century
 Tags: community, opinion
 

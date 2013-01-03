@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4270
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: The Simplest Web That Could Possibly Work
 Tags: noticed
 

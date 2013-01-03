@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4776
-Author_Id: cannam.c
+Author: Chris Cannam
 Title: UCL Bootcamp: Version Control Wrap-Up
 Tags: boot-camp, evaluation, venues/university-college-london
 

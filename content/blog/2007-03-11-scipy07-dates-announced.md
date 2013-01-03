@@ -1,5 +1,5 @@
 Post_Id: 866
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: SciPy'07 Dates Announced
 Tags: community
 

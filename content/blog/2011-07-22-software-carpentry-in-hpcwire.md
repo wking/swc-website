@@ -1,5 +1,5 @@
 Post_Id: 4240
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Software Carpentry in HPCWire
 Tags: noticed
 

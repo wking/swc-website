@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4293
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: American Scientist Article on Empirical Studies of Software Engineering
 Tags: noticed
 

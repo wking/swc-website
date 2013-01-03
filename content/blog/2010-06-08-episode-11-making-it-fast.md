@@ -1,5 +1,5 @@
 Post_Id: 3344
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Episode 11: Making It Fast
 Tags: lectures, versions/version-4
 

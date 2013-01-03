@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4912
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: We Get Mail
 Tags: community, venues/university-of-british-columba, versions/version-4-1
 

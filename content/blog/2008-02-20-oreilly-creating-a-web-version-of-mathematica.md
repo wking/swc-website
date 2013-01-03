@@ -1,5 +1,5 @@
 Post_Id: 1392
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: O'Reilly Creating a Web Version of Mathematica
 Tags: noticed
 

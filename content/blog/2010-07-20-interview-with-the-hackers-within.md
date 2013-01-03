@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3487
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Interview with The Hackers Within
 Tags: interviews, venues/university-of-wisconsin
 

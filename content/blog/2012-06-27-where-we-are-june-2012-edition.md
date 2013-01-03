@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4941
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Where We Are (June 2012 edition)
 Tags: community, versions/version-4-1
 

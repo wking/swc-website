@@ -1,5 +1,5 @@
 Post_Id: 3805
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: First Four Episodes on Multimedia
 Tags: content, versions/version-4
 

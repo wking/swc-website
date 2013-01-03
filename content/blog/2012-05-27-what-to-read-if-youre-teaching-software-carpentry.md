@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4865
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What to Read If You're Teaching Software Carpentry
 Tags: boot-camp, education
 

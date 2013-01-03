@@ -1,5 +1,5 @@
 Post_Id: 5241
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Oxford Wrap-Up (with charts!)
 Tags: boot-camp, venues/oxford
 

@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 3404
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: A Voice from the Back of the Room
 Tags: content, noticed, opinion
 

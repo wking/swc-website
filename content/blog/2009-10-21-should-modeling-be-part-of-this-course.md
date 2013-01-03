@@ -1,5 +1,5 @@
 Post_Id: 2591
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Should Modeling Be Part of This Course?
 Tags: content, versions/version-4
 

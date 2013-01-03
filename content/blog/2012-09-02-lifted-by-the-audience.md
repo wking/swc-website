@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5077
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Lifted by the Audience
 Tags: content, education, opinion
 

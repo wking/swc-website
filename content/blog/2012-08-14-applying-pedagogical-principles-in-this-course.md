@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5019
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Applying Pedagogical Principles in This Course
 Tags: education
 

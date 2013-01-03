@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4711
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: What to Teach Researchers About the Web
 Tags: content, opinion, versions/version-5-0
 

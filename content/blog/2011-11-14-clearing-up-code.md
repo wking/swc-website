@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4355
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Clearing Up Code
 Tags: opinion
 

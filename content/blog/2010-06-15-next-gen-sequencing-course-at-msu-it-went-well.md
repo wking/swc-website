@@ -1,5 +1,5 @@
 Post_Id: 3400
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Next-Gen Sequencing Course at MSU: It Went Well
 Tags: sponsors/michigan-state-university, sponsors
 

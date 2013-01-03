@@ -1,5 +1,5 @@
 Post_Id: 4099
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Videos of Autumn School Lectures
 Tags: content, venues/qmul, versions/version-4
 

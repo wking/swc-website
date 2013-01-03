@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 5301
-Author_Id: davis.m
+Author: Matt Davis
 Title: Making a Difference at LBL
 Tags: community, venues/lawrence-berkeley-lab
 

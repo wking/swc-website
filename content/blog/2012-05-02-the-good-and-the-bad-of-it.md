@@ -1,5 +1,5 @@
 Post_Id: 4770
-Author_Id: chue-hong.n
+Author: Neil Chue Hong
 Title: The Good and the Bad of It
 Tags: boot-camp, evaluation, venues/university-college-london
 

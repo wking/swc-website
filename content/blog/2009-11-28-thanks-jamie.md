@@ -1,5 +1,5 @@
 Post_Id: 2626
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Thanks, Jamie
 Tags: sponsors/mathworks, venues/university-of-toronto, versions/version-3
 

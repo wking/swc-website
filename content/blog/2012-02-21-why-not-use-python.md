@@ -1,6 +1,6 @@
 Journal: True
 Post_Id: 4588
-Author_Id: wilson.g
+Author: Greg Wilson
 Title: Why *Not* Use Python
 Tags: opinion
 
