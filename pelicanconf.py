@@ -46,3 +46,5 @@ DIRECT_TEMPLATES = [
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
+PAGE_URL = '{category}/{slug}'
+PAGE_SAVE_AS = '{category}/{slug}/index.html'
