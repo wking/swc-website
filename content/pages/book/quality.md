@@ -910,7 +910,7 @@ assert not dna_starts_with('at', 't')
         First, let's put each test in a function with a meaningful name:
       </p>
 
-<!--
+<span class="comment">
 Steve Haddock:
 def longer_genome_starts_with_base():
     assert dna_starts_with('at', 'a')
@@ -918,7 +918,7 @@ def longer_genome_starts_with_base():
 you wouldn't ever really call that a genome.
 
 also,,using ATG as the starts_with sequence would make most sense, since that is the "start codon" for most genes
--->
+</span>
 
 <pre>
 def single_base_starts_with_itself():

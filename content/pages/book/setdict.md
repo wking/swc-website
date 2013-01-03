@@ -10,7 +10,7 @@ Title: Sets and Dictionaries in Python
       <li><a href="#s:summary">Summing Up</a></li>
     </ol>
 
-    <!-- GVW: add sparse vector example -->
+    <span class="comment"> GVW: add sparse vector example </span>
 
     <p>
       Fan Fullerene has just joined Molecules'R'Us,
@@ -46,7 +46,7 @@ Title: Sets and Dictionaries in Python
 
       <div class="understand" id="u:sets">
         <h3>Understand:</h3>
-        <!-- TA: "lists and arrays." In this context, what is the distinction and do they know about that distinction? -->
+        <span class="comment"> TA: "lists and arrays." In this context, what is the distinction and do they know about that distinction? </span>
         <ul>
           <li>That lists and arrays are not the only data structures available to programmers.</li>
           <li>That a set stores unique values.</li>
@@ -73,9 +73,9 @@ Title: Sets and Dictionaries in Python
         Here's a function to add a new atom to the list:
       </p>
 
-<!-- TA: Here, 'return' is short-circuiting the function once we see the atom. Has that already been covered? Is that difficult for beginners?
+<span class="comment"> TA: Here, 'return' is short-circuiting the function once we see the atom. Has that already been covered? Is that difficult for beginners?
 
-TA: How about pass-by-reference? You're talking about it later in the chapter, but would a forward reference help? -->
+TA: How about pass-by-reference? You're talking about it later in the chapter, but would a forward reference help? </span>
 
 <pre>
 def another_atom(seen, atom):
@@ -117,7 +117,7 @@ def another_atom(seen, atom):
         so we exit the function immediately.
       </p>
 
-<!-- TA: would it help if the invocation was shown? It's not immediately obvious what the columns of the table mean. -->
+<span class="comment"> TA: would it help if the invocation was shown? It's not immediately obvious what the columns of the table mean. </span>
 
       <table>
         <tr>
@@ -160,7 +160,7 @@ def another_atom(seen, atom):
         our program will have slowed down by a factor of 16.
       </p>
 
-<!-- TA: Can you better evoke the "math class" analogy if you show a latex-rendered set here? -->
+<span class="comment"> TA: Can you better evoke the "math class" analogy if you show a latex-rendered set here? </span>
 
       <p>
         There's a better way to solve this problem
@@ -185,7 +185,7 @@ def another_atom(seen, atom):
         as we would in a math class:
       </p>
 
-<!-- TA: Is this more or less confusing than set([3, 5, 7])? Or is the point of this to show the inconsistency with empty sets? -->
+<span class="comment"> TA: Is this more or less confusing than set([3, 5, 7])? Or is the point of this to show the inconsistency with empty sets? </span>
 
 <pre>
 &gt;&gt;&gt; primes = {3, 5, 7}
@@ -312,7 +312,7 @@ def another_atom(seen, atom):
         which adds an element to the set:
       </p>
 
-<!-- TA: Maybe compare .add() to .append() ? -->
+<span class="comment"> TA: Maybe compare .add() to .append() ? </span>
 
 <pre>
 &gt;&gt;&gt; lows.add(9)
@@ -767,7 +767,7 @@ set('Na', 'Fe', 'Fl')
 </pre>
 
       <div class="keypoints" id="k:storage">
-        <!-- TA: "for abitrary keys" is the first reference to the word "key" so far. Previously used "values". -->
+        <span class="comment"> TA: "for abitrary keys" is the first reference to the word "key" so far. Previously used "values". </span>
         <h3>Summary</h3>
         <ul>
           <li idea="algo">Sets are stored in hash tables, which guarantee fast access for arbitrary keys.</li>
@@ -786,7 +786,7 @@ set('Na', 'Fe', 'Fl')
         <h3>Understand:</h3>
         <ul>
           <li>That a dictionary stores key-value pairs in a hash table.</li>
-          <!-- TA: "looked up by value" Not "by key"? -->
+          <span class="comment"> TA: "looked up by value" Not "by key"? </span>
           <li>That dictionaries allow things to be looked up by value.</li>
           <li>That the keys in a dictionary must be unique.</li>
           <li>That a dictionary's keys must be immutable.</li>
@@ -1064,7 +1064,7 @@ def count_atoms(lines):
       <p>
         But now suppose that we have N patient records,
         and that each patient is only seen once or twice.
-        <!-- TA: You mean list-of-pairs? -->
+        <span class="comment"> TA: You mean list-of-pairs? </span>
         Using a pair-of-pairs approach,
         it will take roughly N<sup>2</sup> steps to build our data structure,
         but if we use a dictionary,

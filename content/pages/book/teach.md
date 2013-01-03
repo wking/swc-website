@@ -237,12 +237,12 @@ $ <span class="in">head -10 | wc data.txt</span>
 
       </div>
 
-        <!-- I changed this from "is precisely" to "is no more and no less than"
+        <span class="comment"> I changed this from "is precisely" to "is no more and no less than"
         because it's an important concept and I didn't feel that "precisely"
         gave it enough weight; and it's a word which isn't used in that
         context often enough for the meaning of the sentence to be crystal
         clear. "no more and no less than" is clunky but I couldn't come up 
-        with anything pithier which is still clear. -->
+        with anything pithier which is still clear. </span>
       <p>
         The transition from novice to competent practitioner is no more
         and no less than

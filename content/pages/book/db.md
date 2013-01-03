@@ -1,7 +1,7 @@
 Title: Databases
 
-<!-- AB: In the text the section are numbered, I would number them here as well. -->
-<!-- AB: It might be nice to have the commands explained in a section either in the section title or listed right under it in the text. -->
+<span class="comment"> AB: In the text the section are numbered, I would number them here as well. </span>
+<span class="comment"> AB: It might be nice to have the commands explained in a section either in the section title or listed right under it in the text. </span>
     <ol class="toc">
       <li><a href="#s:select">Selecting</a></li>
       <li><a href="#s:distinct">Removing Duplicates</a></li>
@@ -28,9 +28,9 @@ Title: Databases
       <br/>
       &mdash; Eleni Stroulia
     </blockquote>
-<!-- AB: I'd like to see some kind of motivation other than administration. -->
-<!-- AB: Databases are used to store information about HST data which I would not call administrative. -->
-<!-- AB: It's more about organzing large quantities of data in an easily searchable way. Maybe there is another word. -->
+<span class="comment"> AB: I'd like to see some kind of motivation other than administration. </span>
+<span class="comment"> AB: Databases are used to store information about HST data which I would not call administrative. </span>
+<span class="comment"> AB: It's more about organzing large quantities of data in an easily searchable way. Maybe there is another word. </span>
     <p>
       As many scientists have found out the hard way,
       the real challenges in research have nothing to do with quantum mechanics,
@@ -161,7 +161,7 @@ Title: Databases
         (We have to provide the table name because most databases contain more than one table.)
         Our query looks like this:
       </p>
-<!-- AB: I would indent the command line text -->
+<span class="comment"> AB: I would indent the command line text </span>
 <pre src="src/db/select_scientist_hours.sql">
 SELECT Scientist, Hours FROM Experiments;
 </pre>
@@ -172,12 +172,12 @@ SELECT Scientist, Hours FROM Experiments;
         or <code>sElEcT</code>&mdash;but
         we will stick to upper case so that it is clear what is a keyword and what is not.
         The semi-colon at the end tells the database manager that the command is complete.
-        <!-- AB: You can still write commands without the semi-colon. However, after you hit enter, you will have to type -->
-        <!-- AB: go to tell the database manager that the command is complete. -->
+        <span class="comment"> AB: You can still write commands without the semi-colon. However, after you hit enter, you will have to type </span>
+        <span class="comment"> AB: go to tell the database manager that the command is complete. </span>
         When it runs,
         it shows us the two columns of the <code>Experiments</code> table that we asked for:
       </p>
-<!-- AB: Put in a little more cell padding in all of your tables. -->
+<span class="comment"> AB: Put in a little more cell padding in all of your tables. </span>
       <table class="outlined">
         <tr><td>Sofia Kovalevskaya</td><td>6.5</td></tr>
         <tr><td>Sofia Kovalevskaya</td><td>11.0</td></tr>
@@ -2354,7 +2354,7 @@ SELECT AVG(Hours) FROM Experiments;
       <table class="outlined">
         <tr><td>6.7</td></tr>
       </table>
-<!-- AB: I didn't understand this next paragraph. -->
+<span class="comment"> AB: I didn't understand this next paragraph. </span>
       <p class="continue">
         Once again,
         <code>NULL</code> values have not been included,

@@ -33,12 +33,12 @@ Title: Web Programming in Python
       our experience has shown that all we can do in the time we have
       is show you how to create security holes,
       which we're reluctant to do.
-      <!-- CC: The preceding sentence is confusing; is it entirely necessary. If so, can it be rewritten?-->
+      <span class="comment"> CC: The preceding sentence is confusing; is it entirely necessary. If so, can it be rewritten?</span>
       However,
       everything in this chapter is a prerequisite for doing that,
       and there are lots of other good tutorials available
       if you decide that's what you really need.
-      <!-- CC: Do you want to point people to where they might find these?-->
+      <span class="comment"> CC: Do you want to point people to where they might find these?</span>
     </p>
 
     <section id="s:history">
@@ -57,7 +57,7 @@ Title: Web Programming in Python
         To start,
         let's have another look at the hearing tests from
         <a href="python.html">our chapter on Python programming</a>.
-        The easiest way to store their <!-- CC: suggestion: those --> results is to put them in a plain text file
+        The easiest way to store their <span class="comment"> CC: suggestion: those </span> results is to put them in a plain text file
         with one row for each test:
       </p>
 
@@ -116,7 +116,7 @@ Date         Experimenter        Subject          Test       Score
         we might have to wade through a lot of false matches.
         What we need is an unambiguous way to tell a computer
         what the meanings of various words in each document are.
-        <!-- CC: awkward sentence structure -->
+        <span class="comment"> CC: awkward sentence structure </span>
       </p>
 
       <p>
@@ -158,18 +158,18 @@ Date         Experimenter        Subject          Test       Score
         along with the XML standard
         came a new version of HTML called XHTML
         that re-defined things people were already using in strict XML terms.
-        <!-- CC: Not sure you want to use phrases like "to confuse things" because it sets people up to think that the information contained within it is hard or complicated. -->
+        <span class="comment"> CC: Not sure you want to use phrases like "to confuse things" because it sets people up to think that the information contained within it is hard or complicated. </span>
         It never became as popular as its creators hoped,
         so yet another standard called HTML5 was created.
         It's currently a very hot topic,
         primarily because the combination of it and Javascript
         allows developers to create fancy cross-platform user interfaces.
-        <!-- CC: Will your users understand what you mean by fancy, cross-platform user interfaces? -->
+        <span class="comment"> CC: Will your users understand what you mean by fancy, cross-platform user interfaces? </span>
         In what follows,
         though,
         we'll ignore most of that
         and concentrate on basics that haven't changed (much) in 20 years.
-        <!-- CC: perhaps focus on what's going to be covered, "For our purposes here, though, we'll concentrate on some basics that haven't changed (much) in 20 years." -->
+        <span class="comment"> CC: perhaps focus on what's going to be covered, "For our purposes here, though, we'll concentrate on some basics that haven't changed (much) in 20 years." </span>
       </p>
 
       <div class="keypoints" id="k:history">
@@ -332,7 +332,7 @@ Date         Experimenter        Subject          Test       Score
         in order to create and understand documents.
         If we are writing HTML by hand
         instead of using a <a href="glossary.html#wysiwyg">WYSIWYG</a> editor,
-        <!-- CC: will this be understandable to newbies?-->
+        <span class="comment"> CC: will this be understandable to newbies?</span>
         we might lay it out like this to make it easier to read:
       </p>
 
@@ -359,7 +359,7 @@ Date         Experimenter        Subject          Test       Score
         we can write it using the short form <code>&lt;cite/&gt;</code>
         instead of <code>&lt;cite&gt;&lt;/cite&gt;</code>.
         We'll see examples of empty elements <a href="#a:empty-element">later</a>.
-        <!-- CC: perhaps explain why this shorthand method is useful to coders? -->
+        <span class="comment"> CC: perhaps explain why this shorthand method is useful to coders? </span>
       </p>
 
       <p>
@@ -459,7 +459,7 @@ Date         Experimenter        Subject          Test       Score
         Attributes' values <em>must</em> be in quotes in XML,
         but since old-style browsers accept unquoted values like <code>&lt;p align=center&gt;&hellip;&lt;p&gt;</code>,
         HTML5 allows single-word values to be unquoted.
-        <!-- CC: do you want to encourage folks to always quote attributes? if so, you might want to suggest that here -->
+        <span class="comment"> CC: do you want to encourage folks to always quote attributes? if so, you might want to suggest that here </span>
       </p>
 
       <p>
@@ -578,7 +578,7 @@ Date         Experimenter        Subject          Test       Score
         designers must try to strike a balance between pragmatism and purity.
         As the airplane designer Donald Douglas once said,
         "Not everything worth doing is worth doing right."
-        <!-- CC: this section is a bit confusing; what are you hoping students will understand by learning about these workarounds? -->
+        <span class="comment"> CC: this section is a bit confusing; what are you hoping students will understand by learning about these workarounds? </span>
       </p>
 
       <div class="keypoints" id="k:attributes">
@@ -641,7 +641,7 @@ Date         Experimenter        Subject          Test       Score
 
       <p id="p:hide-paragraph">
         Well-written pages also use comments (just like code).
-        These start with <!--, and end with, --> <code>&lt;!--</code>, and end with <code>--&gt;</code>,
+        These start with <span class="comment">, and end with, </span> <code>&lt;!--</code>, and end with <code>--&gt;</code>,
         and cannot be nested
         (which means that commenting out a region that already includes a commented-out region
         may have unexpected consequences).
@@ -711,7 +711,7 @@ Date         Experimenter        Subject          Test       Score
         tables are naturally two-dimensional,
         but text is one-dimensional.
         (Things get even worse when we have split columns and multi-row items.)
-        <!-- CC: Again, not sure that you want to introduce the idea of things getting worse or being complicated -->
+        <span class="comment"> CC: Again, not sure that you want to introduce the idea of things getting worse or being complicated </span>
         The <code>table</code> element marks the table itself;
         within that,
         each row is wrapped in <code>tr</code> (for "table row"),
@@ -834,7 +834,7 @@ Date         Experimenter        Subject          Test       Score
         but it can also be an entire paragraph,
         a table,
         or an image.
-        <!-- CC: here's an opportunity to discuss future ways of addressing presentation, e.g., removing underlining, changing link colors, css, etc.-->
+        <span class="comment"> CC: here's an opportunity to discuss future ways of addressing presentation, e.g., removing underlining, changing link colors, css, etc.</span>
       </p>
 
       <p>
@@ -928,7 +928,7 @@ Date         Experimenter        Subject          Test       Score
         if we really do want to jump into the middle of a paragraph,
         we can wrap the target text in a <code>span</code> element,
         which by default has no effect on display.
-        <!-- CC: perhaps provide more information about the span element here so the student can parse this adequately-->
+        <span class="comment"> CC: perhaps provide more information about the span element here so the student can parse this adequately</span>
       </p>
 
       <div class="keypoints" id="k:morehtml">
@@ -1019,7 +1019,7 @@ print text
         We then convert that tree back to text by calling <code>ET.tostring</code>.
         The <code>'utf-8'</code> argument specifies how we want characters represented;
         we discuss this elsewhere.
-        <!-- CC: link to where else discussed?-->
+        <span class="comment"> CC: link to where else discussed?</span>
       </p>
 
       <p>

@@ -19,9 +19,9 @@ Title: Basic Programming With Python
       <li><a href="#s:summary">Summing Up</a></li>
     </ol>
 
-    <!-- LH: don't hard-code data values into your programs. Instead,
+    <span class="comment"> LH: don't hard-code data values into your programs. Instead,
     pass them to your programs via command-line arguments or input
-    files. -->
+    files. </span>
 
     <p>
       A cochlear implant is a small device placed in the inner ear
@@ -37,8 +37,8 @@ Title: Basic Programming With Python
       She needs to clean up the data before using it.
     </p>
 
-    <!-- JK: It's unclear who the volunteer is. "range of tones that XX
-         volunteers can hear" might be better. -->
+    <span class="comment"> JK: It's unclear who the volunteer is. "range of tones that XX
+         volunteers can hear" might be better. </span>
 
     <p>
       If Aurora had only one data set,
@@ -94,9 +94,9 @@ Title: Basic Programming With Python
         and type in the following:
       </p>
 
-      <!-- JK: Presumably this link will go somewhere eventually - would be 
+      <span class="comment"> JK: Presumably this link will go somewhere eventually - would be 
            good to make sure it includes install instructions for Python, 
-           perhaps with a note about Enthough distro for academic users. -->
+           perhaps with a note about Enthough distro for academic users. </span>
 
 <pre>
 &gt;&gt;&gt; <span class="in">print 1 + 1</span>
@@ -155,14 +155,14 @@ print x = 1 + 2
 <span class="err">SyntaxError: invalid syntax</span>
 </pre>
 
-        <!-- JK: This print syntax is for Python 2.X - since some first-time 
+        <span class="comment"> JK: This print syntax is for Python 2.X - since some first-time 
              users may install 3 without realizing the difference, there should 
              probably be (1) a box explaining the difference and recommending 
              one or the other, either here on the page that describes Python 
              installation, and (2) a box mentioning that Python 3 changes some
              syntax, with the print function as an example, since print is
              to be one of the few immediately obvious differences for
-             beginners. -->
+             beginners. </span>
 
         <p class="continue">
           The problem is that printing and assignment are both
@@ -264,10 +264,10 @@ print x = 1 + 2
         <img src="img/python/first_memory_model.png" alt="First Memory Model" />
       </figure>
 
-    <!-- JK: There's a bit of a semantic jump here from entering statements to 
+    <span class="comment"> JK: There's a bit of a semantic jump here from entering statements to 
          a "program", even though this is still a set of three statements that
          can't be run in a self-contained sense like the "programs" described
-         later. -->
+         later. </span>
 
       <p>
         Like every program,
@@ -321,8 +321,8 @@ NameError: name 'temp_celsius' is not defined</span>
 &gt;&gt;&gt; <span class="in">temp_kelvin = (<span class="highlight">temp_far</span> - 32.0) * (5.0 / 9.0) + 273.15</span>
 </pre>
 
-        <!-- JK: Not sure which class caused this, but looks like the
-             highlighted text has the same backgroundc color as the box? -->
+        <span class="comment"> JK: Not sure which class caused this, but looks like the
+             highlighted text has the same backgroundc color as the box? </span>
 
         <p class="continue">
           then Python will tell us something's gone wrong.
@@ -442,11 +442,11 @@ $ <span class="in">python greeting.py</span>
         it runs each command as soon as it can:
       </p>
 
-    <!-- JK: I think what was intended here was for the first 3 lines to 
+    <span class="comment"> JK: I think what was intended here was for the first 3 lines to 
          replace the existing 3 lines in greeting.py, then 'python greeting.py' 
          was to be run from the shell? If so, having the first 3 new lines in a 
          separate blue box might be more clear. Also, the text below currently
-         references a.py. -->
+         references a.py. </span>
 
 <pre src="src/python/executing_file.py">
 print "before"
@@ -568,11 +568,11 @@ print "body temperature in Kelvin:", temp_kelvin
         so 10/3 is 3 until further notice.
       </p>
 
-      <!-- JK: I would suggest bringing this up earlier, since it's also 
+      <span class="comment"> JK: I would suggest bringing this up earlier, since it's also 
            relevant to the print statement. Also, does dynamic typing need to 
            be introduced, or at least mentioned, around here somewhere? An 
            example could be x=2, type(x) >>> int, x='hello', type(x) >>>
-           string. -->
+           string. </span>
 
       <p>
         Every value in a program has a specific <a href="glossary.html#type">type</a>
@@ -583,7 +583,7 @@ print "body temperature in Kelvin:", temp_kelvin
       </p>
 
 
-        <!-- JK: Typo here, should be 'int' not 'int, and same for float. -->
+        <span class="comment"> JK: Typo here, should be 'int' not 'int, and same for float. </span>
 <pre>
 &gt;&gt;&gt; <span class="in">type(12)</span>
 <span class="out">&lt;type 'int&gt;</span>
@@ -755,9 +755,9 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'</span>
 
       </ol>
 
-    <!-- JK: Could be a teachable moment here about "the cloud" as something 
+    <span class="comment"> JK: Could be a teachable moment here about "the cloud" as something 
          that makes data that's actually far away look like it's on disk - if 
-         you wanted a digression ;-) -->
+         you wanted a digression ;-) </span>
 
       <p>
         We'll deal with the third issue in a <a href="web.html">later chapter</a>.
@@ -766,8 +766,8 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'</span>
         Suppose our hearing test data files are formatted like this:
       </p>
 
-<!-- This is referred to later as cochlear01.txt, might be worth saying 
-     "suppose we have a hearing data file named cochlear01.txt that is..." -->
+<span class="comment"> This is referred to later as cochlear01.txt, might be worth saying 
+     "suppose we have a hearing data file named cochlear01.txt that is..." </span>
 
 <pre src="src/python/cochlear01.txt">
 Subject: 1782
@@ -792,9 +792,9 @@ volume   2    4.0
         let's write a small program that extracts the subject ID from a data file:
       </p>
 
-    <!-- JK: Might want a "save these lines in a file called 
+    <span class="comment"> JK: Might want a "save these lines in a file called 
          get-subject-data.py in the same directory as data file" here for
-         clarity. -->
+         clarity. </span>
 
 <pre src="src/python/get_subject_date.py">
 reader = file('cochlear01.txt', 'r')
@@ -942,10 +942,10 @@ reader.close()
 <span class="out">Subject: 1782</span>
 </pre>
 
-    <!-- JK: "...and, like files, strings have methods." is a tricky statment 
+    <span class="comment"> JK: "...and, like files, strings have methods." is a tricky statment 
          since you mean file in the Python object sense, not the sense of a 
          string of bytes called my_file.txt that's sitting on disk. "File 
-         objects", or "the reader variable", might be more clear. --> 
+         objects", or "the reader variable", might be more clear. </span> 
 
       <p class="continue">
         <code>first_line</code> is a string,
@@ -1471,12 +1471,12 @@ print num_outliers, "values out of range"
 <span class="out">2 values out of range</span>
 </pre>
 
-    <!-- JK: Here as before, I might find the box somewhat confusing if I were 
+    <span class="comment"> JK: Here as before, I might find the box somewhat confusing if I were 
          a beginner. Either the lines are supposed to be entered sequentially
          in an interpreter, in which case the prompts are missing, or all lines 
          except the final one should be in a text file and run, which one can
          infer but requires a small mental jump - or was this style introduced
-         earlier in the book? -->
+         earlier in the book? </span>
 
       <p class="continue">
         Alternatively,
@@ -1494,9 +1494,9 @@ print num_valid, "values in range"
 <span class="out">5 values in range</span>
 </pre>
 
-    <!-- JK: I think there's an error in the above - should it read 
+    <span class="comment"> JK: I think there's an error in the above - should it read 
          if (0 <= value) and (value <= 5): ? In any event, there's no n 
-         variable here. -->
+         variable here. </span>
 
       <p class="continue">
         or even:
@@ -1692,12 +1692,12 @@ print 'Number of data lines:', number
 <span class="out">Number of data lines: 7</span>
 </pre>
 
-    <!-- JK: This is definitely a style question, but I would prefer to see
+    <span class="comment"> JK: This is definitely a style question, but I would prefer to see
          the if line.startswith set the flag and then continue, and then the 
          second check of the flag remain its own if. That shows me that the 
          two conditions are not logically dependent, as in the first 
          necessarily must fail for the second to be evaluated. Tehnically, this
-         is true here, but probably not in the spirit of the code. -->
+         is true here, but probably not in the spirit of the code. </span>
 
       <p>
         And here's a version that combines the second <code>if</code> with the <code>else</code>:
@@ -1797,8 +1797,8 @@ print 'Number of data lines:', number
 '4.0'
 </pre>
 
-    <!-- JK: It becomes clear later that these lines should be placed in a file 
-         called check.py - might want to say that here. -->
+    <span class="comment"> JK: It becomes clear later that these lines should be placed in a file 
+         called check.py - might want to say that here. </span>
 
       <p class="continue">
         The <code>string.split</code> returns as many new strings
@@ -2325,11 +2325,11 @@ print "third element:", scientists[2]
 
         <h3>It Seemed Like a Good Idea at the Time</h3>
 
-    <!-- JK: Harsh! ;-) Having spent a lot of time in Matlab and R before 
+    <span class="comment"> JK: Harsh! ;-) Having spent a lot of time in Matlab and R before 
          coming over to Python, I personally find indexing by 0 (combined with 
          Python's overall indexing syntax) to be preferable, as it helps me
          avoid off-by-one errors and gives the (to me) obvious answer for
-         list = [0,1,2,3,4], len(list[0:3]) or len(list[1:4]) >>> 3, not 4. -->
+         list = [0,1,2,3,4], len(list[0:3]) or len(list[1:4]) >>> 3, not 4. </span>
 
         <p>
           For reasons that made sense in 1970,
@@ -2619,11 +2619,11 @@ for location in range(len(data)):
 
       </div>
 
-    <!-- JK: Also, to hearken back to the previous paragraph, the use of i as a 
+    <span class="comment"> JK: Also, to hearken back to the previous paragraph, the use of i as a 
          counter in a for loop is arguably another common idiom that 
          experienced programmers will recognize right away as a counter. At 
          least if they're not also mathematicians who read it as an imaginary 
-         number... -->
+         number... </span>
 
       <p>
         Let's finally go back and double the values in place:
@@ -2801,11 +2801,11 @@ for i in <span class="highlight">range(1, len(data))</span>:
         <code>range</code> goes up to but not including the top value.)
       </p>
 
-    <!-- JK: I like the data smoothing example, but, just to stay in character, 
+    <span class="comment"> JK: I like the data smoothing example, but, just to stay in character, 
          it's unclear how it relates to Aurora's problem exactly? There wasn't 
          anything set up in her problem statement related to consecutive data, 
          or smoothing. Later on, this is referred to as "Aurora's data 
-         smoothing". -->
+         smoothing". </span>
 
       <p>
         Now suppose that we need to add up successive triples of our data
@@ -3157,13 +3157,13 @@ reader.close()
         for specific XY values:
       </p>
 
-    <!-- JK: Tuples? I'm just thinking of this now, because I would normally 
+    <span class="comment"> JK: Tuples? I'm just thinking of this now, because I would normally 
          treat x, y as a tuple (no particular reason, just force of habit) 
          presuming that x and y didn't need to change later. I see the argument 
          for using lists throughout here, but maybe a box that just mentions 
          that tuples exist, they work like lists (in this context) except that
          the values they contain can't be changed, and that they come up in  
-         other people's programs? -->
+         other people's programs? </span>
 
 <pre src="src/python/nested_list_explicit.py">
 &gt;&gt;&gt; <span class="in">coordinates = [ [4.2, 1.7], [3.1, 5.0], [0.8, 6.1] ]</span>
@@ -3341,7 +3341,7 @@ print "average errors:", x_diff / len(actual), y_diff / len(actual)
         <img src="src/python/aliasing_b.png" alt="Second Step of Aliasing Example" />
       </figure>
 
-    <!-- JK: Might also be worth introducing the word 'pointer' here -->
+    <span class="comment"> JK: Might also be worth introducing the word 'pointer' here </span>
 
       <p>
         This is called <a href="glossary.html#alias">aliasing</a>,
@@ -3399,11 +3399,11 @@ print "average errors:", x_diff / len(actual), y_diff / len(actual)
         <img src="src/python/aliasing_data.png" alt="Aliasing Data" />
       </figure>
 
-    <!-- JK: While copying in Python can certainly be hard to understand, it 
+    <span class="comment"> JK: While copying in Python can certainly be hard to understand, it 
          might be worth a box and a mention that there is a module called copy
          (or the function copy.copy) that will make a copy if that's really
          what you want to do. Otherwise, it sort of implies that if you 
-         actually want to make a copy, you can't. -->
+         actually want to make a copy, you can't. </span>
 
       <div class="keypoints" id="k:alias">
         <h3>Summary</h3>
