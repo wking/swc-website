@@ -1,4 +1,5 @@
 Title: References Guides
+Category: book
 
     <ol class="toc">
       <li><a href="#s:bool">Booleans</a></li>

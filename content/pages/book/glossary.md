@@ -1,4 +1,5 @@
 Title: Glossary
+Category: book
 
 
 <p>

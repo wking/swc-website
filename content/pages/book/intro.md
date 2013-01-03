@@ -1,4 +1,5 @@
 Title: Introduction
+Category: book
 
     <p>Here's the dream:</p>
 

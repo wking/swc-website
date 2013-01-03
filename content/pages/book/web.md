@@ -1,4 +1,5 @@
 Title: Web Programming in Python
+Category: book
 
     <ol class="toc">
       <li><a href="#s:history">How We Got Here</a></li>

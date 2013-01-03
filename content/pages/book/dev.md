@@ -1,4 +1,5 @@
 Title: Development
+Category: book
 
     <ol class="toc">
       <li><a href="#s:grid">The Grid</a></li>

@@ -1,4 +1,5 @@
 Title: Basic Programming With Python
+Category: book
 
     <ol class="toc">
       <li><a href="#s:basic">Basic Operations</a></li>

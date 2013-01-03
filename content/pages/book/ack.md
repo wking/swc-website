@@ -1,4 +1,5 @@
 Title: Acknowledgments
+Category: book
 
     <p>
       Software Carpentry has been made possible by the generous support of:

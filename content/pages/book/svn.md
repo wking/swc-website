@@ -1,4 +1,5 @@
 Title: Version Control With Subversion
+Category: book
 
     <ol class="toc">
       <li><a href="#s:basics">Basic Use</a></li>

@@ -1,4 +1,5 @@
 Title: Quality
+Category: book
 
     <ol class="toc">
       <li><a href="#s:defensive">Defensive Programming</a></li>

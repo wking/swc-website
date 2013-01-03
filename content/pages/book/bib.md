@@ -1,4 +1,5 @@
 Title: Bibliography
+Category: book
 
     <dl>
 

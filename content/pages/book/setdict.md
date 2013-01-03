@@ -1,4 +1,5 @@
 Title: Sets and Dictionaries in Python
+Category: book
 
     <ol class="toc">
       <li><a href="#s:sets">Sets</a></li>

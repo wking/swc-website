@@ -1,4 +1,5 @@
 Title: Numerical Programming With NumPy
+Category: book
 
     <ol class="toc">
       <li><a href="#s:basics">Basics</a></li>

@@ -1,4 +1,5 @@
 Title: Databases
+Category: book
 
 <span class="comment"> AB: In the text the section are numbered, I would number them here as well. </span>
 <span class="comment"> AB: It might be nice to have the commands explained in a section either in the section title or listed right under it in the text. </span>
