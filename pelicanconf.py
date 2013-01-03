@@ -3,7 +3,7 @@
 
 AUTHOR = u"the Software Carpentry contributors"
 SITENAME = u"Software Carpentry"
-SITEURL = ''
+SITEURL = 'http://software-carpentry.org'
 
 TIMEZONE = 'Europe/Paris'
 
