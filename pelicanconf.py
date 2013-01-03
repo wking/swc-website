@@ -5,7 +5,7 @@ AUTHOR = u"the Software Carpentry contributors"
 SITENAME = u"Software Carpentry"
 SITEURL = 'http://software-carpentry.org'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = 'en'
 
