@@ -1,0 +1,6 @@
+Post_Id: 1636
+Author_Id: wilson.g
+Title: Kevin's Been Busy
+Tags: noticed
+
+<p>Kevin Brown has been busy &mdash; he's been coordinating, installing, maintaining, fixing, and figuring out how to use a new <a href="http://web.archive.org/web/20080821160042/http://www.theglobeandmail.com/servlet/story/RTGAM.20080627.wlcancer27/BNStory/specialScienceandHealth/home">$20 million supercomputer for cancer research</a>. No word on how much money will be spent training people how to use it effectively, but hey, I'm easy to reach... :-)</p>

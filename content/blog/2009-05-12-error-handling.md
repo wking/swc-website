@@ -1,0 +1,7 @@
+Journal: True
+Post_Id: 2340
+Author_Id: wilson.g
+Title: Error Handling
+Tags: content
+
+<p>One topic that <em>isn't</em> currently in the curriculum that I'd really like to add is detecting, handling, reporting, and recovering from errors. This makes up is 10-30% of the code in real applications, but dealing with errors is almost omitted from textbook examples and tutorials for the sake of clarity  (Tanenbaum's <a href="http://www.amazon.com/Operating-Systems-Implementation-Prentice-Software/dp/0131429388">Minix book</a> being a laudable exception).  I have asked <a href="http://third-bit.com/articles/not-on-the-shelves-2009.pdf">elsewhere</a> for someone to write an entire book on the subject; if anyone wants to take a crack at an hour-long lecture, please <a href="mailto:{{contact_email}}">get in touch</a>.</p>
