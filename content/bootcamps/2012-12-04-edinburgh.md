@@ -1,5 +1,4 @@
 Venue: University of Edinburgh
-Date: December 2012
 Enddate: 2012-12-05
 Latlng: 55.9453279,-3.1911838
 

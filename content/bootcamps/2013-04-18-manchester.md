@@ -1,5 +1,4 @@
 Venue: University of Manchester
-Date: April 2013
 Enddate: 2013-04-19
 Latlng: 53.4783491,-2.2416052
 

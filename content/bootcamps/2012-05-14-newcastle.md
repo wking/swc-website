@@ -1,5 +1,4 @@
 Venue: Newcastle University
-Date: May 2012
 Enddate: 2012-05-15
 Latlng: 54.980095,-1.6146142
 

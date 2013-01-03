@@ -1,5 +1,4 @@
 Venue: Max Planck Institute Tuebingen
-Date: January 2013
 Enddate: 2013-01-26
 Latlng: 48.5369804,9.058935
 Eventbrite_Key: 5014203618

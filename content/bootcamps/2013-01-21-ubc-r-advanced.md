@@ -1,5 +1,4 @@
 Venue: University of British Columbia
-Date: January 2013
 Enddate: 2013-01-22
 Latlng: 49.2617149,-123.2534305
 

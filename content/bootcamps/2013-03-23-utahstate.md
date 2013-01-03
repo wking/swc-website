@@ -1,5 +1,4 @@
 Venue: Utah State University
-Date: March 2013
 Enddate: 2013-03-24
 Latlng: 41.7449488,-111.8042944
 

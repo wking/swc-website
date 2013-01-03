@@ -1,5 +1,4 @@
 Venue: Macquarie University
-Date: February 2013
 Enddate: 2013-02-08
 Latlng: -33.773636,151.112005
 Eventbrite_Key: 4114901782

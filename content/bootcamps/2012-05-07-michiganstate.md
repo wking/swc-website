@@ -1,5 +1,4 @@
 Venue: Michigan State University
-Date: May 2012
 Enddate: 2012-05-08
 Latlng: 42.7272884,-84.482106
 

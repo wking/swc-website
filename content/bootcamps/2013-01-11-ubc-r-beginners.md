@@ -1,5 +1,4 @@
 Venue: University of British Columbia
-Date: January 2013
 Latlng: 49.2617149,-123.2534305
 
 <p><strong>Where:</strong> MSL 101, University of British Columbia.</p>
