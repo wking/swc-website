@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if articles %}
+{% for article in (articles_page.object_list if articles_page else articles) %}
+{% if article.category == 'bootcamps' %}
+<p>Add {{ article.title }} to the map!</p>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endblock content %}
