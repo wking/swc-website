@@ -18,12 +18,12 @@ After cloning run the following commands to download the lesson materials:
 Building
 --------
 
-Compiling the website requires [Python](http://python.org) and
-[Jinja2](http://jinja.pocoo.org/).
+Compiling the website requires [Pelican](http://getpelican.com/)
+version 3.1 or later.
 
 * Type `make` to see a list of all available commands.
-* Type `make check` to build everything in ./build for testing purposes.
-* Type `make install` to build into $HOME/software-carpentry.org when logged into software-carpentry.org to update the live web site.
+* Type `make html` to build everything in ./output for testing purposes.
+* Type `make rsync_upload` to build and push to the live web site on `software-carpentry.org`.
 
 Useful Links
 ------------
