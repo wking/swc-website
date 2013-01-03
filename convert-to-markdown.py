@@ -13,7 +13,8 @@ def get_metadata(text):
             meta[key].append(value)
         else:
             meta[key] = [value]
-    meta['tags'] = meta.pop('category')
+    if 'category' in meta:
+        meta['tags'] = meta.pop('category')
     return meta
 
 def get_content(text):
