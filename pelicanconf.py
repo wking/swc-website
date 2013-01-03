@@ -1,6 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+import os as _os
+import sys as _sys
+
+_this_dir = _os.path.dirname(__file__)
+_sys.path.insert(0, _this_dir)
+
+import pelican_plugins.bootcamp_meta as _bootcamp_meta
+
+
+PLUGINS = [_bootcamp_meta]
+
+
 AUTHOR = u"the Software Carpentry contributors"
 SITENAME = u"Software Carpentry"
 SITEURL = 'http://software-carpentry.org'
