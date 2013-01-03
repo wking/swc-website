@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Sets and Dictionaries in Python
 
-{% block file_metadata %}
-  <meta name="title" content="Sets and Dictionaries in Python" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:sets">Sets</a></li>
       <li><a href="#s:storage">Storage</a></li>
@@ -2696,4 +2691,3 @@ locals in example {'second': 33,
       </p>
 
     </section>
-{% endblock content %}

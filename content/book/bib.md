@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Bibliography
 
-{% block file_metadata %}
-  <meta name="title" content="Bibliography" />
-{% endblock file_metadata %}
-
-{% block content %}
     <dl>
 
       <dt id="agans-debugging">
@@ -179,4 +174,3 @@
       </dd>
 
     </dl>
-{% endblock content %}

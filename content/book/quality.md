@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Quality
 
-{% block file_metadata %}
-  <meta name="title" content="Quality" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:defensive">Defensive Programming</a></li>
       <li><a href="#s:except">Handling Errors</a></li>
@@ -2741,4 +2736,3 @@ def test_write_unit_only():
       </p>
 
     </section>
-{% endblock content %}

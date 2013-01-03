@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Databases
 
-{% block file_metadata %}
-  <meta name="title" content="Databases" />
-{% endblock file_metadata %}
-
-{% block content %}
 <!-- AB: In the text the section are numbered, I would number them here as well. -->
 <!-- AB: It might be nice to have the commands explained in a section either in the section title or listed right under it in the text. -->
     <ol class="toc">
@@ -3320,4 +3315,3 @@ connection.close()
       </p>
 
     </section>
-{% endblock content %}

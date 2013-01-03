@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Numerical Programming With NumPy
 
-{% block file_metadata %}
-  <meta name="title" content="Numerical Programming With NumPy" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:basics">Basics</a></li>
       <li><a href="#s:storage">Storage</a></li>
@@ -2000,4 +1995,3 @@ def advance(current, next):
       </p>
 
     </section>
-{% endblock content %}

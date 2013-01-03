@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Introduction
 
-{% block file_metadata %}
-  <meta name="title" content="Introduction" />
-{% endblock file_metadata %}
-
-{% block content %}
     <p>Here's the dream:</p>
 
     <blockquote>
@@ -209,4 +204,3 @@
       to my sister,
       who did not live to see it finished.
     </blockquote>
-{% endblock content %}

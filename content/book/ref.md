@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: References Guides
 
-{% block file_metadata %}
-  <meta name="title" content="References Guides" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:bool">Booleans</a></li>
       <li><a href="#s:shell">The Shell</a></li>
@@ -1068,4 +1063,3 @@ while number &lt; 3:
       </p>
 
     </section>
-{% endblock content %}

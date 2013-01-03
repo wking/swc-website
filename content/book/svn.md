@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Version Control With Subversion
 
-{% block file_metadata %}
-  <meta name="title" content="Version Control With Subversion" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:basics">Basic Use</a></li>
       <li><a href="#s:merge">Merging Conflicts</a></li>
@@ -1694,4 +1689,3 @@ done
       </p>
 
     </section>
-{% endblock content %}

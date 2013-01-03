@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Basic Programming With Python
 
-{% block file_metadata %}
-  <meta name="title" content="Basic Programming With Python" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:basic">Basic Operations</a></li>
       <li><a href="#s:program">Creating Programs</a></li>
@@ -3440,4 +3435,3 @@ print "average errors:", x_diff / len(actual), y_diff / len(actual)
       </p>
 
     </section>
-{% endblock content %}

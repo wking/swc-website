@@ -1,27 +1,6 @@
-{% extends "_base.html" %}
+Title: Software Carpentry
+Subfile: intro.html, shell.html, svn.html, python.html, funclib.html, db.html, numpy.html, quality.html, setdict.html, dev.html, web.html, teach.html, concl.html, ack.html, bib.html, glossary.html, ref.html
 
-{% block file_metadata %}
-  <meta name="title" content="Software Carpentry" />
-  <meta name="subfile" content="intro.html" />
-  <meta name="subfile" content="shell.html" />
-  <meta name="subfile" content="svn.html" />
-  <meta name="subfile" content="python.html" />
-  <meta name="subfile" content="funclib.html" />
-  <meta name="subfile" content="db.html" />
-  <meta name="subfile" content="numpy.html" />
-  <meta name="subfile" content="quality.html" />
-  <meta name="subfile" content="setdict.html" />
-  <meta name="subfile" content="dev.html" />
-  <meta name="subfile" content="web.html" />
-  <meta name="subfile" content="teach.html" />
-  <meta name="subfile" content="concl.html" />
-  <meta name="subfile" content="ack.html" />
-  <meta name="subfile" content="bib.html" />
-  <meta name="subfile" content="glossary.html" />
-  <meta name="subfile" content="ref.html" />
-{% endblock file_metadata %}
-
-{% block content %}
   <p align="center">
     Under construction.
   </p>
@@ -197,4 +176,3 @@
     <li><a href="glossary.html">Glossary</a></li>
     <li><a href="ref.html">Reference Guides</a></li>
   </ol>
-{% endblock content %}

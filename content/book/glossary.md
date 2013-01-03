@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Glossary
 
-{% block file_metadata %}
-  <meta name="title" content="Glossary" />
-{% endblock file_metadata %}
-
-{% block content %}
 
 <p>
   <a href="#A">A</a>
@@ -1507,4 +1502,3 @@
       <h2>Z</h2>
 
     </section>
-{% endblock content %}

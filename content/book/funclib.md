@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Functions and Libraries in Python
 
-{% block file_metadata %}
-  <meta name="title" content="Functions and Libraries in Python" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:basics">How Functions Work</a></li>
       <li><a href="#s:global">Global Variables</a></li>
@@ -3072,4 +3067,3 @@ for x in grid_interior(GRID_WIDTH):
       </p>
 
     </section>
-{% endblock content %}

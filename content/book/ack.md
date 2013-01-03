@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Acknowledgments
 
-{% block file_metadata %}
-  <meta name="title" content="Acknowledgments" />
-{% endblock file_metadata %}
-
-{% block content %}
     <p>
       Software Carpentry has been made possible by the generous support of:
     </p>
@@ -86,4 +81,3 @@
       and to John Reynders,
       who gave us the chance to show how we could help scientists get more done.
     </p>
-{% endblock content %}

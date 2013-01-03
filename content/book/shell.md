@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: The Bash Shell
 
-{% block file_metadata %}
-  <meta name="title" content="The Bash Shell" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:what">What and Why</a></li>
       <li><a href="#s:filedir">Files and Directories</a></li>
@@ -2979,28 +2974,3 @@ $ <span class="in">bash pairwise.sh stats-*.txt > top100.txt</span>
       </p>
 
     </section>
-{% endblock content %}
-
-<!--
-good intro for users with some experience
-
-where do the text editors live? can they only be accessed through the terminal? why are there so many of them when they seem pretty much the same?
-
-mv is confusing - from the GUI you think of moving "physical" files because you drag and drop; my original intuition was that mv would work like cp - perhaps another sentence in the explanation could clarify this.
-
-standard input/output is a bit confusing.
-is standard input the keyboard for all processes? is standard output always printing to the monitor? I get that this is what enables you to pipe multiple commands, btu for some reason this section was just a bit hard for me to follow.
-
-semi-colons or commas to separate pieces of the loop on the same line? (p20)
-
-what kinds of programs can you run directly from the shell? like, what kind of program might goostats be? shell script? python code? R code? matlab code?
-
-how can you select things using negative characteristics, like filenames that don't contain a particular string?
-
-having done my grad work in a small, not-tech-savvy lab, permissions are not something I've thought about almost ever, except when windows throws up barriers to someone running an experiment I set up. Perhaps a few sentences about how/why you might think about permissions in a few common situations would be helpful for giving context. For example, do I need to think about permissions for a computer that only I use? Does that change if it is connected to the school's network?
-
-are there default permissions?
-do you have to give yourself permission to execute a script after you create it?
-
-I would love just some more examples of tasks you use the shell for - the running example of the data analysis is really helpful. Just more examples would probably help me in thinking about how using shell scripts could help my workflow.
--->

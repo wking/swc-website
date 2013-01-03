@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Web Programming in Python
 
-{% block file_metadata %}
-  <meta name="title" content="Web Programming in Python" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:history">How We Got Here</a></li>
       <li><a href="#s:formatting">Formatting Rules</a></li>
@@ -2949,4 +2944,3 @@ def save_index(filename, index):
       </p>
 
     </section>
-{% endblock content %}

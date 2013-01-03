@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Development
 
-{% block file_metadata %}
-  <meta name="title" content="Development" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:grid">The Grid</a></li>
       <li><a href="#s:alias">Aliasing</a></li>
@@ -2711,4 +2706,3 @@ def make_candidate(grid, pool, x, y):
       </p>
 
     </section>
-{% endblock content %}

@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Instructor's Guide
 
-{% block file_metadata %}
-  <meta name="title" content="Instructor's Guide" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:understand">What Does It Mean to Understand Computing?</a></li>
       <li><a href="#s:conceptual">There Are No Blank Slates</a></li>
@@ -704,4 +699,3 @@ def word_lengths(words):
       </p>
 
     </section>
-{% endblock content %}

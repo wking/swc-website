@@ -1,10 +1,5 @@
-{% extends "_base.html" %}
+Title: Conclusion
 
-{% block file_metadata %}
-  <meta name="title" content="Conclusion" />
-{% endblock file_metadata %}
-
-{% block content %}
     <ol class="toc">
       <li><a href="#s:meaning">Computers Don't Understand, They Obey</a></li>
       <li><a href="#s:turing">Programs Are Data Too</a></li>
@@ -429,4 +424,3 @@
       </p>
 
     </section>
-{% endblock content %}
