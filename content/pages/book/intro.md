@@ -1,5 +1,5 @@
 Title: Introduction
-Category: book
+Directory: book
 
     <p>Here's the dream:</p>
 

@@ -1,5 +1,5 @@
 Title: Software Carpentry
-Category: book
+Directory: book
 Subfile: intro.html, shell.html, svn.html, python.html, funclib.html, db.html, numpy.html, quality.html, setdict.html, dev.html, web.html, teach.html, concl.html, ack.html, bib.html, glossary.html, ref.html
 
   <p align="center">

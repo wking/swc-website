@@ -1,5 +1,5 @@
 Title: Conclusion
-Category: book
+Directory: book
 
     <ol class="toc">
       <li><a href="#s:meaning">Computers Don't Understand, They Obey</a></li>

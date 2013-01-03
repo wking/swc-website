@@ -1,5 +1,5 @@
 Title: The Bash Shell
-Category: book
+Directory: book
 
     <ol class="toc">
       <li><a href="#s:what">What and Why</a></li>

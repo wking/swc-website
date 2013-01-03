@@ -1,5 +1,5 @@
 Title: Functions and Libraries in Python
-Category: book
+Directory: book
 
     <ol class="toc">
       <li><a href="#s:basics">How Functions Work</a></li>

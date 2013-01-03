@@ -1,5 +1,5 @@
 Title: Glossary
-Category: book
+Directory: book
 
 
 <p>

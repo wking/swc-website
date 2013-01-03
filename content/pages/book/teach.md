@@ -1,5 +1,5 @@
 Title: Instructor's Guide
-Category: book
+Directory: book
 
     <ol class="toc">
       <li><a href="#s:understand">What Does It Mean to Understand Computing?</a></li>
