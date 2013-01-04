@@ -336,3 +336,5 @@ def mkdir_p(path):
     except OSError, e:
         if e.errno != errno.EEXIST:
             raise
+        if not os.path.isdir(path):
+            raise
