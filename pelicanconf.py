@@ -44,6 +44,10 @@ DIRECT_TEMPLATES = [
     'tags',
     ]
 
+FILES_TO_COPY = [
+    ('static/files', 'files'),
+    ]
+
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{directory}/{slug}'
