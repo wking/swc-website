@@ -74,8 +74,7 @@ class Page(object):
         if not hasattr(self, 'slug') and hasattr(self, 'title'):
             self.slug = slugify(self.title)
 
-        if source_path:
-            self.source_path = source_path
+        self.source_path = source_path
 
         # manage the date format
         if not hasattr(self, 'date_format'):
@@ -110,6 +109,12 @@ class Page(object):
 
         signals.content_object_init.send(self.__class__, instance=self)
 
+    def __str__(self):
+        return str(self.source_path.encode('utf-8', 'replace'))
+
+    def __unicode__(self):
+        return self.source_path
+
     def check_properties(self):
         """test that each mandatory property is set."""
         for prop in self.mandatory_properties:
@@ -119,6 +124,7 @@ class Page(object):
     @property
     def url_format(self):
         return {
+            'path': self.metadata.get('path', self.get_relative_source_path()),
             'slug': getattr(self, 'slug', ''),
             'lang': getattr(self, 'lang', 'en'),
             'date': getattr(self, 'date', datetime.now()),
@@ -132,6 +138,9 @@ class Page(object):
         return self.settings[fq_key].format(**self.url_format)
 
     def get_url_setting(self, key):
+        override = '_%s' % (key,)
+        if hasattr(self, override):
+            return getattr(self, override)
         key = key if self.in_default_lang else 'lang_%s' % key
         return self._expand_settings(key)
 
@@ -226,6 +235,8 @@ class Page(object):
         """
         if not source_path:
             source_path = self.source_path
+        if source_path is None:
+            return None
 
         return os.path.relpath(
             os.path.abspath(os.path.join(self.settings['PATH'], source_path)),
@@ -304,23 +315,22 @@ class Author(URLWrapper):
     pass
 
 
-class StaticContent(object):
+class Static(Page):
     @deprecated_attribute(old='filepath', new='source_path', since=(3, 2, 0))
     def filepath(): return None
 
-    def __init__(self, src, dst=None, settings=None):
-        if not settings:
-            settings = copy.deepcopy(_DEFAULT_CONFIG)
-        self.src = src
-        self.url = dst or src
-        self.source_path = os.path.join(settings['PATH'], src)
-        self.save_as = os.path.join(settings['OUTPUT_PATH'], self.url)
+    @deprecated_attribute(old='src', new='source_path', since=(3, 2, 0))
+    def src(): return None
 
-    def __str__(self):
-        return str(self.source_path.encode('utf-8', 'replace'))
+    @deprecated_attribute(old='dst', new='save_as', since=(3, 2, 0))
+    def dst(): return None
 
-    def __unicode__(self):
-        return self.source_path
+    def __init__(self, source_path, save_as=None, **kwargs):
+        super(Static, self).__init__(
+            content=None, source_path=source_path, **kwargs)
+        if save_as:
+            self._save_as = save_as
+            self._url = save_as
 
 
 def is_valid_content(content, f):
