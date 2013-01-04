@@ -11,7 +11,8 @@ from sys import platform, stdin
 
 
 from pelican.settings import _DEFAULT_CONFIG
-from pelican.utils import slugify, truncate_html_words, memoized
+from pelican.utils import (slugify, truncate_html_words, memoized,
+    deprecated_attribute)
 from pelican import signals
 
 logger = logging.getLogger(__name__)
@@ -25,6 +26,9 @@ class Page(object):
     """
     mandatory_properties = ('title',)
     default_template = 'page'
+
+    @deprecated_attribute(old='filename', new='source_path', since=(3, 2, 0))
+    def filename(): return None
 
     def __init__(self, content, metadata=None, settings=None,
                  source_path=None, context=None):
@@ -301,6 +305,9 @@ class Author(URLWrapper):
 
 
 class StaticContent(object):
+    @deprecated_attribute(old='filepath', new='source_path', since=(3, 2, 0))
+    def filepath(): return None
+
     def __init__(self, src, dst=None, settings=None):
         if not settings:
             settings = copy.deepcopy(_DEFAULT_CONFIG)
