@@ -281,6 +281,9 @@ class URLWrapper(object):
     def __unicode__(self):
         return self.name
 
+    def __repr__(self):
+        return '<%s %s>' % (type(self).__name__, str(self))
+
     def _from_settings(self, key, get_page_name=False):
         """Returns URL information as defined in settings. 
         When get_page_name=True returns URL without anything after {slug}
