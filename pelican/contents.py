@@ -256,8 +256,29 @@ class URLWrapper(object):
     def __hash__(self):
         return hash(self.name)
 
+    def _key(self):
+        return self.name
+
+    def _normalize_key(self, key):
+        return unicode(key)
+
     def __eq__(self, other):
-        return self.name == unicode(other)
+        return self._key() == self._normalize_key(other)
+
+    def __ne__(self, other):
+        return self._key() != self._normalize_key(other)
+
+    def __le__(self, other):
+        return self._key() <= self._normalize_key(other)
+
+    def __lt__(self, other):
+        return self._key() < self._normalize_key(other)
+
+    def __gt__(self, other):
+        return self._key() > self._normalize_key(other)
+
+    def __ge__(self, other):
+        return self._key() >= self._normalize_key(other)
 
     def __str__(self):
         return str(self.name.encode('utf-8', 'replace'))
