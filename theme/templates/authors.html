@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
 <ul>
-{% for author, articles in authors|sort %}
+{% for author, contents in authors|sort %}
     <li>
       <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-      ({{ articles|count }})
+      ({{ contents|count }})
     </li>
 {% endfor %}
 </ul>

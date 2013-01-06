@@ -8,4 +8,4 @@ def massage_metadata(generator, metadata):
             metadata['date'].strftime('%b %Y'))
 
 def register():
-    _signals.article_generate_context.connect(massage_metadata)
+    _signals.article_generator_context.connect(massage_metadata)
