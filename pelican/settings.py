@@ -24,6 +24,7 @@ _DEFAULT_CONFIG = {'PATH': os.curdir,
                    'OUTPUT_PATH': 'output/',
                    'MARKUP': ('rst', 'md'),
                    'STATIC_PATHS': ['images', ],
+                   'TEMPLATE_PAGE_PATHS': (),
                    'THEME_STATIC_PATHS': ['static', ],
                    'FEED_ALL_ATOM': 'feeds/all.atom.xml',
                    'CATEGORY_FEED_ATOM': 'feeds/%s.atom.xml',
@@ -83,7 +84,6 @@ _DEFAULT_CONFIG = {'PATH': os.curdir,
                    'TYPOGRIFY': False,
                    'SUMMARY_MAX_LENGTH': 50,
                    'PLUGINS': [],
-                   'TEMPLATE_PAGES': {}
                    }
 
 
