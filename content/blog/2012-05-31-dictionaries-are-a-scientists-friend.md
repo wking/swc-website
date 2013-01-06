@@ -4,7 +4,7 @@ Author: Dan McGlinn
 Title: Dictionaries are a Scientist's Friend
 Tags: education, tutorial
 
-<p>[<a href="{{root_path}}/files/2012/05/dictionary_blog_post.txt">Code</a>]</p>
+<p>[<a href="|filename|/files/2012/05/dictionary_blog_post.txt">Code</a>]</p>
 <p>Today I would like to share with other scientists the power of <a href="http://docs.python.org/tutorial/datastructures.html#dictionaries">dictionaries</a>. I recently learned about this data structure during a software carpentry <a href="/bootcamps/">bootcamp</a> that <a href="http://third-bit.com/">Greg Wilson</a> and <a href="http://whitelab.weecology.org/">Ethan White</a> organized. Greg and Jason Pell (from Michigan State) visited Utah State University for a two day boot camp where <a href="http://mcglinn.web.unc.edu/">I am a postdoc studying</a> patterns of biodiversity. During that time we covered a <a href="/bootcamps/2012-04-utahstate.html">whole slew of topics,</a> but today I wanted to demonstrate how dictionaries helped to significantly speed up my Python code.</p>
 <p>Before we begin this demonstration let's import two necessary libraries into our Python interpreter. We'll import division from __future__ so that Python carries out <a href="http://www.python.org/dev/peps/pep-0238/">'true' division instead of 'classic' division</a>, and we'll import time from time so that we can time how much time our functions take to run.</p>
 <pre># import division so that we are using 'true' division
@@ -34,7 +34,7 @@ print my_dict['b']
 # 4</pre>
 <p>The concept of dictionaries is not restricted to the Python programming language, and more generally dictionaries are referred to as <a href="http://en.wikipedia.org/wiki/Hash_table">hash tables</a>. For example in the R programming language there is a package called <a href="http://cran.r-project.org/web/packages/hash/index.html">hash</a> that implements a dictionary type of data structure.</p>
 <p>For my own research purposes I have been struggling with how to efficiently compute very computationally intensive recursion equations. Specifically I have been attempting to code John Harte et al.'s <a href="http://www.esajournals.org/doi/abs/10.1890/04-1388">Hypothesis of Equal Allocation Probabilities</a> (HEAP) model. This is a model for how probable it would be to observe <em>n</em> individuals of a species in a sample of area <em>A</em> located within a larger area <em>A</em><sub>0</sub> that contains a total of <em>n</em><sub>0</sub> individuals. Harte et al.'s solution to this problem is encapsulated in the following equations:</p>
-<p><img src="{{root_path}}/files/2012/05/equ.png" /></p>
+<p><img src="|filename|/files/2012/05/equ.png" /></p>
 <p>which can be encoded in Python by a very simple function:</p>
 <pre>def heap_prob(n, A, n0, A0):
     """

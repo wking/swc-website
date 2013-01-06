@@ -3,7 +3,7 @@ Author: Greg Wilson
 Title: Five... Five... Five Scripts in One!
 Tags: content
 
-<p>I've updated the script for the introductory episode on version control that I <a href="{{root_path}}/blog/2010/07/script-for-introduction-to-version-control.html">posted yesterday</a>, and added four more covering basic operations, handling conflicts, rolling back changes (with a very brief mention of branching and merging), and setting up repositories for personal use (creating a shared repo requires more skills than students are likely to have, and should be left in the hands of sys admins). The five scripts are down below the break; comments before I start making up slides and recording would be very welcome.<br />
+<p>I've updated the script for the introductory episode on version control that I <a href="|filename|2010-07-19-script-for-introduction-to-version-control.md">posted yesterday</a>, and added four more covering basic operations, handling conflicts, rolling back changes (with a very brief mention of branching and merging), and setting up repositories for personal use (creating a shared repo requires more skills than students are likely to have, and should be left in the hands of sys admins). The five scripts are down below the break; comments before I start making up slides and recording would be very welcome.<br />
 <span id="more-3488"></span></p>
 <h2>Introduction</h2>
 <ol>

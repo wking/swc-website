@@ -5,7 +5,7 @@ Title: Charging and Being Charged
 Tags: boot-camp
 
 
-<p>As noted in the <a href="{{root_path}}/blog/2012/10/minutes-2012-10-29-meeting.html">minutes</a> from our meeting on Monday, one of the many things we want to improve about our workshops is the attendance rate. While we get near-complete turnout for some, we have 50% no-shows for others, which is disappointing for instructors, and unfair to people left on the waiting list.</p>
+<p>As noted in the <a href="|filename|2012-10-30-minutes-2012-10-29-meeting.md">minutes</a> from our meeting on Monday, one of the many things we want to improve about our workshops is the attendance rate. While we get near-complete turnout for some, we have 50% no-shows for others, which is disappointing for instructors, and unfair to people left on the waiting list.</p>
 
 <p>One idea is to charge $20 or so to help people decide if they're serious about taking part or not. However, we've been told in the past that as soon as we start charging, some universities will start to charge <em>us</em> for space, network access, and so on. I agree with their reasons&mdash;it would be chaos if random people could use their facilities for profit and not give any back to the university&mdash;but in some cases, what they'd charge us would far exceed what we'd get from learners.</p>
 

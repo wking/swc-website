@@ -13,7 +13,7 @@ Tags: opinion
 <li>We do <em>event registration</em> through EventBrite.</li>
 <li>We currently use BlueJeans and Skype for <em>web conferencing</em>, but it's been plagued with both technical and social difficulties: people need to have the right Skype client for their OS, and there are the usual problems with unmuted microphones, unintelligible audio, feedback loops, and so on. Forget flying cars: I'll believe the future has arrived when we can make <em>this</em> work...</li>
 </ol>
-<p>This analysis leaves me feeling a bit conflicted. When I think about <a href="{{root_path}}/blog/2012/04/what-to-teach-researchers-about-the-web.html">what we should teach researchers about the web</a>, I have three requirements:</p>
+<p>This analysis leaves me feeling a bit conflicted. When I think about <a href="|filename|2012-04-01-what-to-teach-researchers-about-the-web.md">what we should teach researchers about the web</a>, I have three requirements:</p>
 <ol>
 <li>They should be able to build solutions to problems they actually have.</li>
 <li>They <em>shouldn't</em> create egregious security holes.</li>

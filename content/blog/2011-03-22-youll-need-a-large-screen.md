@@ -11,4 +11,4 @@ Tags: content, versions/version-4-1
 <li>the big concepts behind that knowledge and those skills.</li>
 </ul>
 <p>The latest version is linked from the thumbnail below.  I know it's tangled, but I hope it's the first step toward a roadmap for redesigning this course to serve your needs better.  Feedback and assistance would both be very welcome.</p>
-<p><img src="{{root_path}}/files/2011/03/course1-275x300.png" /></p>
+<p><img src="|filename|/files/2011/03/course1-275x300.png" /></p>

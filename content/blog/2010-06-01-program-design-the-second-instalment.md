@@ -3,7 +3,7 @@ Author: Greg Wilson
 Title: Program Design: the Second Instalment
 Tags: lectures, versions/version-4
 
-<p>Having recorded and posted <a href="{{root_path}}/blog/2010/05/program-design-the-first-third.html">four episodes</a> of a lecture on program design yesterday, I've managed another two today (highlighted below):</p>
+<p>Having recorded and posted <a href="|filename|2010-05-31-program-design-the-first-third.md">four episodes</a> of a lecture on program design yesterday, I've managed another two today (highlighted below):</p>
 <ol>
 <li><a href="/4_0/invperc/intro.html">Introduction</a></li>
 <li><a href="/4_0/invperc/grid.html">The Grid</a></li>

@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Survey Update
 Tags: community, research
 
-<p>Here's an update on <a href="{{root_path}}/blog/2010/07/survey-results.html">responses</a> to the <a href="http://www.surveymonkey.com/s/FM9YV9C">survey</a> I posted a couple of weeks ago. 172 people have responded at this point; it's encouraging that priorities are relatively stable as numbers increase.</p>
+<p>Here's an update on <a href="|filename|2010-07-15-survey-results.md">responses</a> to the <a href="http://www.surveymonkey.com/s/FM9YV9C">survey</a> I posted a couple of weeks ago. 172 people have responded at this point; it's encouraging that priorities are relatively stable as numbers increase.</p>
 <table>
 <tbody>
 <tr>

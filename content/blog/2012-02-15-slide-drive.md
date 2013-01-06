@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Slide Drive
 Tags: content, education, versions/version-5-0
 
-<p>Speaking of new kinds of content (which I've <a href="{{root_path}}/blog/2012/01/never-mind-the-content-what-about-the-format.html">been</a> <a href="{{root_path}}/blog/2012/02/formatting-revisited.html">doing</a> <a href="{{root_path}}/blog/2012/02/new-kinds-of-content.html">a lot</a>), <a href="http://dseifried.wordpress.com/">David Seifreid</a> has built a working prototype of a new slideshow tool that combines <a href="http://imakewebthings.github.com/deck.js/">deck.js</a> with an HTML5 audio player.  You can check out a demo or grab the source from <a href="https://github.com/dseif/slide-drive">https://github.com/dseif/slide-drive</a>. Slides are pure HTML like this:</p>
+<p>Speaking of new kinds of content (which I've <a href="|filename|2012-01-26-never-mind-the-content-what-about-the-format.md">been</a> <a href="|filename|2012-02-13-formatting-revisited.md">doing</a> <a href="|filename|2012-02-14-new-kinds-of-content.md">a lot</a>), <a href="http://dseifried.wordpress.com/">David Seifreid</a> has built a working prototype of a new slideshow tool that combines <a href="http://imakewebthings.github.com/deck.js/">deck.js</a> with an HTML5 audio player.  You can check out a demo or grab the source from <a href="https://github.com/dseif/slide-drive">https://github.com/dseif/slide-drive</a>. Slides are pure HTML like this:</p>
 <pre>&lt;section popcorn-slideshow="24"&gt;
   &lt;h2&gt;Solution&lt;/h2&gt;
   &lt;p&gt;Short intensive workshops&lt;/p&gt;

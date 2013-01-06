@@ -9,7 +9,7 @@ Tags: community
 <tbody>
 <tr>
 <td colspan="2" align="center"><strong>Age</strong></td>
-<td rowspan="9"><img src="{{root_path}}/files/2012/08/thumb-age.png" /></td>
+<td rowspan="9"><img src="|filename|/files/2012/08/thumb-age.png" /></td>
 </tr>
 <tr>
 <td>&lt;20</td>
@@ -45,7 +45,7 @@ Tags: community
 </tr>
 <tr>
 <td colspan="2" align="center"><strong>Gender</strong></td>
-<td rowspan="3"><img src="{{root_path}}/files/2012/08/thumb-gender.png" /></td>
+<td rowspan="3"><img src="|filename|/files/2012/08/thumb-gender.png" /></td>
 </tr>
 <tr>
 <td>Female</td>
@@ -57,7 +57,7 @@ Tags: community
 </tr>
 <tr>
 <td colspan="2" align="center"><strong>Occupation</strong></td>
-<td rowspan="7"><img src="{{root_path}}/files/2012/08/thumb-role.png" /></td>
+<td rowspan="7"><img src="|filename|/files/2012/08/thumb-role.png" /></td>
 </tr>
 <tr>
 <td>Undergrad</td>
@@ -85,7 +85,7 @@ Tags: community
 </tr>
 <tr>
 <td colspan="2" align="center"><strong>Preferred Platforms</strong></td>
-<td rowspan="4"><img src="{{root_path}}/files/2012/08/thumb-platform.png" /></td>
+<td rowspan="4"><img src="|filename|/files/2012/08/thumb-platform.png" /></td>
 </tr>
 <tr>
 <td>Linux</td>

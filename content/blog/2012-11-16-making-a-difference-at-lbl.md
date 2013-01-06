@@ -11,7 +11,7 @@ Tags: community, venues/lawrence-berkeley-lab
 
 <p>These are exactly the problems version control is meant to solve. With a project under version control there is only one canonical source of the code. Changes made by individual contributors are easily shared with the group by committing them back to the original source. The entire history of the project is always available with records of every change and why it was made. Special versions of the code, such as original copies or versions used for papers can be tagged with meaningful names to be easily accessible.</p>
 
-<p><img src="{{root_path}}/files/2012/11/team_in_cave-1024x764.jpg" /></p>
+<p><img src="|filename|/files/2012/11/team_in_cave-1024x764.jpg" /></p>
 <p>Bethany and some of her team doing a science. Left to right: Nick Brickner (UC Berkeley), Lee Bernstein (LLNL), Bethany Goldblum (UC Berkeley)</p>
 
 <p>Bethany told us "I didn't even know version control existed until I attended the [UC Berkeley] Python BootCamp and didn't really understand how to use it until after the Software Carpentry workshop." Bethany's team now has their code in a git repository on the code hosting site <a href="https://bitbucket.org/">Bitbucket</a> (chosen because LBL provides free private hosting there). All of their changes are tracked and each member of the team always has an up-to-date version of the code. They are even using Bitbucket's issue tracker and wiki to organize tasks and documentation!</p>

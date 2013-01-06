@@ -3,4 +3,4 @@ Author: Greg Wilson
 Title: What We Talk About When We Talk About Software Carpentry
 Tags: content
 
-<p><img src="{{root_path}}/files/2012/08/swc-wordle.png" /></p>
+<p><img src="|filename|/files/2012/08/swc-wordle.png" /></p>

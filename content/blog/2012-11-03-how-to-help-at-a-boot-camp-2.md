@@ -12,5 +12,5 @@ Tags: boot-camp
         <li>Be proactive.</li>
         <li>IT all-rounder.</li>
 </ol>
-<p>This, and Katy Huff's "<a href="{{root_path}}/blog/2012/10/how-to-help-at-a-boot-camp.html">How to Help at a Boot Camp</a>", are tremendously valuable: if you have tips of your own to add, please send 'em in.</p>
+<p>This, and Katy Huff's "<a href="|filename|2012-10-02-how-to-help-at-a-boot-camp.md">How to Help at a Boot Camp</a>", are tremendously valuable: if you have tips of your own to add, please send 'em in.</p>
 

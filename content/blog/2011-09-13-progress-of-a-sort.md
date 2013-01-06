@@ -3,8 +3,8 @@ Author: Greg Wilson
 Title: Progress Of A Sort
 Tags: versions/version-5-0
 
-<p>As I <a href="{{root_path}}/blog/2011/05/damn-the-torpedoes.html">mentioned</a> a few months ago, I'm going to turn Software Carpentry into a book. Here's the present status:</p>
-<p><img src="{{root_path}}/files/2011/09/Screenshot.png" /></p>
+<p>As I <a href="|filename|2011-05-13-damn-the-torpedoes.md">mentioned</a> a few months ago, I'm going to turn Software Carpentry into a book. Here's the present status:</p>
+<p><img src="|filename|/files/2011/09/Screenshot.png" /></p>
 <table>
 <tbody>
 <tr>

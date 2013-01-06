@@ -7,7 +7,7 @@ Tags: noticed, opinion
 <table>
 <tbody>
 <tr>
-<td><a href="http://practicalcomputing.org/"><img src="{{root_path}}/files/2011/06/pcb.png" /></a></td>
+<td><a href="http://practicalcomputing.org/"><img src="|filename|/files/2011/06/pcb.png" /></a></td>
 <td valign="top">Steven Haddock and Casey Dunn:<br />
 <a href="http://www.amazon.com/gp/product/0878933913"><em>Practical Computing for Biologists</em></a>.<br />
 Sinauer Associates, 2010, 0878933913.</td>
@@ -23,5 +23,5 @@ Sinauer Associates, 2010, 0878933913.</td>
 <li>SSH</li>
 <li>installing and configuring software</li>
 </ul>
-<p>There are also a few that we don't cover, such as interacting with hardware, and some that are covered in more depth than we give them, like image manipulation.  The pace is gentler than Software Carpentry, but the last couple of years have convinced me that's a good thing: I think Haddock &amp; Dunn have it right for this target audience. And it's beautifully produced: full-color printing and great graphical design make this book a joy to read.  If I ever do <a href="{{root_path}}/blog/2011/05/damn-the-torpedoes.html">turn Software Carpentry into a book</a>, I might skip the topics <em>PCB</em> covers and just tell people to go and buy it.</p>
+<p>There are also a few that we don't cover, such as interacting with hardware, and some that are covered in more depth than we give them, like image manipulation.  The pace is gentler than Software Carpentry, but the last couple of years have convinced me that's a good thing: I think Haddock &amp; Dunn have it right for this target audience. And it's beautifully produced: full-color printing and great graphical design make this book a joy to read.  If I ever do <a href="|filename|2011-05-13-damn-the-torpedoes.md">turn Software Carpentry into a book</a>, I might skip the topics <em>PCB</em> covers and just tell people to go and buy it.</p>
 <p>Recommended.</p>

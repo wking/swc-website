@@ -11,11 +11,11 @@ Tags: opinion
 <table>
 <tbody>
 <tr>
-<td align="center" valign="middle"><img title="pyramid" src="{{root_path}}/files/2010/12/pyramid.png" /></td>
+<td align="center" valign="middle"><img title="pyramid" src="|filename|/files/2010/12/pyramid.png" /></td>
 <td align="center" valign="middle"><strong>Compute Canada's Pyramid</strong></td>
 </tr>
 <tr>
-<td align="center" valign="middle"><img title="skills" src="{{root_path}}/files/2010/12/skills.png" /></td>
+<td align="center" valign="middle"><img title="skills" src="|filename|/files/2010/12/skills.png" /></td>
 <td align="center" valign="middle"><strong>Reality</strong></td>
 </tr>
 </tbody>

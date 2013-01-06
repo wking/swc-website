@@ -3,7 +3,7 @@ Author: Greg Wilson
 Title: Damn the Torpedoes (but I could use some help navigating)
 Tags: versions/version-5-0
 
-<p>Despite <a href="{{root_path}}/blog/2011/04/by-the-numbers.html">my own calculations</a> (which were optimistic to begin with, and are more so now that I have a new job), I'm going to try to turn Software Carpentry into a book.  Here's what's I'm planning to include, and its presesnt status; I would be <em>very</em> grateful for feedback, especially from alumni, about what doesn't need to be here, and what's missing.  I think I'm still overshooting the knowledge and needs of far too many people; if you think so too, please let me know.</p>
+<p>Despite <a href="|filename|2011-04-09-by-the-numbers.md">my own calculations</a> (which were optimistic to begin with, and are more so now that I have a new job), I'm going to try to turn Software Carpentry into a book.  Here's what's I'm planning to include, and its presesnt status; I would be <em>very</em> grateful for feedback, especially from alumni, about what doesn't need to be here, and what's missing.  I think I'm still overshooting the knowledge and needs of far too many people; if you think so too, please let me know.</p>
 <table>
 <tbody>
 <tr>

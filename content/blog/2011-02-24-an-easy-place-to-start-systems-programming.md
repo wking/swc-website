@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: An Easy Place to Start: Systems Programming
 Tags: content
 
-<p>As a follow-up to recent posts on <a href="{{root_path}}/blog/2011/02/how-to-contribute.html">how to contribute</a>, <a href="{{root_path}}/blog/2011/02/what-better-looks-like.html">what better looks like</a>, and Elango Cheran's <a href="{{root_path}}/blog/2011/02/ask-and-ye-shall-receive.html">secure shell episode</a>, here's a specific request: we would like three episodes on systems programming, by which we mean writing programs to:</p>
+<p>As a follow-up to recent posts on <a href="|filename|2011-02-16-how-to-contribute.md">how to contribute</a>, <a href="|filename|2011-02-22-what-better-looks-like.md">what better looks like</a>, and Elango Cheran's <a href="|filename|2011-02-23-ask-and-ye-shall-receive.md">secure shell episode</a>, here's a specific request: we would like three episodes on systems programming, by which we mean writing programs to:</p>
 <ul>
 <li>manipulate files and directories (chdir, stat, etc.)</li>
 <li>working with archives (tar, zip, etc.)</li>

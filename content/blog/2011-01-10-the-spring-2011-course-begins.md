@@ -13,5 +13,5 @@ Tags: venues/university-of-toronto
 <p>Jon.</p>
 <p>[1] http://software-carpentry.org/spring-2011</p>
 <p>[2] http://software-carpentry.org/forums</p>
-<p>[3] <a href="{{root_path}}/blog/">http://software-carpentry.org/blog/</a> and {{twitter_name}}</p>
-<p>[4] We wrote a <a href="{{root_path}}/blog/2010/12/fall-2010-what-went-right-what-went-wrong.html">blog post</a> to summarise own description of what went right and what went wrong last semester</p></blockquote>
+<p>[3] <a href="|filename|/blog/index.html">http://software-carpentry.org/blog/</a> and {{twitter_name}}</p>
+<p>[4] We wrote a <a href="|filename|2010-12-02-fall-2010-what-went-right-what-went-wrong.md">blog post</a> to summarise own description of what went right and what went wrong last semester</p></blockquote>

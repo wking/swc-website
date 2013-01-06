@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Solution to Sets and Dictionaries Exercise
 Tags: tutorial, versions/version-5-0
 
-<p>Last week, I posted an exercise on <a href="{{root_path}}/blog/2012/04/an-exercise-with-sets-and-dictionaries.html">working with sets and dictionaries</a> that also included a fair bit of file I/O and string manipulation. My solution is below, in four parts, along with the code produced in each. If someone would like to re-do the file parsing using regular expressions, I'd be happy to post that as well.</p>
+<p>Last week, I posted an exercise on <a href="|filename|2012-04-20-an-exercise-with-sets-and-dictionaries.md">working with sets and dictionaries</a> that also included a fair bit of file I/O and string manipulation. My solution is below, in four parts, along with the code produced in each. If someone would like to re-do the file parsing using regular expressions, I'd be happy to post that as well.</p>
 
 <pre>import sys
 

@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Twenty Questions (Minus Two)
 Tags: content, education
 
-<p>Following up on last week's <a href="{{root_path}}/blog/2011/03/musing-about-reorganization.html">musings about reorganizing the course</a>, we've drawn up eighteen questions that we think cover the reasons people come to this course. That leaves us two short of the traditional twenty: what would <em>you</em> add to this list?</p>
+<p>Following up on last week's <a href="|filename|2011-03-11-musing-about-reorganization.md">musings about reorganizing the course</a>, we've drawn up eighteen questions that we think cover the reasons people come to this course. That leaves us two short of the traditional twenty: what would <em>you</em> add to this list?</p>
 <ol>
 <li>How can I automate this task?</li>
 <li>How can I read/control hardware?</li>

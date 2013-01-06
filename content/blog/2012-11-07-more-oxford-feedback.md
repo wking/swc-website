@@ -4,7 +4,7 @@ Title: More Oxford feedback
 Tags: venues/oxford
 
 
-<p>Following on Phil's analysis of the feedback from the <a href="{{root_path}}/blog/2012/11/oxford-wrap-up-with-charts.html">first Software Carpentry workshop in Oxford</a>, here are the round-the-room comments from the attendees, helpers and instructors, good and bad...</p>
+<p>Following on Phil's analysis of the feedback from the <a href="|filename|2012-11-01-oxford-wrap-up-with-charts.md">first Software Carpentry workshop in Oxford</a>, here are the round-the-room comments from the attendees, helpers and instructors, good and bad...</p>
 <table>
 <tbody>
 <tr>

@@ -4,7 +4,7 @@ Author: Ainsley Lawson
 Title: Mid-term Quiz Results
 Tags: evaluation
 
-<p>A few weeks ago we gave a quiz to the SWC students on the first three topics of the course: Version Control, Spreadsheets, and Databases.  We did this in addition to our <a href="{{root_path}}/blog/2010/11/summary-of-student-check-ins.html">student check-ins</a> in order to get a sense of how the students were doing with the material.  Half of the class (24 students) submitted their answers.</p>
+<p>A few weeks ago we gave a quiz to the SWC students on the first three topics of the course: Version Control, Spreadsheets, and Databases.  We did this in addition to our <a href="|filename|2010-11-18-summary-of-student-check-ins.md">student check-ins</a> in order to get a sense of how the students were doing with the material.  Half of the class (24 students) submitted their answers.</p>
 <p><strong>Results:</strong><br />
 Everyone did really, really well!  The majority of the mistakes were small SQL syntax errors, or other similarly minor things.</p>
 <p><strong>Problem areas:</strong></p>

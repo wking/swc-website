@@ -3,15 +3,15 @@ Author: Greg Wilson
 Title: Assembling a Program
 Tags: lectures, versions/version-4
 
-<p>The <a href="{{root_path}}/4_0/invperc/assembly.html">seventh episode</a> of our lecture on program design is now online.  In this one, we actually assemble a complete version of the program step by step using the pieces designed earlier. The final program still has one nasty bug, though, and I'll award a Software Carpentry mug to the first person who can find it (source code attached to this post).  For reference, the first six episodes are listed below, along with another link to this one.</p>
+<p>The <a href="|filename|/4_0/invperc/assembly.html">seventh episode</a> of our lecture on program design is now online.  In this one, we actually assemble a complete version of the program step by step using the pieces designed earlier. The final program still has one nasty bug, though, and I'll award a Software Carpentry mug to the first person who can find it (source code attached to this post).  For reference, the first six episodes are listed below, along with another link to this one.</p>
 <ol>
-<li><a href="{{root_path}}/4_0/invperc/intro.html">Introduction</a></li>
-<li><a href="{{root_path}}/4_0/invperc/grid.html">The Grid</a></li>
-<li><a href="{{root_path}}/4_0/invperc/aliasing.html">Aliasing</a></li>
-<li><a href="{{root_path}}/4_0/invperc/random.html">Randomness</a></li>
-<li><a href="{{root_path}}/4_0/invperc/neighbors.html">Finding Neighbors</a></li>
-<li><a href="{{root_path}}/4_0/invperc/ties.html">Resolving Ties</a></li>
-<li><strong><em><a href="{{root_path}}/4_0/invperc/assembly.html">Assembling the Program</a></em></strong></li>
+<li><a href="|filename|/4_0/invperc/intro.html">Introduction</a></li>
+<li><a href="|filename|/4_0/invperc/grid.html">The Grid</a></li>
+<li><a href="|filename|/4_0/invperc/aliasing.html">Aliasing</a></li>
+<li><a href="|filename|/4_0/invperc/random.html">Randomness</a></li>
+<li><a href="|filename|/4_0/invperc/neighbors.html">Finding Neighbors</a></li>
+<li><a href="|filename|/4_0/invperc/ties.html">Resolving Ties</a></li>
+<li><strong><em><a href="|filename|/4_0/invperc/assembly.html">Assembling the Program</a></em></strong></li>
 </ol>
 <pre>#!/usr/bin/env python
 '''Invasion Percolation Simulation

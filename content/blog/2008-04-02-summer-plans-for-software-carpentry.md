@@ -4,7 +4,7 @@ Title: Summer Plans for Software Carpentry
 Tags: lectures, versions/version-3
 
 <p>The Software Carpentry site is still getting a lot of traffic, despite my neglect:</p>
-<p><img src="{{root_path}}/files/2008/04/usage.png" alt="Site Usage" /></p>
+<p><img src="|filename|/files/2008/04/usage.png" alt="Site Usage" /></p>
 <p>This summer, I'd like to:</p>
 <ol>
 <li>Convert the site from static HTML pages to a wiki to make it easier for people to contribute content and fix bugs.</li>

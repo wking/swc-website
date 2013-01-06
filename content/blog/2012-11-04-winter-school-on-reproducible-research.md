@@ -8,5 +8,5 @@ Tags: noticed
 
 <p>The registration deadline is December 3rd, 2012.</p>
 
-<p><a href="{{root_path}}/files/2012/11/eVITA_Winter_School_2013.pdf">eVITA Winter School 2013 flyer (PDF)</a></p>
+<p><a href="|filename|/files/2012/11/eVITA_Winter_School_2013.pdf">eVITA Winter School 2013 flyer (PDF)</a></p>
 

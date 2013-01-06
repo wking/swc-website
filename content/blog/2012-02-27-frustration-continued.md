@@ -8,19 +8,19 @@ Tags: content, versions/version-5-0
 <table border="1">
 <tbody>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/shell-filedir-08.png" /></td>
+<td><img src="|filename|/files/2012/02/shell-filedir-08.png" /></td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/shell-filedir-37.png" /></td>
+<td><img src="|filename|/files/2012/02/shell-filedir-37.png" /></td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/shell-filedir-59.png" /></td>
+<td><img src="|filename|/files/2012/02/shell-filedir-59.png" /></td>
 </tr>
 </tbody>
 </table>
 <p>How can I translate those into HTML? The shell session transcripts are straightforward enough&mdash;a <code>&lt;pre&gt;</code> here, a <code>&lt;span&gt;</code> there&mdash;but what about the explanatory comment in blue in the third slide? Or the filesystem diagram in the second? Or the stuff (I can't think of a better term) in the first? As I see it, the options are:</p>
 <ol>
-<li>Give up and do simple bullet-point text with the occasional inset image file, as we did with <a href="{{root_path}}/3_0/shell01.html">Version 3</a>. On the upside, it would be easy to write. On the downside, it's second-rate educationally. Good instructors don't cover blackboards with bullet points: they stir diagrams and text together, because that's what's most effective.</li>
+<li>Give up and do simple bullet-point text with the occasional inset image file, as we did with <a href="|filename|/3_0/shell01.html">Version 3</a>. On the upside, it would be easy to write. On the downside, it's second-rate educationally. Good instructors don't cover blackboards with bullet points: they stir diagrams and text together, because that's what's most effective.</li>
 <li>Create one SVG (or HTML5 canvas element) per slide. The upside is free-form positioning; the downside is that both are painful to work with, which discourages creativity and collaboration.</li>
 </ol>
 <p>What I mean by "painful to work with" is that a lot of careful manual editing would be needed to do things like add elements incrementally in sync with a transcript. The result would also be largely unintelligible to search engines, and good luck copying and pasting it.</p>

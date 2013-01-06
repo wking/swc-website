@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Linking Forward From a Bibliography?
 Tags: community, research
 
-<p>This web site's <a href="{{root_path}}/about/biblio.html">Research page</a> is a bibliography of 116 papers related in some way to the practice of scientific computing. I'd like to know:</p>
+<p>This web site's <a href="|filename|/about/biblio.html">Research page</a> is a bibliography of 116 papers related in some way to the practice of scientific computing. I'd like to know:</p>
 <ol>
 <li>what related papers I've missed, and</li>
 <li>when a new related paper appears.</li>

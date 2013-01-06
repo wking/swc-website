@@ -8,19 +8,19 @@ Tags: community, content, education, evaluation, versions/version-5-0
 <table>
 <tbody>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/Badge_CoreSkills.png" /></td>
+<td><img src="|filename|/files/2012/02/Badge_CoreSkills.png" /></td>
 <td>for people who complete the core curriculum</td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/Badge_Instructor.png" /></td>
+<td><img src="|filename|/files/2012/02/Badge_Instructor.png" /></td>
 <td>for helping to teach (either workshops or online)</td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/Badge_Organizer.png" /></td>
+<td><img src="|filename|/files/2012/02/Badge_Organizer.png" /></td>
 <td>for organizing workshops</td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2012/02/Badge_Creator.png" /></td>
+<td><img src="|filename|/files/2012/02/Badge_Creator.png" /></td>
 <td>for creating (or fixing) content</td>
 </tr>
 </tbody>

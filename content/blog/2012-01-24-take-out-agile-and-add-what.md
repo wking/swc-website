@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Take Out Agile, and Add...What?
 Tags: content, versions/version-5-0
 
-<p>Based on the feedback we've received so far (both as comments and by email), it looks like we should take development methodologies (i.e., agile development) out of the <a href="{{root_path}}/blog/2012/01/revising-the-curriculum.html">core curriculum</a> and replace it with two hours on:</p>
+<p>Based on the feedback we've received so far (both as comments and by email), it looks like we should take development methodologies (i.e., agile development) out of the <a href="|filename|2012-01-23-revising-the-curriculum.md">core curriculum</a> and replace it with two hours on:</p>
 <ol>
 <li>Nothing: there's already too much in the core.</li>
 <li>Spreadsheets: because many scientists use them badly.</li>

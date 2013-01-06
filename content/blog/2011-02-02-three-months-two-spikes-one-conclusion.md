@@ -8,19 +8,19 @@ Tags: opinion
 <table>
 <tbody>
 <tr>
-<td><img src="{{root_path}}/files/2011/02/2010-11.png" /></td>
+<td><img src="|filename|/files/2011/02/2010-11.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">November 2010</td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2011/02/2010-12.png" /></td>
+<td><img src="|filename|/files/2011/02/2010-12.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">December 2010</td>
 </tr>
 <tr>
-<td><img src="{{root_path}}/files/2011/02/2011-01.png" /></td>
+<td><img src="|filename|/files/2011/02/2011-01.png" /></td>
 </tr>
 <tr>
 <td style="text-align: center;">January 2011</td>

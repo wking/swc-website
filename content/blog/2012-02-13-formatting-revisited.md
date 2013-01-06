@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Formatting Revisited
 Tags: content, versions/version-5-0
 
-<p><a href="http://dseifried.wordpress.com/">David Seifreid</a> has been working for the past week to combine <a href="http://imakewebthings.github.com/deck.js/">deck.js</a>, a Javascript-plus-CSS slideshow package, with the <a href="https://github.com/dz0ny/AudioJS">AudioJS</a> audio player, so that we can re-do slides as pure HTML5 (instead of using PNGs exported from PowerPoint). At the same time, I'm trying to turn the course notes into long-form prose (what used to be called a "book") for people who prefer reading at leisure. How should all this content be managed? My <a href="{{root_path}}/blog/2012/01/never-mind-the-content-what-about-the-format.html">previous post</a> on 21st Century teaching formats described what I'd eventually like, but the tool I want doesn't exist yet, so what can be done now?</p>
+<p><a href="http://dseifried.wordpress.com/">David Seifreid</a> has been working for the past week to combine <a href="http://imakewebthings.github.com/deck.js/">deck.js</a>, a Javascript-plus-CSS slideshow package, with the <a href="https://github.com/dz0ny/AudioJS">AudioJS</a> audio player, so that we can re-do slides as pure HTML5 (instead of using PNGs exported from PowerPoint). At the same time, I'm trying to turn the course notes into long-form prose (what used to be called a "book") for people who prefer reading at leisure. How should all this content be managed? My <a href="|filename|2012-01-26-never-mind-the-content-what-about-the-format.md">previous post</a> on 21st Century teaching formats described what I'd eventually like, but the tool I want doesn't exist yet, so what can be done now?</p>
 <p>We will have:</p>
 <ol>
 <li><em>metadata</em>, such as keywords and topic guides;</li>
@@ -20,7 +20,7 @@ Tags: content, versions/version-5-0
 <li><em>tranascripts</em> of the narration; and</li>
 <li><em>prose</em> (the "book" stuff), which may include the same code samples and figures.</li>
 </ol>
-<p>I know from experience that the transcripts of the audio will be a starting point for the book-form material, but the latter will be longer. We'll therefore have four parallel streams of data: slides, audio, narration (as text), and the book. That suggests something like this (using the topic/concept distinction I discussed <a href="{{root_path}}/blog/2012/01/terminology.html">a couple of weeks ago</a>):</p>
+<p>I know from experience that the transcripts of the audio will be a starting point for the book-form material, but the latter will be longer. We'll therefore have four parallel streams of data: slides, audio, narration (as text), and the book. That suggests something like this (using the topic/concept distinction I discussed <a href="|filename|2012-01-29-terminology.md">a couple of weeks ago</a>):</p>
 <pre>&lt;section class="topic"&gt;
   &lt;section class="metadata"&gt;
     keywords, notes to instructors, etc.

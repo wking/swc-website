@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Online Delivery
 Tags: tooling, versions/version-4
 
-<p>As <a href="{{root_path}}/blog/2010/03/software-carpentry-version-4-is-a-go.html">the announcement of Version 4</a> said, Software Carpentry is being redesigned so that it can be delivered in several ways. I want to support:</p>
+<p>As <a href="|filename|2010-03-25-software-carpentry-version-4-is-a-go.md">the announcement of Version 4</a> said, Software Carpentry is being redesigned so that it can be delivered in several ways. I want to support:</p>
 <ol>
 <li>traditional classroom lectures, with someone at the front of the room talking over a series of slides and/or coding sessions to a captive audience;</li>
 <li>students reading/viewing material on their own time, at their own pace, when and as they need it; and</li>

@@ -7,8 +7,8 @@ Tags: community
 <table border="0" cellpadding="3">
 <tbody>
 <tr>
-<td><img src="{{root_path}}/files/2009/08/nielsen.jpg" alt="Michael Nielsen" /></td>
-<td><img src="{{root_path}}/files/2009/08/neylon.jpg" alt="Cameron Neylon" /></td>
+<td><img src="|filename|/files/2009/08/nielsen.jpg" alt="Michael Nielsen" /></td>
+<td><img src="|filename|/files/2009/08/neylon.jpg" alt="Cameron Neylon" /></td>
 </tr>
 <tr>
 <td align="center">Aussie</td>

@@ -4,7 +4,7 @@ Title: The Big Picture
 Journal: True
 Tags: versions/version-5-0
 
-<p>I'm trying to be systematic about re-designing the <a href="{{root_path}}/blog/2012/01/revising-the-curriculum.html">core curriculum</a> of Software Carpentry. So far, I've identified 11 common questions:</p>
+<p>I'm trying to be systematic about re-designing the <a href="|filename|2012-01-23-revising-the-curriculum.md">core curriculum</a> of Software Carpentry. So far, I've identified 11 common questions:</p>
 <table>
 <tbody>
 <tr>
