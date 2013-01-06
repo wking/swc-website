@@ -13,16 +13,16 @@ Latlng: 54.980095,-1.6146142
 <p><strong>Contact:</strong> For further information please e-mail us at swc2012@ncl.ac.uk.</p>
 <p><strong>Material from the workshop:</strong></p>
 <p>Monday May 14th<br />
-<a href="{{root_path}}/files/2012/05/SC-WhatWeKnow.ppt"> What we actually know about developing software, and why we believe it's true</a> &mdash; Steve Crouch<br />
-<a href="{{root_path}}/files/2012/05/swcNCL.zip"> The bash shell</a> &mdash; Steve McGough<br />
+<a href="|filename|/files/2012/05/SC-WhatWeKnow.ppt"> What we actually know about developing software, and why we believe it's true</a> &mdash; Steve Crouch<br />
+<a href="|filename|/files/2012/05/swcNCL.zip"> The bash shell</a> &mdash; Steve McGough<br />
 <a href="https://code.soundsoftware.ac.uk/projects/easyhg/wiki/SC2012BootcampPlan">Version control</a> &mdash; Chris Cannam<br />
 Software Carpentry &mdash; Greg Wilson (no material)<br />
-The basics of Python: <a href="{{root_path}}/files/2012/05/python-short-intro.ppt">Slides</a>, <a href="{{root_path}}/files/2012/05/python-intro.docx">Script</a> &mdash; Mike Jackson</p>
+The basics of Python: <a href="|filename|/files/2012/05/python-short-intro.ppt">Slides</a>, <a href="|filename|/files/2012/05/python-intro.docx">Script</a> &mdash; Mike Jackson</p>
 <p>Tuesday May 15<br />
 Continuing Python programming<br />
-- Round 1 (Functions) <a href="{{root_path}}/files/2012/05/SC-FunctionsIntro.ppt">Slides</a>, <a href="{{root_path}}/files/2012/05/SC-FunctionsScript.docx">Script</a> &mdash; Steve Crouch<br />
-- Round 2 (Testing) <a href="{{root_path}}/files/2012/05/python-test-practical.ppt">Slides</a>, <a href="{{root_path}}/files/2012/05/python-testing.docx">Script</a>, <a href="{{root_path}}/files/2012/05/code.zip">code</a> &mdash; Mike Jackson<br />
-Using relational databases <a href="{{root_path}}/files/2012/05/Experiments-DB-Overview.pdf">Table Overview</a>, <a href="{{root_path}}/files/2012/05/SC-DatabasesIntro.ppt">Slides</a>, <a href="{{root_path}}/files/2012/05/SC-DatabasesScript.docx">Script</a>, <a href="{{root_path}}/files/2012/05/code1.zip">code</a> &mdash; Steve Crouch<br />
-<a href="{{root_path}}/files/2012/05/carpentry-conclusions.ppt"> Putting it all together</a> &mdash; Mike Jackson</p>
+- Round 1 (Functions) <a href="|filename|/files/2012/05/SC-FunctionsIntro.ppt">Slides</a>, <a href="|filename|/files/2012/05/SC-FunctionsScript.docx">Script</a> &mdash; Steve Crouch<br />
+- Round 2 (Testing) <a href="|filename|/files/2012/05/python-test-practical.ppt">Slides</a>, <a href="|filename|/files/2012/05/python-testing.docx">Script</a>, <a href="|filename|/files/2012/05/code.zip">code</a> &mdash; Mike Jackson<br />
+Using relational databases <a href="|filename|/files/2012/05/Experiments-DB-Overview.pdf">Table Overview</a>, <a href="|filename|/files/2012/05/SC-DatabasesIntro.ppt">Slides</a>, <a href="|filename|/files/2012/05/SC-DatabasesScript.docx">Script</a>, <a href="|filename|/files/2012/05/code1.zip">code</a> &mdash; Steve Crouch<br />
+<a href="|filename|/files/2012/05/carpentry-conclusions.ppt"> Putting it all together</a> &mdash; Mike Jackson</p>
 <p><strong>Event Evaluation:</strong></p>
 <p><strong></strong>Evaluation of the event venue and local organisation: <a href="http://forms.ncl.ac.uk/view.php?id=3205">http://forms.ncl.ac.uk/view.php?id=3205</a></p>
