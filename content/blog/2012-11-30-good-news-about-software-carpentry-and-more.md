@@ -11,5 +11,5 @@ Tags: community, sponsors/mozilla, sponsors/sloan-foundation, versions/version-5
   <li>Apply or learn more about the <a href="http://careers.mozilla.org/en-US/position/oQuSWfwS">Webmaking Science Lab Director position</a>.</li>
   <li><a href="mailto:{{contact_email}}">Get in touch</a> about our internships.</li>
   <li><a href="mailto:{{contact_email}}">Contact us</a> about hosting a Software Carpentry workshop for universities, government organizations, or anyone else who'd like to do more science in less time, with less pain.</li>
-  <li>Participate in an <a href="|filename|/bootcamps/">upcoming workshop</a>.</li>
+  <li>Participate in an <a href="|filename|/bootcamps/index.html">upcoming workshop</a>.</li>
 </ul>

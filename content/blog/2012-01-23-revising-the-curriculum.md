@@ -78,7 +78,7 @@ Tags: content, versions/version-5-0
 </ul>
 </li>
 </ol>
-<p>If we use a two-day <a href="/bootcamps/">boot camp</a> to start, and follow up over six weeks with one lesson per week, I think we can cover:</p>
+<p>If we use a two-day <a href="/bootcamps/index.html">boot camp</a> to start, and follow up over six weeks with one lesson per week, I think we can cover:</p>
 <table>
 <tbody>
 <tr>

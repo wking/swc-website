@@ -10,7 +10,7 @@ Tags: community, versions/version-4-1
 <li>We've reached a lot of people
 <ul>
 <li>We have delivered 12 workshops to 376 learners in 4 countries (<a href="|filename|2012-03-30-what-we-teach-in-two-days.md">curriculum</a>)</li>
-<li>Numbers will be 18 workshops, 520 learners, and 5 countries by the end of July (<a href="/bootcamps/">calendar</a>)</li>
+<li>Numbers will be 18 workshops, 520 learners, and 5 countries by the end of July (<a href="/bootcamps/index.html">calendar</a>)</li>
 <li>Have actually lost count of the number of online tutorials we've run...</li>
 </ul>
 </li>

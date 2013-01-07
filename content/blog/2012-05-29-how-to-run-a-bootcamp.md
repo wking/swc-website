@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: How to Run a Bootcamp
 Tags: boot-camp, versions/version-5-0
 
-<p>With so many people setting up and running Software Carpentry <a href="/bootcamps/">boot camps</a>, I thought it was time to put together a more complete how-to. If I've forgotten anything, please let me know. <em>(Later: please also see this PLoS paper"<a href="http://www.ploscollections.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002245">Ten Simple Rules for Developing a Short Bioinformatics Training Course</a>".)</em></p>
+<p>With so many people setting up and running Software Carpentry <a href="/bootcamps/index.html">boot camps</a>, I thought it was time to put together a more complete how-to. If I've forgotten anything, please let me know. <em>(Later: please also see this PLoS paper"<a href="http://www.ploscollections.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002245">Ten Simple Rules for Developing a Short Bioinformatics Training Course</a>".)</em></p>
 <p><strong>Assumptions</strong></p>
 <ul>
 <li>Boot camp is 2-3 days long</li>
