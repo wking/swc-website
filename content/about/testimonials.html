@@ -1,11 +1,11 @@
-{% extends "_base.html" %}
-
+{% extends "base.html" %}
+{#
 {% block file_metadata %}
   <meta name="title" content="Testimonials" />
 {% endblock file_metadata %}
 
 {% block navhighlight %}{{navhighlight('home')}}{% endblock navhighlight %}
-
+#}
 {% block content %}
 <blockquote class="testimonial">
 <p>Software Carpentry training has had a tremendous influence on the productivity of the students in my lab and several other labs on campus. It trained them to write code that works properly more quickly and to automate repetitive tasks that they used to spend hours on (now they spend minutes). In addition, we are now reusing code much more often, because the code is written in such a way that the students can remember what they did and other students can understand exactly how the code works. I can't recommend Software Carpentry strongly enough.</p>
@@ -65,5 +65,6 @@
 <p>Have a story of your own you'd like to share? Please <a href="mailto:{{contact_email}}?subject=testimonial">let us know</a>.</p>
 
 {% endblock content %}
-
+{#
 {% block comments %}{% endblock comments %}
+#}
