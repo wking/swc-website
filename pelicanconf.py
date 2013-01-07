@@ -47,6 +47,9 @@ DIRECT_TEMPLATES = [
 STATIC_PATHS = [
     '3_0',
     '4_0',
+    'badges/creator',
+    'badges/instructor',
+    'badges/organizer',
     'css',
     'files',
     'img',
@@ -55,6 +58,10 @@ STATIC_PATHS = [
 
 TEMPLATE_PAGE_PATHS = [
     'about',
+    'badges/index.html',
+    'badges/creator.html',
+    'badges/instructor.html',
+    'badges/organizer.html',
     'bootcamps/index.html',
     'bootcamps/conduct.html',
     'blog/index.html',
