@@ -332,6 +332,11 @@ class Static(Page):
     def dst(): return None
 
 
+class Direct_Template_Page(Page):
+    # Underscore in name for ._expand_settings naming
+    pass
+
+
 class Template_Page(Page):
     # Underscore in name for ._expand_settings naming
     pass
