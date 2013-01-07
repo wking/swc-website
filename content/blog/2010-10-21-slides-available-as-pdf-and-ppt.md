@@ -11,7 +11,7 @@ Tags: content, versions/version-4
 <li><a href="/4_0/shell/">The Unix Shell</a></li>
 <li><a href="/4_0/regexp/">Regular Expressions</a></li>
 <li><a href="/4_0/vc/">Version Control</a></li>
-<li><a href="/4_0/make/">Make</a></li>
+<li><a href="/4_0/make/index.html">Make</a></li>
 <li><a href="/4_0/invperc/index.html">Program Design</a></li>
 </ul>
 <p>We haven't provided slides for the spreadsheets and databases lectures because they aren't slide-based. Please let us know if you find these useful, or if you notice any typos that we should fix.</p>

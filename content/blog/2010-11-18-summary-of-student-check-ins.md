@@ -28,7 +28,7 @@ Tags: evaluation
 <li>Programming in Matlab, and integrating with python</li>
 <li>Working with text (the lecture on <a href="/4_0/regexp/">regular expressions</a> may helpful)</li>
 <li><a href="/4_0/test/">Testing</a></li>
-<li><a href="/4_0/shell/">Shell</a>, <a href="/4_0/make/">Make</a> or generally automating scripts</li>
+<li><a href="/4_0/shell/">Shell</a>, <a href="/4_0/make/index.html">Make</a> or generally automating scripts</li>
 <li>Perl</li>
 <li>Algorithms and parallel processing</li>
 </ul>

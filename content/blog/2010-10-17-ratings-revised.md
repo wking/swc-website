@@ -16,7 +16,7 @@ Tags: community, content
 <tbody>
 <tr>
 <td>2.53</td>
-<td><a href="/4_0/make/">Automating Repetitive Tasks</a></td>
+<td><a href="/4_0/make/index.html">Automating Repetitive Tasks</a></td>
 </tr>
 <tr>
 <td>2.51</td>
