@@ -45,6 +45,8 @@ DIRECT_TEMPLATES = [
     ]
 
 STATIC_PATHS = [
+    '3_0',
+    '4_0',
     'files',
     ]
 
