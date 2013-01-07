@@ -5,6 +5,7 @@ import logging
 import functools
 import os
 import re
+import urlparse
 
 from datetime import datetime
 from sys import platform, stdin
@@ -171,22 +172,26 @@ class Page(object):
             # categories, tags, etc. in the future, but let's keep things
             # simple for now.
             if what == 'filename':
-                if value.startswith('/'):
-                    value = value[1:]
+                scheme,netloc,path,query,fragment = urlparse.urlsplit(value)
+                if scheme or netloc:
+                    raise ValueError(m.groups())
+                if path.startswith('/'):
+                    path = path[1:]
                 else:
                     # relative to the source path of this content
-                    value = self.get_relative_source_path(
-                        os.path.join(self.relative_dir, value)
+                    path = self.get_relative_source_path(
+                        os.path.join(self.relative_dir, path)
                     )
 
-                if value in self._context['filenames']:
+                if path in self._context['filenames']:
                     origin = '/'.join((siteurl,
-                             self._context['filenames'][value].url))
+                             self._context['filenames'][path].url))
                 else:
                     logger.warning(u"Unable to find {fn}, skipping url"
-                                    " replacement".format(fn=value))
-
-            return m.group('markup') + m.group('quote') + origin \
+                                    " replacement".format(fn=path))
+                link = urlparse.urlunsplit((
+                        scheme, netloc, origin, query, fragment))
+            return m.group('markup') + m.group('quote') + link \
                     + m.group('quote')
 
         return hrefs.sub(replacer, content)
