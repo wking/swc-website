@@ -7,7 +7,7 @@ Latlng: 55.9453279,-3.1911838
 {% include "_what.html" %}
 {% include "_who.html" %}
 
-<p><strong>Requirements:</strong> Before coming to the boot camp please ensure you have the following software installed on your laptop: Bash shell, Make, a text editor, Python 2.6+, Mercurial, Python setuptools and nose, sqlite, Firefox and Firefox's SQLite Manager plug-in. You should also register for a free account on <a href="https://bitbucket.org/">BitBucket</a>. For instructions as to how to check if you already have these, and how to install these if you don't, please see our <a href="|filename|/setup/">set up page</a> lists the software we expect you to have installed on your laptop before you come to the boot camp. If you have any problems please e-mail the <a href="mailto:michaelj@epcc.ed.ac.uk">boot camp organiser</a>.</p>
+<p><strong>Requirements:</strong> Before coming to the boot camp please ensure you have the following software installed on your laptop: Bash shell, Make, a text editor, Python 2.6+, Mercurial, Python setuptools and nose, sqlite, Firefox and Firefox's SQLite Manager plug-in. You should also register for a free account on <a href="https://bitbucket.org/">BitBucket</a>. For instructions as to how to check if you already have these, and how to install these if you don't, please see our <a href="|filename|/setup/index.html">set up page</a> lists the software we expect you to have installed on your laptop before you come to the boot camp. If you have any problems please e-mail the <a href="mailto:michaelj@epcc.ed.ac.uk">boot camp organiser</a>.</p>
 
 <p><strong>Content:</strong></p>
 <p>Tuesday 4th:</p>
