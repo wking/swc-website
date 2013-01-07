@@ -1,4 +1,4 @@
 Permalink: <a class="more" href="{{ SITEURL }}/{{ content.url }}">{{ content.date }}</a>
 {% if content.author %}by <a class="url fn" href="{{ SITEURL }}/{{ content.author.url }}">{{ content.author }}</a>{% endif %}
-in <a href="{{ SITEURL }}/{{ content.category.url }}">{{ content.category }}</a>`
+in <a href="{{ SITEURL }}/{{ content.category.url }}">{{ content.category }}</a>
 {% if content.tags %}tags: {% for tag in content.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}{% endif %}
