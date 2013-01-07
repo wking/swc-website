@@ -52,6 +52,7 @@ STATIC_PATHS = [
 
 TEMPLATE_PAGE_PATHS = [
     'about',
+    'bootcamps/index.html',
     'bootcamps/conduct.html',
     'blog/index.html',
     'blog/by-date.html',
