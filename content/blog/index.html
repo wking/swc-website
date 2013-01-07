@@ -1,13 +1,13 @@
 <!-- pageclass: BlogIndexPage -->
-{% extends "_base.html" %}
-
+{% extends "base.html" %}
+{#
 {% block file_metadata %}
   <meta name="title" content="Blog" />
   <meta name="subglob" content="*/*/*.html" />
 {% endblock file_metadata %}
 
 {% block navhighlight %}{{navhighlight('blog')}}{% endblock navhighlight %}
-
+#}
 {% block content %}
 <h2>Recent Posts
   <a href="http://software-carpentry.org/feed.xml">
@@ -71,5 +71,6 @@
 {% endfor %}
 
 {% endblock content %}
-
+{#
 {% block comments %}{% endblock comments %}
+#}
