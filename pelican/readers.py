@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import datetime
+import logging
 import os
 import re
 try:
@@ -21,8 +23,11 @@ try:
 except ImportError:
     asciidoc = False
 
-from pelican.contents import Category, Tag, Author
+from pelican.contents import Page, Category, Tag, Author
 from pelican.utils import get_date, pelican_open
+
+
+logger = logging.getLogger(__name__)
 
 
 _METADATA_PROCESSORS = {
@@ -36,6 +41,7 @@ _METADATA_PROCESSORS = {
 
 class Reader(object):
     enabled = True
+    file_extensions = ['static']
     extensions = None
 
     def __init__(self, settings):
@@ -45,6 +51,12 @@ class Reader(object):
         if name in _METADATA_PROCESSORS:
             return _METADATA_PROCESSORS[name](value, self.settings)
         return value
+
+    def read(self, source_path):
+        "No-op parser"
+        content = None
+        metadata = {}
+        return content, metadata
 
 
 class _FieldBodyTranslator(HTMLTranslator):
@@ -105,20 +117,20 @@ class RstReader(Reader):
                 output[name] = self.process_metadata(name, value)
         return output
 
-    def _get_publisher(self, filename):
+    def _get_publisher(self, source_path):
         extra_params = {'initial_header_level': '2'}
         pub = docutils.core.Publisher(
             destination_class=docutils.io.StringOutput)
         pub.set_components('standalone', 'restructuredtext', 'html')
         pub.writer.translator_class = PelicanHTMLTranslator
         pub.process_programmatic_settings(None, extra_params, None)
-        pub.set_source(source_path=filename)
+        pub.set_source(source_path=source_path)
         pub.publish()
         return pub
 
-    def read(self, filename):
+    def read(self, source_path):
         """Parses restructured text"""
-        pub = self._get_publisher(filename)
+        pub = self._get_publisher(source_path)
         parts = pub.writer.parts
         content = parts.get('body')
 
@@ -147,9 +159,9 @@ class MarkdownReader(Reader):
                 output[name] = self.process_metadata(name, value[0])
         return output
 
-    def read(self, filename):
+    def read(self, source_path):
         """Parse content and metadata of markdown files"""
-        text = pelican_open(filename)
+        text = pelican_open(source_path)
         md = Markdown(extensions=set(self.extensions + ['meta']))
         content = md.convert(text)
 
@@ -161,9 +173,9 @@ class HtmlReader(Reader):
     file_extensions = ['html', 'htm']
     _re = re.compile('\<\!\-\-\#\s?[A-z0-9_-]*\s?\:s?[A-z0-9\s_-]*\s?\-\-\>')
 
-    def read(self, filename):
+    def read(self, source_path):
         """Parse content and metadata of (x)HTML files"""
-        with open(filename) as content:
+        with open(source_path) as content:
             metadata = {'title': 'unnamed'}
             for i in self._re.findall(content):
                 key = i.split(':')[0][5:].strip()
@@ -179,10 +191,10 @@ class AsciiDocReader(Reader):
     file_extensions = ['asc']
     default_options = ["--no-header-footer", "-a newline=\\n"]
 
-    def read(self, filename):
+    def read(self, source_path):
         """Parse content and metadata of asciidoc files"""
         from cStringIO import StringIO
-        text = StringIO(pelican_open(filename))
+        text = StringIO(pelican_open(source_path))
         content = StringIO()
         ad = AsciiDocAPI()
 
@@ -207,19 +219,31 @@ class AsciiDocReader(Reader):
 
 _EXTENSIONS = {}
 
-for cls in Reader.__subclasses__():
+for cls in [Reader] + Reader.__subclasses__():
     for ext in cls.file_extensions:
         _EXTENSIONS[ext] = cls
 
 
-def read_file(filename, fmt=None, settings=None):
-    """Return a reader object using the given format."""
-    base, ext = os.path.splitext(os.path.basename(filename))
+def read_file(base_path, path, content_class=Page, fmt=None,
+              settings=None, context=None,
+              preread_signal=None, preread_sender=None,
+              context_signal=None, context_sender=None):
+    """Return a content object parsed with the given format."""
+    path = os.path.abspath(os.path.join(base_path, path))
+    source_path = os.path.relpath(path, base_path)
+    base, ext = os.path.splitext(os.path.basename(path))
     if not fmt:
         fmt = ext[1:]
 
+    logger.debug(u'read file %s -> %s' % (
+            source_path, content_class.__name__))
+
+    if preread_signal:
+        logger.debug(u'signal %s.send(%s)' % (preread_signal, preread_sender))
+        preread_signal.send(preread_sender)
+
     if fmt not in _EXTENSIONS:
-        raise TypeError('Pelican does not know how to parse %s' % filename)
+        raise TypeError('Pelican does not know how to parse %s' % path)
 
     reader = _EXTENSIONS[fmt](settings)
     settings_key = '%s_EXTENSIONS' % fmt.upper()
@@ -230,7 +254,15 @@ def read_file(filename, fmt=None, settings=None):
     if not reader.enabled:
         raise ValueError("Missing dependencies for %s" % fmt)
 
-    content, metadata = reader.read(filename)
+    metadata = default_metadata(
+        settings=settings, process=reader.process_metadata)
+    metadata.update(path_metadata(
+            full_path=path, source_path=source_path, settings=settings))
+    metadata.update(parse_path_metadata(
+            source_path=source_path, settings=settings,
+            process=reader.process_metadata))
+    content, reader_metadata = reader.read(path)
+    metadata.update(reader_metadata)
 
     # eventually filter the content with typogrify if asked so
     if settings and settings.get('TYPOGRIFY'):
@@ -238,13 +270,60 @@ def read_file(filename, fmt=None, settings=None):
         content = typogrify(content)
         metadata['title'] = typogrify(metadata['title'])
 
-    filename_metadata = settings and settings.get('FILENAME_METADATA')
-    if filename_metadata:
-        match = re.match(filename_metadata, base)
-        if match:
-            for k, v in match.groupdict().iteritems():
-                if k not in metadata:
-                    k = k.lower()  # metadata must be lowercase
-                    metadata[k] = reader.process_metadata(k, v)
+    if context_signal:
+        logger.debug(u'signal %s.send(%s, <metadata>)' % (
+                context_signal, context_sender))
+        context_signal.send(context_sender, metadata=metadata)
+    return content_class(
+        content=content,
+        metadata=metadata,
+        settings=settings,
+        source_path=path,
+        context=context)
 
-    return content, metadata
+def default_metadata(settings=None, process=None):
+    metadata = {}
+    if settings:
+        if 'DEFAULT_CATEGORY' in settings:
+            value = settings['DEFAULT_CATEGORY']
+            if process:
+                value = process('category', value)
+            metadata['category'] = value
+        if 'DEFAULT_DATE' in settings:
+            metadata['date'] = datetime.datetime(*settings['DEFAULT_DATE'])
+    return metadata
+
+def path_metadata(full_path, source_path, settings=None):
+    metadata = {}
+    if settings:
+        if settings.get('DEFAULT_DATE', None) == 'fs':
+            metadata['date'] = datetime.datetime.fromtimestamp(
+                os.stat(full_path).st_ctime)
+        metadata.update(settings.get('EXTRA_PATH_METADATA', {}).get(
+                source_path, {}))
+    return metadata
+
+def parse_path_metadata(source_path, settings=None, process=None):
+    metadata = {}
+    dirname, basename = os.path.split(source_path)
+    base, ext = os.path.splitext(basename)
+    subdir = os.path.basename(dirname)
+    if settings:
+        checks = []
+        for key,data in [('FILENAME_METADATA', base),
+                         ('PATH_METADATA', source_path),
+                         ]:
+            checks.append((settings.get(key, None), data))
+        if settings.get('USE_FOLDER_AS_CATEGORY', None):
+            checks.insert(0, ('(?P<category>.*)', subdir))
+        for regexp,data in checks:
+            if regexp and data:
+                match = re.match(regexp, data)
+                if match:
+                    for k, v in match.groupdict().iteritems():
+                        if k not in metadata:
+                            k = k.lower()  # metadata must be lowercase
+                            if process:
+                                v = process(k, v)
+                            metadata[k] = v
+    return metadata

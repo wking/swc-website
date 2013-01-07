@@ -3,6 +3,7 @@ import os
 import re
 import pytz
 import shutil
+import traceback
 import logging
 import errno
 from collections import defaultdict, Hashable
@@ -47,6 +48,46 @@ class memoized(object):
       '''Support instance methods.'''
       return partial(self.__call__, obj)
 
+
+def deprecated_attribute(old, new, since=None, remove=None, doc=None):
+    """Attribute deprecation decorator for gentle upgrades
+
+    For example:
+
+        class MyClass (object):
+            @deprecated_attribute(
+                old='abc', new='xyz', since=(3, 2, 0), remove=(4, 1, 3))
+            def abc(): return None
+
+            def __init__(self):
+                xyz = 5
+
+    Note that the decorator needs a dummy method to attach to, but the
+    content of the dummy method is ignored.
+    """
+    def warn():
+        version = u'.'.join(unicode(x) for x in since)
+        message = [u'%s has been deprecated since %s' % (old, version)]
+        if remove:
+            version = u'.'.join(unicode(x) for x in remove)
+            message.append(u' and will be removed by version %s' % (version,))
+        message.append(u'.  Use %s instead.' % (new,))
+        logger.warning(u''.join(message))
+        logger.debug(u''.join(unicode(x) for x in traceback.format_stack()))
+
+    def fget(self):
+        warn()
+        return getattr(self, new)
+
+    def fset(self, value):
+        warn()
+        setattr(self, new, value)
+
+    def decorator(dummy):
+        return property(fget=fget, fset=fset, doc=doc)
+
+    return decorator
+
 def get_date(string):
     """Return a datetime object from a string.
 
@@ -66,9 +107,9 @@ def get_date(string):
     raise ValueError("'%s' is not a valid date" % string)
 
 
-def pelican_open(filename):
+def pelican_open(path):
     """Open a file and return it's content"""
-    return open(filename, encoding='utf-8').read()
+    return open(path, encoding='utf-8').read()
 
 
 def slugify(value):
@@ -160,13 +201,13 @@ def clean_output_dir(path):
             logger.error("Unable to delete %s, file type unknown" % file)
 
 
-def get_relative_path(filename):
-    """Return the relative path from the given filename to the root path."""
-    nslashes = filename.count('/')
+def get_relative_path(path):
+    """Return the relative path from the given path to the root path."""
+    nslashes = path.count('/')
     if nslashes == 0:
-        return '.'
+        return os.curdir
     else:
-        return '/'.join(['..'] * nslashes)
+        return '/'.join([os.pardir] * nslashes)
 
 
 def truncate_html_words(s, num, end_text='...'):
@@ -259,12 +300,12 @@ def process_translations(content_list):
         if len_ > 1:
             logger.warning(u'there are %s variants of "%s"' % (len_, slug))
             for x in default_lang_items:
-                logger.warning('    %s' % x.filename)
+                logger.warning('    %s' % x.source_path)
         elif len_ == 0:
             default_lang_items = items[:1]
 
         if not slug:
-            msg = 'empty slug for %r. ' % default_lang_items[0].filename\
+            msg = 'empty slug for %r. ' % default_lang_items[0].source_path\
                 + 'You can fix this by adding a title or a slug to your '\
                 + 'content'
             logger.warning(msg)
@@ -287,7 +328,7 @@ def files_changed(path, extensions):
     def file_times(path):
         """Return the last time files have been modified"""
         for root, dirs, files in os.walk(path):
-            dirs[:] = [x for x in dirs if x[0] != '.']
+            dirs[:] = [x for x in dirs if x[0] != os.curdir]
             for f in files:
                 if any(f.endswith(ext) for ext in extensions):
                     yield os.stat(os.path.join(root, f)).st_mtime
@@ -306,14 +347,14 @@ def files_changed(path, extensions):
 FILENAMES_MTIMES = defaultdict(int)
 
 
-def file_changed(filename):
-    mtime = os.stat(filename).st_mtime
-    if FILENAMES_MTIMES[filename] == 0:
-        FILENAMES_MTIMES[filename] = mtime
+def file_changed(path):
+    mtime = os.stat(path).st_mtime
+    if FILENAMES_MTIMES[path] == 0:
+        FILENAMES_MTIMES[path] = mtime
         return False
     else:
-        if mtime > FILENAMES_MTIMES[filename]:
-            FILENAMES_MTIMES[filename] = mtime
+        if mtime > FILENAMES_MTIMES[path]:
+            FILENAMES_MTIMES[path] = mtime
             return True
         return False
 

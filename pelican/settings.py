@@ -13,9 +13,9 @@ from os.path import isabs
 logger = logging.getLogger(__name__)
 
 
-DEFAULT_THEME = os.sep.join([os.path.dirname(os.path.abspath(__file__)),
-                              "themes/notmyidea"])
-_DEFAULT_CONFIG = {'PATH': '.',
+DEFAULT_THEME = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                             'themes/notmyidea')
+_DEFAULT_CONFIG = {'PATH': os.curdir,
                    'ARTICLE_DIR': '',
                    'ARTICLE_EXCLUDES': ('pages',),
                    'PAGE_DIR': 'pages',
@@ -24,6 +24,7 @@ _DEFAULT_CONFIG = {'PATH': '.',
                    'OUTPUT_PATH': 'output/',
                    'MARKUP': ('rst', 'md'),
                    'STATIC_PATHS': ['images', ],
+                   'TEMPLATE_PAGE_PATHS': (),
                    'THEME_STATIC_PATHS': ['static', ],
                    'FEED_ALL_ATOM': 'feeds/all.atom.xml',
                    'CATEGORY_FEED_ATOM': 'feeds/%s.atom.xml',
@@ -50,6 +51,10 @@ _DEFAULT_CONFIG = {'PATH': '.',
                    'PAGE_SAVE_AS': 'pages/{slug}.html',
                    'PAGE_LANG_URL': 'pages/{slug}-{lang}.html',
                    'PAGE_LANG_SAVE_AS': 'pages/{slug}-{lang}.html',
+                   'STATIC_URL': '{path}',
+                   'STATIC_SAVE_AS': '{path}',
+                   'TEMPLATE_PAGE_URL': '{path}',
+                   'TEMPLATE_PAGE_SAVE_AS': '{path}',
                    'CATEGORY_URL': 'category/{slug}.html',
                    'CATEGORY_SAVE_AS': 'category/{slug}.html',
                    'TAG_URL': 'tag/{slug}.html',
@@ -72,25 +77,25 @@ _DEFAULT_CONFIG = {'PATH': '.',
                    'DEFAULT_ORPHANS': 0,
                    'DEFAULT_METADATA': (),
                    'FILENAME_METADATA': '(?P<date>\d{4}-\d{2}-\d{2}).*',
-                   'FILES_TO_COPY': (),
+                   'PATH_METADATA': '',
+                   'EXTRA_PATH_METADATA': {},
                    'DEFAULT_STATUS': 'published',
                    'ARTICLE_PERMALINK_STRUCTURE': '',
                    'TYPOGRIFY': False,
                    'SUMMARY_MAX_LENGTH': 50,
                    'PLUGINS': [],
-                   'TEMPLATE_PAGES': {}
                    }
 
 
-def read_settings(filename=None, override=None):
-    if filename:
-        local_settings = get_settings_from_file(filename)
+def read_settings(path=None, override=None):
+    if path:
+        local_settings = get_settings_from_file(path)
         # Make the paths relative to the settings file
         for p in ['PATH', 'OUTPUT_PATH', 'THEME']:
             if p in local_settings and local_settings[p] is not None \
                     and not isabs(local_settings[p]):
                 absp = os.path.abspath(os.path.normpath(os.path.join(
-                            os.path.dirname(filename), local_settings[p])))
+                            os.path.dirname(path), local_settings[p])))
                 if p != 'THEME' or os.path.exists(absp):
                     local_settings[p] = absp
     else:
@@ -114,14 +119,13 @@ def get_settings_from_module(module=None, default_settings=_DEFAULT_CONFIG):
     return context
 
 
-def get_settings_from_file(filename, default_settings=_DEFAULT_CONFIG):
+def get_settings_from_file(path, default_settings=_DEFAULT_CONFIG):
     """
     Load settings from a file path, returning a dict.
 
     """
-
-    name = os.path.basename(filename).rpartition(".")[0]
-    module = imp.load_source(name, filename)
+    name, ext = os.path.splitext(path)
+    module = imp.load_source(name, path)
     return get_settings_from_module(module, default_settings=default_settings)
 
 
@@ -135,8 +139,9 @@ def configure_settings(settings):
 
     # find the theme in pelican.theme if the given one does not exists
     if not os.path.isdir(settings['THEME']):
-        theme_path = os.sep.join([os.path.dirname(
-            os.path.abspath(__file__)), "themes/%s" % settings['THEME']])
+        theme_path = os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            'themes/%s' % settings['THEME'])
         if os.path.exists(theme_path):
             settings['THEME'] = theme_path
         else:
@@ -206,8 +211,8 @@ def configure_settings(settings):
                        " falling back to the default extension " +
                        _DEFAULT_CONFIG['OUTPUT_SOURCES_EXTENSION'])
 
-    filename_metadata = settings.get('FILENAME_METADATA')
-    if filename_metadata and not isinstance(filename_metadata, basestring):
+    file_metadata = settings.get('FILENAME_METADATA')
+    if file_metadata and not isinstance(file_metadata, basestring):
         logger.error("Detected misconfiguration with FILENAME_METADATA"
                 " setting (must be string or compiled pattern), falling"
                 "back to the default")
