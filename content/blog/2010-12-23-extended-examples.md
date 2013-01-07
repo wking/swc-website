@@ -5,7 +5,7 @@ Tags: content
 
 <p>We'd like to add more extended examples to this course, both because they're fun and because they're a good way to show how our topics relate to one another. Right now, we have:</p>
 <ul>
-<li>an entire lecture on <a href="/4_0/invperc/">invasion percolation</a> (which we'll shorten),</li>
+<li>an entire lecture on <a href="/4_0/invperc/index.html">invasion percolation</a> (which we'll shorten),</li>
 <li><a href="/4_0/setdict/phylogen.html">phylogenetic tree reconstruction</a>, and</li>
 <li>how to <a href="/4_0/matrix/recommend.html">recommend papers to people</a>.</li>
 </ul>

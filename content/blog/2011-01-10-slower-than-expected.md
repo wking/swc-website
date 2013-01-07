@@ -15,4 +15,4 @@ Tags: content, versions/version-4
 <p><del><em>Using Lists</em></del></p>
 <p><em><del>Using NumPy</del><br />
 </em></p>
-<p>[Later version of lecture on <a href="/4_0/invperc/">invasion percolation</a>]</p>
+<p>[Later version of lecture on <a href="/4_0/invperc/index.html">invasion percolation</a>]</p>

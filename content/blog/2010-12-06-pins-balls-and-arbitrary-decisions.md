@@ -4,7 +4,7 @@ Author: Greg Wilson
 Title: Pins, Balls, and Arbitrary Decisions
 Tags: content
 
-<p>We'd like to include more extended examples like <a href="/4_0/invperc/">invasion percolation</a> in this course, but they're surprisingly hard to write.  One that seems simple at first is a <a href="http://en.wikipedia.org/wiki/Bean_machine">Galton box</a> simulator.  As the diagram below shows, this is simply a a vertical board with interleaved rows of pins.  Small balls are dropped in at the top, and bounce left and right as they hit pins until they land in the boxes at the bottom.  Since each bounce randomly goes left or right, the distribution of balls is binomial, which, in the limit, approximates a normal distribution.</p>
+<p>We'd like to include more extended examples like <a href="/4_0/invperc/index.html">invasion percolation</a> in this course, but they're surprisingly hard to write.  One that seems simple at first is a <a href="http://en.wikipedia.org/wiki/Bean_machine">Galton box</a> simulator.  As the diagram below shows, this is simply a a vertical board with interleaved rows of pins.  Small balls are dropped in at the top, and bounce left and right as they hit pins until they land in the boxes at the bottom.  Since each bounce randomly goes left or right, the distribution of balls is binomial, which, in the limit, approximates a normal distribution.</p>
 <p><img src="|filename|/files/2010/12/galton-box.png" /></p>
 <p>At first glance, this should be pretty simple to code up.  Our objects are:</p>
 <ul>
