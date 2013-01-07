@@ -55,6 +55,7 @@ TEMPLATE_PAGE_PATHS = [
     'bootcamps/conduct.html',
     'blog/index.html',
     'blog/by-date.html',
+    'content',
     'license.html',
     ]
 
