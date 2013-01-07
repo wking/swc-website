@@ -61,6 +61,7 @@ TEMPLATE_PAGE_PATHS = [
     'blog/by-date.html',
     'content',
     'license.html',
+    'setup',
     ]
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
