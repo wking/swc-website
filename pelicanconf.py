@@ -55,6 +55,7 @@ TEMPLATE_PAGE_PATHS = [
     'bootcamps/conduct.html',
     'blog/index.html',
     'blog/by-date.html',
+    'license.html',
     ]
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
