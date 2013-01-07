@@ -1,11 +1,13 @@
-{% extends "_base.html" %}
+{% extends "base.html" %}
+{#
 {% block file_metadata %}
   <meta name="title" content="Organizer Badge" />
 {% endblock file_metadata %}
 {% block navhighlight %}{{navhighlight('badges')}}{% endblock navhighlight %}
+#}
 {% block content %}
 <div class="media">
-  <img class="media-object pull-left" src="{{root_path}}/img/badges/organizer.png" alt="Software Carpentry 'Organizer' Badge" />
+  <img class="media-object pull-left" src="|filename|/img/badges/organizer.png" alt="Software Carpentry 'Organizer' Badge" />
   <div class="media-body">Awarded for organizing Software Carpentry boot camps.<br/>Please click on the download icon to fetch the individual badge.</div>
 </div>
 <table>
@@ -15,7 +17,7 @@
   </tr>
   <tr>
     <td><a href="organizer/cholia.s.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#cholia.s">Shreyas Cholia</a></td>
+    <td><a href="|filename|/about/team.html#cholia.s">Shreyas Cholia</a></td>
   </tr>
   <tr>
     <td><a href="organizer/cozzini.s.png"><i class="icon-download"></i></a></td>
@@ -23,7 +25,7 @@
   </tr>
   <tr>
     <td><a href="organizer/dickson.r.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#dickson.r">Ross Dickson</a></td>
+    <td><a href="|filename|/about/team.html#dickson.r">Ross Dickson</a></td>
   </tr>
   <tr>
     <td><a href="organizer/fowler.p.png"><i class="icon-download"></i></a></td>
@@ -47,7 +49,7 @@
   </tr>
   <tr>
     <td><a href="organizer/mitchell.i.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#mitchell.i">Ian M. Mitchell</a></td>
+    <td><a href="|filename|/about/team.html#mitchell.i">Ian M. Mitchell</a></td>
   </tr>
   <tr>
     <td><a href="organizer/nederbragt.l.png"><i class="icon-download"></i></a></td>
@@ -59,11 +61,11 @@
   </tr>
   <tr>
     <td><a href="organizer/pipitone.j.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#pipitone.j">Jon Pipitone</a></td>
+    <td><a href="|filename|/about/team.html#pipitone.j">Jon Pipitone</a></td>
   </tr>
   <tr>
     <td><a href="organizer/plumbley.m.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#plumbley.m">Mark Plumbley</a></td>
+    <td><a href="|filename|/about/team.html#plumbley.m">Mark Plumbley</a></td>
   </tr>
   <tr>
     <td><a href="organizer/schutt.r.png"><i class="icon-download"></i></a></td>
@@ -71,7 +73,7 @@
   </tr>
   <tr>
     <td><a href="organizer/shelton.j.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#shelton.j">Jeff Shelton</a></td>
+    <td><a href="|filename|/about/team.html#shelton.j">Jeff Shelton</a></td>
   </tr>
   <tr>
     <td><a href="organizer/su.a.png"><i class="icon-download"></i></a></td>
@@ -79,15 +81,15 @@
   </tr>
   <tr>
     <td><a href="organizer/waugh.b.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#waugh.b">Ben Waugh</a></td>
+    <td><a href="|filename|/about/team.html#waugh.b">Ben Waugh</a></td>
   </tr>
   <tr>
     <td><a href="organizer/white.e.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#white.e">Ethan White</a></td>
+    <td><a href="|filename|/about/team.html#white.e">Ethan White</a></td>
   </tr>
   <tr>
     <td><a href="organizer/wilson.g.png"><i class="icon-download"></i></a></td>
-    <td><a href="{{root_path}}/about/team.html#wilson.g">Greg Wilson</a></td>
+    <td><a href="|filename|/about/team.html#wilson.g">Greg Wilson</a></td>
   </tr>
 </table>
 {% endblock content %}
