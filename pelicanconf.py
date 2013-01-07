@@ -52,6 +52,8 @@ STATIC_PATHS = [
 
 TEMPLATE_PAGE_PATHS = [
     'about',
+    'bootcamps/conduct.html',
+    'blog/index.html',
     ]
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
