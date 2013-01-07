@@ -47,7 +47,10 @@ DIRECT_TEMPLATES = [
 STATIC_PATHS = [
     '3_0',
     '4_0',
+    'css',
     'files',
+    'img',
+    'js',
     ]
 
 TEMPLATE_PAGE_PATHS = [
