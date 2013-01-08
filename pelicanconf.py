@@ -76,5 +76,5 @@ TEMPLATE_PAGE_PATHS = [
 
 ARTICLE_URL = '{category}/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{date:%Y}/{date:%m}/{slug}/index.html'
-PAGE_URL = '{directory}/{slug}'
+PAGE_URL = '{directory}/{slug}/'
 PAGE_SAVE_AS = '{directory}/{slug}/index.html'
