@@ -16,6 +16,8 @@ PLUGINS = [_bootcamp_meta]
 AUTHOR = u"the Software Carpentry contributors"
 SITENAME = u"Software Carpentry"
 SITEURL = 'http://software-carpentry.org'
+CONTACT_EMAIL = 'info@software-carpentry.org'
+TWITTER_USERNAME = '@swcarpentry'
 
 TIMEZONE = 'America/Toronto'
 
@@ -38,7 +40,6 @@ DISPLAY_PAGES_ON_MENU = False
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 
 DIRECT_TEMPLATES = [
-    'index',
     'archives',
     'authors',
     'categories',
@@ -58,6 +59,7 @@ STATIC_PATHS = [
     ]
 
 TEMPLATE_PAGE_PATHS = [
+    'index.html',
     'about',
     'badges/index.html',
     'badges/creator.html',
