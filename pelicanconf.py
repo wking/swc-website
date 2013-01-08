@@ -52,10 +52,8 @@ STATIC_PATHS = [
     'badges/creator',
     'badges/instructor',
     'badges/organizer',
-    'css',
     'files',
     'img',
-    'js',
     ]
 
 TEMPLATE_PAGE_PATHS = [
