@@ -13,7 +13,7 @@
   <a href="http://software-carpentry.org/feed.xml">
     <img class="pull-right" src="../img/rss-icon-blue.png"/></a></h2>
 
-{% for post in article_contents[-10:]|reverse %}
+{% for post in article_contents[:10] %}
   <h3><a href="{{post.url}}">{{post.title}}</a></h3>
   <div class="row-fluid">
     <p class="span11 offset1">
