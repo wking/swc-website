@@ -13,7 +13,9 @@
   <a href="http://software-carpentry.org/feed.xml">
     <img class="pull-right" src="../img/rss-icon-blue.png"/></a></h2>
 
-{% for post in article_contents[:10] %}
+{% for category,posts in article_contents|groupby('category') %}
+{% if category == 'blog' %}
+{% for post in posts[10:] %}
   <h3><a href="{{ SITEURL }}/{{post.url}}">{{post.title}}</a></h3>
   <div class="row-fluid">
     <p class="span11 offset1">
@@ -22,6 +24,8 @@
       &mdash; {{post.date}}{% if post.author %} by {{post.author}}{% endif %}.
     </p>
   </div>
+{% endfor %}
+{% endif %}
 {% endfor %}
 
 <h2>Archives</h2>
