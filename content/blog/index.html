@@ -1,13 +1,9 @@
-<!-- pageclass: BlogIndexPage -->
 {% extends "base.html" %}
-{#
-{% block file_metadata %}
-  <meta name="title" content="Blog" />
-  <meta name="subglob" content="*/*/*.html" />
-{% endblock file_metadata %}
+
+{% block title %}Blog{% endblock title %}
 
 {% block navhighlight %}{{navhighlight('blog')}}{% endblock navhighlight %}
-#}
+
 {% block content %}
 <h2>Recent Posts
   <a href="http://software-carpentry.org/feed.xml">
@@ -34,6 +30,6 @@
 	<li><a href="|filename|by-date.html">All posts by date</a></li>
 </ul>
 {% endblock content %}
-{#
+
 {% block comments %}{% endblock comments %}
-#}
+
