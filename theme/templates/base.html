@@ -12,19 +12,19 @@
   </div>
 {%- endmacro %}
 
-{% macro nav_left() -%}
-  {% if page.prev %}
-    <li class="previous"><a id="id_prev_link" href="{{page.prev}}">&larr; Previous</a></li>
+{% macro nav_left(content) -%}
+  {% if content.prev %}
+    <li class="previous"><a id="id_prev_link" href="{{content.prev}}">&larr; Previous</a></li>
   {% else %}
-    <li class="previous"><a id="id_up_link" href="{{page.uplink}}">&uarr; Up</a></li>
+    <li class="previous"><a id="id_up_link" href="{{content.uplink}}">&uarr; Up</a></li>
   {% endif %}
 {%- endmacro %}
 
-{% macro nav_right() -%}
-  {% if page.next %}
-    <li class="next"><a id="id_next_link" href="{{page.next}}">Next &rarr;</a></li>
+{% macro nav_right(content) -%}
+  {% if content.next %}
+    <li class="next"><a id="id_next_link" href="{{content.next}}">Next &rarr;</a></li>
   {% else %}
-    <li class="next"><a id="id_up_link" href="{{page.uplink}}">&uarr; Up</a></li>
+    <li class="next"><a id="id_up_link" href="{{content.uplink}}">&uarr; Up</a></li>
   {% endif %}
 {%- endmacro %}
 
@@ -52,13 +52,13 @@
 {%- endmacro %}
 
   <head>
-    <link rel="shortcut icon" type="image/x-icon" href="{{root_path}}/img/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/img/favicon.ico" />
     {% block css %}
-    <link href="{{root_path}}/css/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="{{ SITEURL }}/css/bootstrap/bootstrap.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="{{root_path}}/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" />
-    <link rel="stylesheet" type="text/css" href="{{root_path}}/css/swc.css" />
-    <link rel="stylesheet" type="text/css" href="{{root_path}}/css/swc-bootstrap.css" />
+    <link href="{{ SITEURL }}/css/bootstrap/bootstrap-responsive.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/css/swc.css" />
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/css/swc-bootstrap.css" />
     <link rel="alternate" type="application/rss+xml" title="The Software Carpentry Blog RSS Feed" href="{{site}}/feed.xml"/>
     <meta http-equiv="last-modified" content="{{timestamp}}" />
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -68,7 +68,7 @@
     {% endblock css %}
     {% block metadata %}{% endblock metadata %}
     {% block file_metadata %}{% endblock file_metadata %}
-    {% block pagetitle %}<title>Software Carpentry: {{page.title}}</title>{% endblock pagetitle %}
+    {% block pagetitle %}<title>Software Carpentry: {% block title %}{% endblock title %}</title>{% endblock pagetitle %}
     {% block javascript %}{% endblock javascript %}
   </head>
 
@@ -76,8 +76,8 @@
     <div class="container shadow">
 
       <div class="banner">
-        <a href="{{root_path}}/index.html" title="Software Carpentry Home">
-          <img src="{{root_path}}/img/software-carpentry-banner.png" alt="Software Carpentry banner" />
+        <a href="{{ SITEURL }}/index.html" title="Software Carpentry Home">
+          <img src="{{ SITEURL }}/img/software-carpentry-banner.png" alt="Software Carpentry banner" />
         </a>
       </div>
 
@@ -91,12 +91,12 @@
         </a>
         <div class="nav-collapse collapse">
           <ul class="nav">
-            <li id="nav-home"><a href="{{root_path}}/index.html">Home</a></li>
-            <li id="nav-lessons"><a href="{{root_path}}/4_0/index.html">Lessons</a></li>
-            <li id="nav-bootcamps"><a href="{{root_path}}/bootcamps/index.html">Boot Camps</a></li>
-            <li id="nav-blog"><a href="{{root_path}}/blog/index.html">Blog</a></li>
-            <li id="nav-badges"><a href="{{root_path}}/badges/index.html">Badges</a></li>
-            <li id="nav-license"><a href="{{root_path}}/license.html">License</a></li>
+            <li id="nav-home"><a href="{{ SITEURL }}/index.html">Home</a></li>
+            <li id="nav-lessons"><a href="{{ SITEURL }}/4_0/index.html">Lessons</a></li>
+            <li id="nav-bootcamps"><a href="{{ SITEURL }}/bootcamps/index.html">Boot Camps</a></li>
+            <li id="nav-blog"><a href="{{ SITEURL }}/blog/index.html">Blog</a></li>
+            <li id="nav-badges"><a href="{{ SITEURL }}/badges/index.html">Badges</a></li>
+            <li id="nav-license"><a href="{{ SITEURL }}/license.html">License</a></li>
           </ul>
           <form class="navbar-search pull-right" method="get" action="http://www.google.com/search">
             <input type="hidden" name="sitesearch" value="{{site}}" />
@@ -109,11 +109,11 @@
 
   {% block navhighlight %}{% endblock navhighlight %}
 
-  {% block title %}
+  {% block title_section %}
   <div class="title">
-    <h1>{{page.title}}</h1>
+    <h1>{{ self.title() }}</h1>
   </div>
-  {% endblock title %}
+  {% endblock title_section %}
 
       {% block files %}{% endblock files %}
 
@@ -121,13 +121,15 @@
         <div class="span10 offset1">
         {% block content %}{% endblock content %}
         {% block details %}{% endblock details %}
-        {% block comments %}{{disqus(page.title, page.filename)}}{% endblock comments %}
+				{% if content is defined %}
+        {% block comments %}{{disqus(content.title, content.source_path)}}{% endblock comments %}
+        {% endif %}
         </div>
       </div>
 
       <div class="footer">
-        <a href="{{root_path}}/license.html">
-          <img src="{{root_path}}/img/creative-commons-attribution-license.png" alt="Creative Commons Attribution License" />
+        <a href="{{ SITEURL }}/license.html">
+          <img src="{{ SITEURL }}/img/creative-commons-attribution-license.png" alt="Creative Commons Attribution License" />
         </a>
         <span class="pull-right">
           <a class="label swc-blue-bg"
@@ -149,7 +151,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="{{root_path}}/js/bootstrap/bootstrap.min.js"></script>
+    <script src="{{ SITEURL }}/js/bootstrap/bootstrap.min.js"></script>
 
     <!-- Google Analytics -->
     <script type="text/javascript">

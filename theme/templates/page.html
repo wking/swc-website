@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}<title>Software Carpentry: {{content.title}}</title>{% endblock pagetitle %}
+
+{% block title -%}
+{{content.title}}
+{%- endblock title %}
+
+{% block title_section %}
+<div class="title">
+  <ul class="pager">
+    {{nav_left(content)}}
+    {{nav_right(content)}}
+  </ul>
+  <h1>{{content.title}}</h1>
+</div>
+{% endblock title_section %}
+
+{% block navhighlight %}{{navhighlight('book')}}{% endblock navhighlight %}
+
+{% block content %}
+{{content.content}}
+{% endblock content %}
