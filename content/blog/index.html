@@ -11,7 +11,7 @@
 
 {% for category,posts in article_contents|groupby('category') %}
 {% if category == 'blog' %}
-{% for post in posts[10:] %}
+{% for post in posts[:10] %}
   <h3><a href="{{ SITEURL }}/{{post.url}}">{{post.title}}</a></h3>
   <div class="row-fluid">
     <p class="span11 offset1">
