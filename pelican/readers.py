@@ -31,7 +31,7 @@ from pelican.utils import get_date, pelican_open
 logger = logging.getLogger(__name__)
 
 
-_METADATA_PROCESSORS = {
+METADATA_PROCESSORS = {
     'tags': lambda x, y: [Tag(tag, y) for tag in unicode(x).split(',')],
     'date': lambda x, y: get_date(x),
     'status': lambda x, y: unicode.strip(x),
@@ -49,8 +49,8 @@ class Reader(object):
         self.settings = settings
 
     def process_metadata(self, name, value):
-        if name in _METADATA_PROCESSORS:
-            return _METADATA_PROCESSORS[name](value, self.settings)
+        if name in METADATA_PROCESSORS:
+            return METADATA_PROCESSORS[name](value, self.settings)
         return value
 
     def read(self, source_path):
