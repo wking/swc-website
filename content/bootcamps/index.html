@@ -1,9 +1,6 @@
 {% extends "base.html" %}
-{#
-{% block file_metadata %}
-  <meta name="title" content="Boot Camps" />
-  <meta name="subglob" content="*-*-*.html" />
-{% endblock file_metadata %}
+
+{% block title %}Boot Camps{% endblock title %}
 
 {% block javascript %}
   {{ super() }}
@@ -46,13 +43,15 @@
     var map = new google.maps.Map(document.getElementById('map_canvas'),
         mapOptions);
 
-{% for bootcamp in page.children %}
+{% for category,bootcamps in article_contents|groupby('category') %}
+{% if category == 'bootcamps' %}
+{% for bootcamp in bootcamps %}
   {% if bootcamp.latlng %}
     var marker = new google.maps.Marker({
         position: new google.maps.LatLng({{bootcamp.latlng}}),
         map: map,
         title: "{{bootcamp.venue}}, {{bootcamp.date}}",
-    {% if bootcamp.startdate >= today %}
+    {% if bootcamp.date >= now %}
         icon: newPin,
     {% else %}
         icon: oldPin,
@@ -70,7 +69,8 @@
     set_info_window(map, marker, info_window, info_string);
   {% endif %}
 {% endfor %}
-
+{% endif %}
+{% endfor %}
   }
   </script>
 {% endblock javascript %}
@@ -78,7 +78,7 @@
 {% block onload %} onload="initialize_map()" {% endblock onload %}
 
 {% block navhighlight %}{{navhighlight('bootcamps')}}{% endblock navhighlight %}
-#}
+
 {% block content %}
 
 <p>A boot camp is an in-person, example-driven workshop, typically two
@@ -104,9 +104,10 @@ attendees to have an enjoyable and fulfilling experience.</p>
 <h2 id="future">Future Workshops</h2>
 <div class="bootcamps">
 <table class="table table-striped bootcamps">
-{#
-{% for bootcamp in page.children %}
-  {% if bootcamp.startdate >= today %}
+{% for category,bootcamps in article_contents|groupby('category') %}
+{% if category == 'bootcamps' %}
+{% for bootcamp in bootcamps %}
+  {% if bootcamp.date >= now %}
     <tr>
       <td class="link">
         <a href="{{bootcamp.slug}}.html">{{bootcamp.venue}}</a>
@@ -118,7 +119,8 @@ attendees to have an enjoyable and fulfilling experience.</p>
     </tr>
   {% endif %}
 {% endfor %}
-#}
+{% endif %}
+{% endfor %}
 </table>
 
 <div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 25px;"></div>
@@ -139,9 +141,10 @@ attendees to have an enjoyable and fulfilling experience.</p>
 <h2 id="past">Past Workshops</h2>
 <div class="bootcamps">
 <table class="table table-striped bootcamps">
-{#
-{% for bootcamp in page.children|reverse %}
-  {% if bootcamp.startdate < today %}
+{% for category,bootcamps in article_contents|groupby('category') %}
+{% if category == 'bootcamps' %}
+{% for bootcamp in bootcamps|reverse %}
+  {% if bootcamp.date < now %}
     <tr>
       <td class="link">
         <a href="{{bootcamp.slug}}.html">{{bootcamp.venue}}</a>
@@ -153,11 +156,12 @@ attendees to have an enjoyable and fulfilling experience.</p>
     </tr>
   {% endif %}
 {% endfor %}
-#}
+{% endif %}
+{% endfor %}
 </table>
 </div>
 
 {% endblock content %}
-{#
+
 {% block comments %}{% endblock comments %}
-#}
+
