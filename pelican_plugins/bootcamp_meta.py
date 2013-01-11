@@ -1,5 +1,9 @@
 from pelican import signals as _signals
+from pelican import readers as _readers
 
+
+# monkey-patch EndDate processing
+_readers.METADATA_PROCESSORS['enddate'] = _readers.METADATA_PROCESSORS['date']
 
 def massage_metadata(generator, metadata):
     if metadata.get('category', None) == 'bootcamps':
