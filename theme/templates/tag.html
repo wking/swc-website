@@ -1,0 +1,17 @@
+{% extends "index.html" %}
+
+{% block title %}Tag{% endblock title %}
+
+{% block navhighlight %}{{navhighlight('blog')}}{% endblock navhighlight %}
+
+{% block content %}
+<h2>Articles about {{ tag }}</h2>
+<ul>
+{% for post in contents if post.category == 'blog' %}
+  <li>
+    {{post.date}}:
+    <a href="{{SITEURL}}/{{post.url}}">{{post.title}}</a></td>
+  </li>
+{% endfor %}
+</ul>
+{% endblock content %}
