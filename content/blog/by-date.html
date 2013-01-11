@@ -1,51 +1,62 @@
 {% extends "base.html" %}
 
+{% block title %}Blog posts by date {% endblock title %}
+
+{% block navhighlight %}{{navhighlight('blog')}}{% endblock navhighlight %}
+
 {% block content %}
 <h2>All Posts By Date</h2>
 
-{#
 <table class="table table-striped blogcalendar">
-
   <tr>
     <th class="top"></th>
-    {% for month in page.months %}
-      <th class="top">{{page.month_name(month)}}</th>
-    {% endfor %}
+{% for category,all_posts in article_contents|groupby('category') %}
+{%   if category == 'blog' %}
+{%     for month,month_posts in all_posts|groupby('date.month') %}
+      <th class="top">{{month_posts[0].date.strftime('%b')}}</th>
+{%     endfor %}
+{%   endif %}
+{% endfor %}
+ </tr>
+{% for category,all_posts in article_contents|groupby('category') %}
+{%   if category == 'blog' %}
+{%     for year,year_posts in all_posts|groupby('date.year') %}
+  <tr>
+    <th class="left"><a href="#{{year}}">{{year}}</a></th>
+{%       for month_column,month_column_posts in all_posts|groupby('date.month') %}
+{%         for month,month_posts in year_posts|groupby('date.month') if month == month_column %}
+    <td>
+      <a href="#{{year}}-{{ '%02d'|format(month) }}">{{month_posts|length}}</a>
+    </td>
+{%         else %}
+    <td>0</td>
+{%         endfor %}
+{%       endfor %}
   </tr>
-
-  {% for year in page.years %}
-    <tr>
-      <th class="left"><a href="#{{year}}">{{year}}</a></th>
-      {% for month in page.months %}
-        <td>
-          {% if page.posts(year, month) %}<a href="#{{year}}-{{month}}">{% endif %}
-            {{page.posts(year, month)|length}}
-          {% if page.posts(year, month) %}</a>{% endif %}
-        </td>
-      {% endfor %}
-    </tr>
-  {% endfor %}
-
+{%     endfor %}
+{%   endif %}
+{% endfor %}
 </table>
 
-{% for year in page.years|reverse %}
-
-  <h3 id="{{year}}">{{year}}</h3>
-
-  {% for month in page.months|reverse %}
-    {% if page.posts(year, month) %}
-      <h4 id="{{year}}-{{month}}">{{page.month_name(month)}}</h4>
-      <table class="table table-striped table-condensed blogindex">
-        {% for post in page.posts(year, month)|reverse %}
-          <tr>
-            <td class="date">{{post.post_date}}:</td>
-            <td><a href="{{site}}/blog/{{post.index_link()}}">{{post.title}}</a></td>
-          </tr>
-        {% endfor %}
-      </table>
-    {% endif %}
-  {% endfor %}
-
+{% for category,all_posts in article_contents|groupby('category') %}
+{%   if category == 'blog' %}
+{%     for year,year_posts in all_posts|groupby('date.year')|reverse %}
+<h3 id="{{year}}">{{year}}</h3>
+{%       for month,month_posts in year_posts|groupby('date.month')|reverse %}
+<h4 id="{{year}}-{{ '%02d'|format(month) }}">{{ month_posts[0].date.strftime('%B') }}</h4>
+  <table class="table table-striped table-condensed blogindex">
+{%         for post in month_posts %}
+  <tr>
+    <td class="date">{{post.date}}:</td>
+    <td><a href="{{SITEURL}}/{{post.url}}">{{post.title}}</a></td>
+  </tr>
+{%         endfor %}
+</table>
+{%       endfor %}
+{%     endfor %}
+{%   endif %}
 {% endfor %}
-#}
+
 {% endblock content %}
+
+{% block comments %}{% endblock comments %}
