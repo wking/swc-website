@@ -539,8 +539,11 @@ class ContentGenerator(Generator):
             paginated = {}
             if template in paginated_templates:
                 paginated = {'contents': self.contents, 'dates': self.dates}
+            t = template
+            for char in ['.', '-', ' ']:  # remove invalid characters
+                t = t.replace(char, '_')
             save_as = self.get_setting(
-                '%s_SAVE_AS' % template.upper(), '%s.html' % template,
+                '%s_SAVE_AS' % t.upper(), '%s.html' % template,
                 fallback=True)
             if not save_as:
                 continue
