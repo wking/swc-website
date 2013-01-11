@@ -1,0 +1,30 @@
+{# TODO: CR LF line endings -#}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Software Carpentry/Boot Camps//NONSGML v1.0//EN
+{% for bootcamp in article_contents if bootcamp.category == 'bootcamps' -%}
+BEGIN:VEVENT
+UID:{{ bootcamp.date.strftime('%Y-%m')}}-{{ bootcamp.slug }}@{{ CONTACT_EMAIL.split('@')[-1] }}
+DTSTAMP:{{ now.strftime('%Y%m%dT%H%M%SZ') }}
+DTSTART;VALUE=DATE:{{ bootcamp.date.strftime('%Y%m%d') }}
+{%   if bootcamp.enddate -%}
+DTEND;VALUE=DATE:{{ (bootcamp.enddate + timedelta(1)).strftime('%Y%m%d') }}
+{%   else -%}
+DTEND;VALUE=DATE:{{ (bootcamp.date + timedelta(1)).strftime('%Y%m%d') }}
+{%   endif -%}
+SUMMARY:{{ bootcamp.venue|replace('\\', '\\\\')
+                         |replace(';', '\\;')
+                         |replace(',', '\\,')
+                         |replace('\n', '\\n') }}
+DESCRIPTION;ALTREP="{{ ABSOLUTE_SITEURL }}/{{ bootcamp.url }}":{{ ABSOLUTE_SITEURL }}/{{ bootcamp.url }}
+URL:{{ ABSOLUTE_SITEURL }}/{{ bootcamp.url }}
+LOCATION:{{ bootcamp.venue|replace('\\', '\\\\')
+                          |replace(';', '\\;')
+                          |replace(',', '\\,')
+                          |replace('\n', '\\n') }}
+{%   if bootcamp.latlng -%}
+GEO:{{ bootcamp.latlng|replace(',', ':') }}
+{%   endif -%}
+END:VEVENT
+{% endfor -%}
+END:VCALENDAR

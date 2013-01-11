@@ -42,6 +42,7 @@ FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 DIRECT_TEMPLATES = [
     'authors',
     'tags',
+    'bootcamps.ics',
     ]
 
 STATIC_PATHS = [
