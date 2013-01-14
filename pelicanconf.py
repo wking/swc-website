@@ -39,6 +39,11 @@ DEFAULT_PAGINATION = False
 DISPLAY_PAGES_ON_MENU = False
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 
+MARKUP = [
+    'jinja',
+    'md',
+    ]
+
 DIRECT_TEMPLATES = [
     'authors',
     'tags',
