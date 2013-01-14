@@ -1,0 +1,16 @@
+---
+{
+  "enddate": "2012-11-11", 
+  "latlng": "38.6480562,-90.3050959", 
+  "venue": "Washington University in St. Louis", 
+  "eventbrite_key": "4262808174"
+}
+---
+<p><strong>Where:</strong> Life Sciences Building, Washington University in St. Louis.</p>
+<p><strong>When:</strong> November 10-11, 2012. We will start at 9:00 and end at 4:30 each day.</p>
+{% include "_what.html" %}
+{% include "_who.html" %}
+{% include "_requirements.html" %}
+{% include "_content.html" %}
+{% include "_contact.html" %}
+{{eventbrite(page.eventbrite_key, page.venue, page.date)}}

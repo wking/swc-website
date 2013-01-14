@@ -1,0 +1,16 @@
+---
+{
+  "enddate": "2013-01-25", 
+  "latlng": "43.6471184,-79.3942998", 
+  "venue": "Centre for Addiction and Mental Health", 
+  "eventbrite_key": "5086301264"
+}
+---
+<p><strong>Where:</strong> Mozilla Offices, 366 Adelaide St W, Toronto.  Suite 500</p>
+<p><strong>When:</strong> January 24-25, 2013. We will start at 9:00 and end at 4:30 each day.</p>
+{% include "_what.html" %}
+{% include "_who.html" %}
+{% include "_requirements.html" %}
+{% include "_content.html" %}
+{% include "_contact.html" %}
+{{eventbrite(page.eventbrite_key, page.venue, page.date)}}

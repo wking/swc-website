@@ -1,0 +1,16 @@
+---
+{
+  "enddate": "2013-02-26", 
+  "latlng": "47.655965,-122.309377", 
+  "venue": "University of Washington", 
+  "eventbrite_key": "4309568034"
+}
+---
+<p><strong>Where:</strong> University of Washington.</p>
+<p><strong>When:</strong> February 25-26, 2013. We will start at 9:00 and end at 4:30 each day.</p>
+{% include "_what.html" %}
+{% include "_who.html" %}
+{% include "_requirements.html" %}
+{% include "_content.html" %}
+{% include "_contact.html" %}
+{{eventbrite(page.eventbrite_key, page.venue, page.date)}}
