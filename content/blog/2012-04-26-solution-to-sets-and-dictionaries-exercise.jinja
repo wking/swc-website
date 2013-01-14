@@ -7,6 +7,8 @@
   "post_id": "4762"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p>Last week, I posted an exercise on <a href="|filename|2012-04-20-an-exercise-with-sets-and-dictionaries.md">working with sets and dictionaries</a> that also included a fair bit of file I/O and string manipulation. My solution is below, in four parts, along with the code produced in each. If someone would like to re-do the file parsing using regular expressions, I'd be happy to post that as well.</p>
 
 <pre>import sys
@@ -64,7 +66,7 @@ def read_molecules(reader):
 print read_molecules(sys.stdin)</pre>
 <p><strong>Part 2</strong></p>
 
-{{youtube("Software Carpentry Sets", "44QqEyCylxc", "")}}
+{{macros.youtube("Software Carpentry Sets", "44QqEyCylxc", "")}}
 
 <pre>def merge(left, right):
     result = {}
@@ -86,7 +88,7 @@ print read_molecules(sys.stdin)</pre>
     return result</pre>
 <p><strong>Part 3</strong></p>
 
-{{youtube("Software Carpentry Sets", "QPs7Jm2hgk4", "")}}
+{{macros.youtube("Software Carpentry Sets", "QPs7Jm2hgk4", "")}}
 
 <pre>import sys
 from nano import read_molecules
@@ -111,7 +113,7 @@ if __name__ == '__main__':
     print can_produce(data, atom)</pre>
 <p><strong>Part 4</strong></p>
 
-{{youtube("Software Carpentry Sets", "EkYNjWljErc", "")}}
+{{macros.youtube("Software Carpentry Sets", "EkYNjWljErc", "")}}
 
 <pre>import sys
 from nano import read_molecules

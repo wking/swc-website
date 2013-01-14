@@ -7,9 +7,11 @@
   "post_id": "4739"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p>This week's tutorial problem was to merge the data from a set of input files to show how often different species were observed on different dates. The shell pipeline, Python code, and two sample input files follow the video.</p>
 
-{{youtube("Data Merging with Dictionaries", "S-dqlYWs4S0", "00:09:18")}}
+{{macros.youtube("Data Merging with Dictionaries", "S-dqlYWs4S0", "00:09:18")}}
 
 <p><strong>shell command</strong></p>
 <pre>grep -h -v '#' *.txt | sort | uniq -c</pre>

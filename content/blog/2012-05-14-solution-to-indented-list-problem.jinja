@@ -7,6 +7,8 @@
   "post_id": "4805"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p>Last week's homework was to convert a two-level bullet-point list like this:</p>
 <pre>* A
 * B
@@ -46,7 +48,7 @@
 </ul>
 <p>My solution is shown in the video below; the code follows.</p>
 
-{{youtube("Converting an Indented List to HTML", "upJJjF91TbE", "00:16:13")}}
+{{macros.youtube("Converting an Indented List to HTML", "upJJjF91TbE", "00:16:13")}}
 
 <pre>import sys
 
