@@ -5,6 +5,8 @@
   "venue": "University of British Columbia"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p><strong>New!</strong> <a href="#install">Setup instructions</a> have been added to this page. Please make sure you go through them the day before the workshop starts, and <a href="mailto:{{contact_email}}">mail us</a> if you have problems.</p>
 <p><strong>Where:</strong> University of British Columbia (see EventBrite pages for buildings and rooms).</p>
 <p><strong>When:</strong> October 18-19, 2012. We will start at 9:00 and end at 4:30 each day.</p>
@@ -64,5 +66,5 @@
 <li>Text editor: Create and save a file with some plain text in it.</li>
 </ul>
 <hr />
-{{eventbrite("3869257052", content.venue, content.date, "(for Python)")}}
-{{eventbrite("4253323806", content.venue, content.date, "(for R)")}}
+{{macros.eventbrite("3869257052", content.venue, content.date, "(for Python)")}}
+{{macros.eventbrite("4253323806", content.venue, content.date, "(for R)")}}

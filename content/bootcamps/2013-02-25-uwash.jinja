@@ -6,6 +6,8 @@
   "eventbrite_key": "4309568034"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p><strong>Where:</strong> University of Washington.</p>
 <p><strong>When:</strong> February 25-26, 2013. We will start at 9:00 and end at 4:30 each day.</p>
 {% include "bootcamp_what.html" %}
@@ -13,4 +15,4 @@
 {% include "bootcamp_requirements.html" %}
 {% include "bootcamp_content.html" %}
 {% include "bootcamp_contact.html" %}
-{{eventbrite(content.eventbrite_key, content.venue, content.date)}}
+{{macros.eventbrite(content.eventbrite_key, content.venue, content.date)}}

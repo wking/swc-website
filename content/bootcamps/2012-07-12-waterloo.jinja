@@ -6,6 +6,8 @@
   "eventbrite_key": "3558725243"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p>data1.txt</p>
 <pre>Date,Species,Count
 2012-07-01,squirrel,23
@@ -30,4 +32,4 @@
 {% include "bootcamp_requirements.html" %}
 {% include "bootcamp_content.html" %}
 {% include "bootcamp_contact.html" %}
-{{eventbrite(content.eventbrite_key, content.venue, content.date)}}
+{{macros.eventbrite(content.eventbrite_key, content.venue, content.date)}}

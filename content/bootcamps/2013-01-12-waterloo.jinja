@@ -6,6 +6,8 @@
   "eventbrite_key": "4455642948"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p><strong>Where:</strong> University of Waterloo, Engineering 6 building, room 4022 [<a href="https://uwaterloo.ca/map/">map</a>]</p>
 <p><strong>When:</strong> January 12-13, 2013. We will start at 9:00 and end at 4:30 each day.</p>
 {% include "bootcamp_what.html" %}
@@ -20,4 +22,4 @@
 <li>Scientific Python, manipulation of arrays, matrices, and plotting data</li>
 </ul>
 {% include "bootcamp_contact.html" %}
-{{eventbrite(content.eventbrite_key, content.venue, content.date)}}
+{{macros.eventbrite(content.eventbrite_key, content.venue, content.date)}}

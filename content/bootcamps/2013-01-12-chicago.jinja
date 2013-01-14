@@ -6,6 +6,8 @@
   "eventbrite_key": "4044017766"
 }
 ---
+{% import 'content_macros.html' as macros %}
+
 <p><strong>Where:</strong> University of Chicago. Kent Hall, Room 120.</p>
 <p><strong>When:</strong> January 12-13, 2013. We will start at 9:00 and end at 4:30 each day.</p>
 {% include "bootcamp_what.html" %}
@@ -13,4 +15,4 @@
 <p><strong>Requirements:</strong> Visit the <a href="http://swcarpentry.github.com/boot-camps/2013-01-12-chicago/">bootcamp web page</a> for installation instructions and schedule information.</p>
 {% include "bootcamp_content.html" %}
 {% include "bootcamp_contact.html" %}
-{{eventbrite(content.eventbrite_key, content.venue, content.date)}}
+{{macros.eventbrite(content.eventbrite_key, content.venue, content.date)}}
