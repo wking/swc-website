@@ -44,6 +44,10 @@ MARKUP = [
     'md',
     ]
 
+EXTRA_TEMPLATES_PATHS = [
+    'content/templates',
+    ]
+
 DIRECT_TEMPLATES = [
     'authors',
     'tags',
