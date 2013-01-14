@@ -1,6 +1,0 @@
-Post_Id: 4358
-Author: Greg Wilson
-Title: Accessible to All?
-Tags: opinion
-
-<p>I just posted an article on my personal blog about <a href="http://third-bit.com/blog/archives/4356.html">the (in)accessibility of online educational material</a> (including Software Carpentry's). As I said there, there aren't any easy answers, but if we do find funding to keep this project going, I'd like to find ways to make our content easier for <em>everyone</em> to use.</p>

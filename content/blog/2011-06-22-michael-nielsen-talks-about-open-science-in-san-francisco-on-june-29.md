@@ -1,7 +1,0 @@
-Post_Id: 4207
-Author: Greg Wilson
-Title: Michael Nielsen Talks About Open Science in San Francisco on June 29
-Tags: noticed
-
-<p>As per <a href="http://michaelnielsen.org/blog/public-talk-about-open-science-in-san-francisco/">his blog post</a>, the inimitable [1] Michael Nielsen will be talking about "Why the net doesn't work for science&mdash;and how to fix it" next Wednesday in San Francisco. It's sure to be both informative and enjoyable&mdash;hope you can make it.</p>
-<p>[1] Well, <em>you</em> try to imitate an Australian quantum physicist turned open science advocate...</p>

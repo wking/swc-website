@@ -1,6 +1,0 @@
-Post_Id: 470
-Author: Greg Wilson
-Title: Corrections Done
-Tags: lectures, versions/version-3
-
-<p>All the outstanding minor corrections to the Software Carpentry notes have now been made; there are still 21 diagrams outstanding, but they should be in by Sunday.  My thanks to everyone who provided feedback&mdash;especially <a href="http://www.ninjatactics.com">Adam Goucher</a> and his very sharp eyes.</p>

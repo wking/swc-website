@@ -1,7 +1,0 @@
-Post_Id: 3598
-Author: Greg Wilson
-Title: Your Favorite Running Examples?
-Tags: content
-
-<p>I've been fond of <a href="|filename|/4_0/invperc/index.html">invasion percolation</a> since I first encountered it: the problem is simple to state, but its implementation brings up quite a variety of useful ideas, from testing in the face of randomness, to associative data structures, to the limits of parallelism.  It's a good size, too: I can develop a first version in front of students in about 30 minutes, then branch off in various directions for almost as long as they'll listen to me.</p>
-<p>We now have three volunteers working on similar problems: phylogenetic tree reconstruction, a <a href="http://en.wikipedia.org/wiki/Bean_machine">Galton box</a> simulator, and an image processing widget that will find and label stars in photos of the night sky. Today's question is, what other small apps do you think would make good examples for this course? Candidates must be related to science in some way, and must be buildable in a couple of hundred lines of not-insanely-intricate code. (And of course, we'll award bonus marks to people who volunteer to <em>implement</em> their ideas too :-)</p>
